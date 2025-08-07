@@ -48,49 +48,7 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
 
 
 ****************************************************************************************************************
-来自贵州电信的酒店源(1.205.159.249:9999)共有40个频道：
-CCTV1-综合,http://1.205.159.249:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://1.205.159.249:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://1.205.159.249:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://1.205.159.249:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://1.205.159.249:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://1.205.159.249:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://1.205.159.249:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://1.205.159.249:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://1.205.159.249:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://1.205.159.249:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://1.205.159.249:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://1.205.159.249:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://1.205.159.249:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://1.205.159.249:9999/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视-1,http://1.205.159.249:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视-2,http://1.205.159.249:9999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视-4,http://1.205.159.249:9999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视-5,http://1.205.159.249:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-贵阳-1,http://1.205.159.249:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-来自贵州电信的酒店源(1.205.159.249:9999)共有40个频道：
-贵阳-2,http://1.205.159.249:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://1.205.159.249:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://1.205.159.249:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://1.205.159.249:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://1.205.159.249:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://1.205.159.249:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://1.205.159.249:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://1.205.159.249:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://1.205.159.249:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://1.205.159.249:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://1.205.159.249:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://1.205.159.249:9999/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://1.205.159.249:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://1.205.159.249:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://1.205.159.249:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://1.205.159.249:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://1.205.159.249:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://1.205.159.249:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://1.205.159.249:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-来自贵州电信的酒店源(1.205.159.249:9999)共有40个频道：
-金鹰卡通,http://1.205.159.249:9999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://1.205.159.249:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+
 *************************************************************************************************************
 来自山西电信的酒店源(110.178.211.107:9003)共有50个频道：
 CCTV1,http://110.178.211.107:9003/hls/1/index.m3u8
@@ -3071,6 +3029,7 @@ JUQ-014人生初次黑人解禁沉溺于黑人的人妻爱弓了,https://mplay.8
 JUQ-015天然HCUP纯朴人妻30岁松尾理惠唾液交融浓厚KISS三本番,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250415/MXOcJC0M/index.m3u8
 JUQ-016妻子妊娠中连手淫都被禁止的我和来到东京的义母数次留种SEX...木下凛凛子,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250412/Jy0FqkG1/index.m3u8
 JUQ-018永远不会结束中出轮奸的日子夏川海,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250417/tzxzRohr/index.m3u8
+
 
 
 
