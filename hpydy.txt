@@ -268,6 +268,7 @@ V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 意外收获2025HD中字动作片美国,https://cdn.yzzy29-play.com/20250806/516_f3f27a32/index.m3u8
 封神第二部：战火西岐HD国语动作片大陆,https://cdn.yzzy29-play.com/20250806/509_e2230b85/index.m3u8
 黑名单1993HD中字动作片美国,https://cdn.yzzy29-play.com/20250805/503_285e19f2/index.m3u8
+
 摩托车少年2004(HD中字),https://cdn.yzzy29-play.com/20250805/492_55a7cf9c/index.m3u8
 最后的快枪手2025(HD中字),https://cdn.yzzy29-play.com/20250805/496_b534ba68/index.m3u8
 天庭外传(HD国语)1997,https://cdn.yzzy29-play.com/20250727/429_75fc093c/index.m3u8
@@ -712,7 +713,7 @@ KA(HD中字),https://yzzy21.playback-speed.com/20250331/42334_d1e2d088/index.m3u
 巨猿大战机械猿：新秩序2024(HD中字),https://yzzy21.playback-speed.com/20241217/40634_fe533c10/index.m3u8
 紫茉莉2024(HD中字),https://yzzy21.playback-speed.com/20241216/40629_70fd9640/index.m3u8
 绣春刀：诛邪2024(HD国语),https://yzzy21.playback-speed.com/20241225/40757_abf192b5/index.m3u8
-2024/12/25
+
 惊爆摩天楼1996HD中字动作片美国,https://yzzy21.playback-speed.com/20241215/40589_3a485ab8/index.m3u8
 震撼擂台HD国语动作片大陆,https://yzzy21.playback-speed.com/20241223/40728_87662716/index.m3u8
 海岸线HD中字动作片韩国,https://svip.yyzy-play.vip/20241223/19803_6d97befd/index.m3u8
@@ -826,6 +827,231 @@ KA(HD中字),https://yzzy21.playback-speed.com/20250331/42334_d1e2d088/index.m3u
 大师2021HD中字动作片美国,https://yzzy21.playback-speed.com/20241029/39655_ec5dba57/index.m3u8
 绝地战警：生死与共HD中字动作片美国,https://svip.yyzy-play.vip/20240723/5245_a5b5d8a1/index.m3u8
 绝地战警：生死与共HD国语动作片美国,https://yzzy21.playback-speed.com/20241027/39626_cfc450c3/index.m3u8
+蒙古HD中字动作片,https://yzzy21.playback-speed.com/20241026/39611_31fcae16/index.m3u8
+彭德卡·阿旺：达拉·因德拉·加贾HD中字动作片马来西亚,https://yzzy21.playback-speed.com/20241026/39614_abdb0b5b/index.m3u8
+因卡比HD中字动作片,https://yzzy21.playback-speed.com/20241026/39621_87a53e45/index.m3u8
+黄飞鸿之铁血十三姨HD中字动作片大陆,https://yzzy21.playback-speed.com/20241025/39604_cbd66cf4/index.m3u8
+黑雀特工HD中字动作片英国,https://yzzy21.playback-speed.com/20241025/39593_adfd4af7/index.m3u8
+黑雀特工HD国语动作片英国,https://yzzy21.playback-speed.com/20241025/39592_3190e59c/index.m3u8
+恐攻密码战HD中字动作片美国,https://yzzy21.playback-speed.com/20241024/39576_b9eacf4b/index.m3u8
+嗜人之夜1HD中字动作片,https://yzzy21.playback-speed.com/20241024/39581_e20883a8/index.m3u8
+阴阳师2HD中字动作片日本,https://yzzy21.playback-speed.com/20241024/39585_6dab034a/index.m3u8
+美国正在下沉HD中字动作片美国,https://yzzy21.playback-speed.com/20241023/39557_7ded2013/index.m3u8
+盐湖计划HD国语动作片大陆,https://yzzy21.playback-speed.com/20241023/39557_7ded2013/index.m3u8
+时空救赎HD国语动作片大陆,https://yzzy21.playback-speed.com/20241022/39554_31114080/index.m3u8
+暴力苏醒HD中字动作片加拿大,https://yzzy21.playback-speed.com/20241022/39532_1b463c29/index.m3u8
+叛影浪客HD中字动作片,https://yzzy21.playback-speed.com/20241019/39483_884f43ab/index.m3u8
+入侵之战HD中字动作片,https://yzzy21.playback-speed.com/20241019/39484_1dd666fd/index.m3u8
+地狱男爵：歪曲人HD人工英语中字动作片美国,https://yzzy21.playback-speed.com/20241019/39477_e737cf86/index.m3u8
+狼战HD国语动作片大陆,https://yzzy21.playback-speed.com/20241019/39495_060f2eb8/index.m3u8
+面包师HD中字动作片加拿大,https://yzzy21.playback-speed.com/20241018/39453_01344b80/index.m3u8
+一个人的武林HD国语版动作片大陆,https://yzzy.play-cdn2.com/20220331/4834_1b78c028/index.m3u8
+一个人的武林HD粤语动作片大陆,https://yzzy21.playback-speed.com/20241018/39462_40f6d3d9/index.m3u8
+机密行动2024HD中字动作片,https://yzzy21.playback-speed.com/20241017/39449_0bd47f5a/index.m3u8
+保镖2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20241017/39445_22a70d08/index.m3u8
+夺命假期HD中字动作片美国,https://yzzy21.playback-speed.com/20241016/39435_b54ac47a/index.m3u8
+康达尔HD中字动作片印度,https://yzzy21.playback-speed.com/20241015/39416_ba435130/index.m3u8
+24小时袭击HD中字动作片印度,https://yzzy21.playback-speed.com/20241013/39380_31af75b7/index.m3u8
+多米尼克：凤凰崛起HD中字动作片美国,https://yzzy21.playback-speed.com/20241013/39381_d75bedc0/index.m3u8
+掩护2024HD中字动作片美国,https://yzzy21.playback-speed.com/20241013/39391_81b5c42e/index.m3u8
+勇士柏拉瓦传奇HD中字动作片印度,https://svip.high24-playback.com/20241012/7728_898e7e1c/index.m3u8
+乌鼠机密档案HD粤语中字动作片香港,https://yzzy21.playback-speed.com/20241012/39370_31748aa4/index.m3u8
+乌鼠机密档案HD国语无字动作片香港,https://yzzy21.playback-speed.com/20241012/39369_07a69d54/index.m3u8
+夺命深渊HD中字动作片美国,https://yzzy21.playback-speed.com/20241011/39343_187a1772/index.m3u8
+魁拔之大战元泱界HD国语动作片大陆,https://yzzy21.playback-speed.com/20241011/39348_bbd0ccff/index.m3u8
+如是我闻HD中字动作片印度,https://yzzy21.playback-speed.com/20241011/39351_c60c97ba/index.m3u8
+危险时刻2011HD中字动作片印度,https://yzzy21.playback-speed.com/20241010/39333_f7a30fde/index.m3u8
+凶铃刺客HD中字动作片美国,https://yzzy21.playback-speed.com/20241010/39335_e80adb81/index.m3u8
+龙骨遗冢HD国语动作片大陆,https://yzzy21.playback-speed.com/20241010/39316_d070c0b8/index.m3u8
+乌鸦魔地HD中字动作片加拿大,https://yzzy21.playback-speed.com/20241009/39286_2928e413/index.m3u8
+追龙ⅡHD国语动作片香港,https://yzzy.play-cdn17.com/20230721/11931_23cb4ac5/index.m3u8
+追龙ⅡHD粤语动作片香港,https://yzzy21.playback-speed.com/20241009/39295_010d4467/index.m3u8
+功夫厨神HD粤语动作片大陆,https://yzzy21.playback-speed.com/20241008/39267_4da92e7c/index.m3u8
+功夫厨神HD国语动作片大陆,https://yzzy21.playback-speed.com/20241008/39266_b90264c5/index.m3u8
+狂魔大报复HD中字动作片美国,https://yzzy21.playback-speed.com/20241008/39272_cb3ff0cf/index.m3u8
+狼嚎HD中字版动作片法国,https://yzzy.play-cdn6.com/20221016/20070_5599c88e/index.m3u8
+狼嚎HD国语动作片法国,https://yzzy21.playback-speed.com/20241008/39273_748d8381/index.m3u8
+潜伏娇娃HD中字动作片,https://yzzy21.playback-speed.com/20241006/39239_0121347d/index.m3u8
+杀手游戏HD中字动作片美国,https://yzzy21.playback-speed.com/20241006/39239_0121347d/index.m3u8
+谍影重重4HD中字版动作片美国,https://yzzy.play-cdn2.com/20220502/17728_58f48cba/index.m3u8
+谍影重重4HDHD国语动作片美国,https://yzzy21.playback-speed.com/20241006/39221_14d819b1/index.m3u8
+谍影重重3HD中字版动作片美国,https://yzzy.play-cdn2.com/20220429/16894_0a0b5e3d/index.m3u8
+谍影重重3HD国语动作片美国,https://yzzy21.playback-speed.com/20241006/39220_e9edd3c0/index.m3u8
+谍影重重2HD中字版动作片美国,https://yzzy.play-cdn2.com/20220428/16651_eaea78c5/index.m3u8
+谍影重重2HD国语动作片美国,https://yzzy21.playback-speed.com/20241006/39219_9361b8bd/index.m3u8
+谍影重重HD中字版动作片美国,https://yzzy.play-cdn3.com/20220505/16996_804783f2/index.m3u8
+谍影重重HD国语动作片美国,https://yzzy21.playback-speed.com/20241006/39218_3e008f85/index.m3u8
+混出头HD中字动作片,https://yzzy21.playback-speed.com/20241005/39187_1b210d6e/index.m3u8
+拉贾瓦利HD中字动作片马来西亚,https://yzzy21.playback-speed.com/20241005/39188_e8242b97/index.m3u8
+抢劫案HD中字动作片印度,https://yzzy21.playback-speed.com/20241005/39194_4fdf4fb1/index.m3u8
+史无前例HD中字动作片印度,https://yzzy21.playback-speed.com/20241005/39198_fe66ac92/index.m3u8
+伊斯基亚的卡西诺HD中字动作片美国,https://yzzy21.playback-speed.com/20241005/39208_9ca7e1a4/index.m3u8
+米克与诡计HD中字动作片美国,https://yzzy21.playback-speed.com/20241002/39145_0639b6d8/index.m3u8
+平凡英雄1990HD粤语中字动作片香港,https://yzzy21.playback-speed.com/20241002/39147_3a5cce4b/index.m3u8
+门前宝地HD国语动作片香港,https://yzzy21.playback-speed.com/20240930/39117_68bc6826/index.m3u8
+女特警之逆战HD中字动作片大陆,https://yzzy21.playback-speed.com/20241001/39132_0910933d/index.m3u8
+临时特工2002HD中字动作片美国,https://yzzy21.playback-speed.com/20240930/39114_ca397d86/index.m3u8
+红潮风暴HD中字动作片美国,https://yzzy.play-cdn6.com/20220721/5344_4cf5ed58/index.m3u8
+红潮风暴HD国语动作片美国,https://yzzy21.playback-speed.com/20240928/39079_df3dab5c/index.m3u8
+双狼HD中字动作片英国,https://yzzy21.playback-speed.com/20240928/39091_0f44926b/index.m3u8
+交付2011HD中字动作片美国,https://yzzy21.playback-speed.com/20240927/39048_497fc90d/index.m3u8
+曼谷危情：天堂地狱HD中字动作片泰国,https://yzzy21.playback-speed.com/20240927/39048_497fc90d/index.m3u8
+蔓延的山艾树HD中字动作片美国,https://yzzy21.playback-speed.com/20240927/39049_37ffdcf0/index.m3u8
+天下无贼HD粤语动作片大陆,https://yzzy.play-cdn17.com/20230724/12488_19566e8c/index.m3u8
+天下无贼HD国语动作片大陆,https://yzzy21.playback-speed.com/20240927/39060_e8ca647d/index.m3u8
+西贡1988HD中字动作片美国,https://yzzy21.playback-speed.com/20240926/39034_9d46df91/index.m3u8
+眼里总是你HD中字动作片美国,https://yzzy21.playback-speed.com/20240926/39035_cf832007/index.m3u8
+藏海花之雪夜凶灯HD中字动作片大陆,https://yzzy21.playback-speed.com/20240925/38991_553c5bff/index.m3u8
+赶尽杀绝2HD中字动作片,https://yzzy21.playback-speed.com/20240925/38997_b233ac00/index.m3u8
+义务警员2023HD中字动作片美国,https://yzzy21.playback-speed.com/20240925/39013_ca368cb5/index.m3u8
+私刑监狱HD中字动作片,https://yzzy21.playback-speed.com/20240925/39013_ca368cb5/index.m3u8
+冲动2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240921/38926_e321e438/index.m3u8
+棋盘斩HD中字动作片日本,https://yzzy21.playback-speed.com/20240921/38934_26f35b9f/index.m3u8
+逃出白垩纪HD中字动作片美国,https://yzzy.play-cdn14.com/20230407/17259_90d17263/index.m3u8
+逃出白垩纪HD国语动作片美国,https://yzzy21.playback-speed.com/20240920/38916_cff0ce03/index.m3u8
+投名状HD国语动作片大陆,https://yzzy.play-cdn13.com/20230128/9592_3d21d729/index.m3u8
+投名状HD粤语动作片大陆,https://yzzy21.playback-speed.com/20240920/38918_657f74d8/index.m3u8
+猩球崛起3：终极之战HD英语中字动作片美国,https://yzzy21.playback-speed.com/20240920/38921_52664031/index.m3u8
+猩球崛起3：终极之战HD国语中字动作片美国,https://yzzy21.playback-speed.com/20240920/38920_f2461c7e/index.m3u8
+英叔归来：囚灵HD国语动作片大陆,https://yzzy21.playback-speed.com/20240919/38911_c37f5a74/index.m3u8
+碟中谍7：致命清算（上）HD中字动作片美国,https://yzzy.play-cdn19.com/20230930/5435_6a0c8cf6/index.m3u8
+碟中谍7：致命清算（上）HD国语动作片美国,https://yzzy21.playback-speed.com/20240919/38900_7dd644aa/index.m3u8
+狱中龙HD国语动作片香港,https://yzzy.play-cdn17.com/20230730/13832_72cc5a14/index.m3u8
+狱中龙HD粤语动作片香港,https://yzzy21.playback-speed.com/20240919/38907_a5e49b09/index.m3u8
+半夜鬼上床HD中字动作片,https://yzzy21.playback-speed.com/20240917/38867_95923aea/index.m3u8
+喋血群英HD国语动作片大陆,https://yzzy21.playback-speed.com/20240917/38870_bf0243af/index.m3u8
+父女特工HD中字动作片,https://yzzy21.playback-speed.com/20240917/38872_c462e4e7/index.m3u8
+幽灵行动阿尔法HD中字动作片美国,https://svip.yyzy-play.vip/20240917/10967_cd8f5df8/index.m3u8
+默杀HD国语动作片大陆,https://yzzy21.playback-speed.com/20240916/38861_11139f6d/index.m3u8
+巴强的突袭HD中字动作片印度,https://yzzy21.playback-speed.com/20240914/38808_b1686c7b/index.m3u8
+丑人儿HD中字动作片美国,https://yzzy21.playback-speed.com/20240914/38811_5d6e6d72/index.m3u8
+黑带出勤中HD中字动作片韩国,https://yzzy21.playback-speed.com/20240914/38813_a7f3babb/index.m3u8
+尼达尔HD中字动作片印度,https://yzzy21.playback-speed.com/20240914/38819_98e212d7/index.m3u8
+杀手2008HD中字动作片印度,https://yzzy21.playback-speed.com/20240914/38823_c0de6b30/index.m3u8
+神农巨兽2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20240914/38826_b9926ddb/index.m3u8
+心结千千HD中字动作片印度,https://yzzy21.playback-speed.com/20240914/38831_c79a9b7c/index.m3u8
+追猎行动HD中字动作片,https://yzzy21.playback-speed.com/20240914/38835_48a36aca/index.m3u8
+长安秘闻录之聂隐娘HD国语动作片大陆,https://yzzy21.playback-speed.com/20240913/38807_956416c5/index.m3u8
+扎职3HD粤语动作片香港,https://yzzy21.playback-speed.com/20240913/38795_857b75ea/index.m3u8
+扎职3HD国语动作片香港,https://yzzy21.playback-speed.com/20240913/38793_82a0d6bc/index.m3u8
+功夫游戏HD中字动作片美国,https://yzzy21.playback-speed.com/20240912/38779_6073f6b8/index.m3u8
+孙悟空大闹狮驼岭HD国语动作片大陆,https://yzzy21.playback-speed.com/20240911/38770_9a7ef5a1/index.m3u8
+地狱之门的传说HD中字动作片美国,https://yzzy21.playback-speed.com/20240910/38740_111dfdb4/index.m3u8
+天启大爆炸HD国语动作片大陆,https://yzzy21.playback-speed.com/20240910/38757_14e36658/index.m3u8
+圣战骑士HD中字动作片美国,https://yzzy21.playback-speed.com/20240909/38734_a86da62e/index.m3u8
+伸冤人3HD中字动作片美国,https://yzzy.play-cdn19.com/20231003/5592_df6eb3f7/index.m3u8
+伸冤人3HD国语动作片美国,https://yzzy21.playback-speed.com/20240908/38721_622c4e0c/index.m3u8
+沙漠大冒险2023HD中字动作片日本,https://yzzy21.playback-speed.com/20240908/38720_a0ec8751/index.m3u8
+青丘缘起HD国语动作片大陆,https://yzzy21.playback-speed.com/20240908/38719_4211b1bd/index.m3u8
+忍者大扑杀HD中字动作片美国,https://yzzy21.playback-speed.com/20240908/38706_1a77553e/index.m3u8
+马来西亚海岸警卫队：赫朗行HD中字动作片,https://yzzy21.playback-speed.com/20240908/38704_6d006830/index.m3u8
+2012：超时空危机HD中字动作片美国,https://yzzy21.playback-speed.com/20240908/38700_ca35b23d/index.m3u8
+特殊替身HD国语动作片大陆,https://yzzy21.playback-speed.com/20240908/38699_53da22ae/index.m3u8
+叛军岭HD中字动作片美国,https://yzzy21.playback-speed.com/20240907/38688_c756e0f4/index.m3u8
+双重智脑HD中字动作片印度,https://yzzy21.playback-speed.com/20240907/38690_7d96ba79/index.m3u8
+三人行2016HD国语版动作片大陆,https://yzzy.play-cdn6.com/20221012/19424_852b74a6/index.m3u8
+三人行2016HD粤语版动作片大陆,https://yzzy21.playback-speed.com/20240906/38661_3c55c1aa/index.m3u8
+终极绞人环HD中字动作片美国,https://yzzy21.playback-speed.com/20240906/38673_94ea0543/index.m3u8
+剑鬼HD中字动作片日本,https://yzzy21.playback-speed.com/20240905/38630_84ce74f5/index.m3u8
+摩天威龙HD中字动作片美国,https://yzzy21.playback-speed.com/20240905/38634_72a347df/index.m3u8
+蝎子夫人HD中字动作片美国,https://yzzy21.playback-speed.com/20240905/38638_1d3e50a4/index.m3u8
+巴黎深渊HD中字动作片法国,https://svip.high25-playback.com/20240904/4749_a2a389f9/index.m3u8
+极海迷窟HD国语动作片大陆,https://yzzy21.playback-speed.com/20240901/38560_3544aa1d/index.m3u8
+警长：廉政缉毒HD中字动作片马来西亚,https://yzzy21.playback-speed.com/20240901/38550_194522f7/index.m3u8
+信徒XHD中字动作片美国,https://yzzy21.playback-speed.com/20240831/38540_34b7f1d0/index.m3u8
+狩猎游戏HD中字动作片美国,https://yzzy21.playback-speed.com/20240831/38540_34b7f1d0/index.m3u8
+赎金1996HD中字动作片美国,https://yzzy21.playback-speed.com/20240830/38507_fc266a62/index.m3u8
+战士帮1979HD中字动作片美国,https://yzzy21.playback-speed.com/20240830/38512_f3cd4edb/index.m3u8
+异人之下2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20240830/38492_56d33ef3/index.m3u8
+哥斯拉的反击HD中字动作片日本,https://yzzy21.playback-speed.com/20240829/38476_8efdd60e/index.m3u8
+一箭穿心HD国语动作片大陆,https://yzzy21.playback-speed.com/20240829/38485_e71f6864/index.m3u8
+威奇托HD中字动作片美国,https://yzzy21.playback-speed.com/20240829/38483_87d1b7e5/index.m3u8
+无敌大猩猩HD中字动作片美国,https://svip.high24-playback.com/20240829/4535_02461a13/index.m3u8
+黑狱喋血HD中字动作片美国,https://yzzy21.playback-speed.com/20240828/38449_2a6094d9/index.m3u8
+辛巴达历险HD中字动作片美国,https://yzzy21.playback-speed.com/20240828/38459_bfcd226a/index.m3u8
+怒火12小时HD国语动作片大陆,https://yzzy21.playback-speed.com/20240828/38464_3bc49e3f/index.m3u8
+逃脱2024韩国版HD中字动作片韩国,https://yzzy21.playback-speed.com/20240826/38427_36b5c007/index.m3u8
+黑暗正义联盟HD中字动作片美国,https://yzzy21.playback-speed.com/20240827/38433_40edff8f/index.m3u8
+急先锋飞车闯七关HD中字动作片英国,https://yzzy21.playback-speed.com/20240827/38436_45d9df00/index.m3u8
+死亡竞赛HD中字动作片英国,https://yzzy21.playback-speed.com/20240827/38441_98917bb8/index.m3u8
+逃脱2024韩版HD中字动作片韩国,https://yzzy21.playback-speed.com/20240826/38427_36b5c007/index.m3u8
+草原上的奇迹HD中字动作片美国,https://yzzy21.playback-speed.com/20240825/38414_68107eb0/index.m3u8
+我爱机器人HD中字动作片美国,https://yzzy21.playback-speed.com/20240825/38424_e3413874/index.m3u8
+拉扬HD中字动作片印度,https://yzzy21.playback-speed.com/20240824/38401_68346de4/index.m3u8
+马扎伊·皮迪卡塔·马尼坦HD中字动作片印度,https://yzzy21.playback-speed.com/20240824/38402_ba161b07/index.m3u8
+喋血双雄2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240824/38387_00b37713/index.m3u8
+打黑HD中字动作片大陆,https://yzzy21.playback-speed.com/20240822/38358_624f08a5/index.m3u8
+少年黄飞鸿之铁马骝HD国语动作片香港,https://yzzy21.playback-speed.com/20240822/38352_537602ab/index.m3u8
+少年黄飞鸿之铁马骝HD粤语动作片香港,https://yzzy21.playback-speed.com/20240822/38353_8584e525/index.m3u8
+清理人员HD中字动作片美国,https://yzzy21.playback-speed.com/20240821/38345_3b4c92cd/index.m3u8
+钻石女王HD中字动作片英国,https://yzzy21.playback-speed.com/20240820/38312_e11773e3/index.m3u8
+赤胆屠龙2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240820/38313_42daa41b/index.m3u8
+格罗姆少校：游戏HD中字动作片俄罗斯,https://yzzy21.playback-speed.com/20240820/38317_e27a0652/index.m3u8
+双龙大火拼HD中字动作片美国,https://yzzy21.playback-speed.com/20240820/38327_72ef923e/index.m3u8
+阴阳之间HD中字动作片美国,https://yzzy21.playback-speed.com/20240820/38332_af6c9ffa/index.m3u8
+同盟2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240816/38269_ef21b40b/index.m3u8
+枪手2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240816/38265_0d33bd00/index.m3u8
+疯狂大赛车HD中字动作片美国,https://yzzy21.playback-speed.com/20240816/38259_0c270c88/index.m3u8
+好时光，坏时光2013HD中字动作片印度,https://yzzy21.playback-speed.com/20240816/38249_fe939651/index.m3u8
+死亡大乐透HD中字动作片美国,https://yzzy21.playback-speed.com/20240815/38245_3fb2341a/index.m3u8
+迈阿密超级警探1985HD中字动作片,https://yzzy21.playback-speed.com/20240815/38239_a96d0af1/index.m3u8
+重见天日2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20240815/38230_6de29e8f/index.m3u8
+假面骑士歌查德×假面骑士极狐HD中字动作片日本,https://svip.yyzy-play.vip/20240815/6845_933d6360/index.m3u8
+堕落天使2：和平卫士HD中字动作片美国,https://yzzy21.playback-speed.com/20240813/38193_6333b0d0/index.m3u8
+复仇长官HD中字动作片美国,https://svip.high24-playback.com/20240810/2573_4d9ce155/index.m3u8
+印度英雄2HD中字动作片印度,https://yzzy21.playback-speed.com/20240810/38112_53f93766/index.m3u8
+涡轮增压HD中字动作片印度,https://yzzy21.playback-speed.com/20240810/38110_a1bfcde0/index.m3u8
+传说的拳头HD中字动作片韩国,https://yzzy21.playback-speed.com/20240809/38102_eabaf93b/index.m3u8
+魅杀2HD中文动作片印度,https://svip.high24-playback.com/20240809/2543_9b3b15c7/index.m3u8
+海关战线HD国语动作片香港,https://yzzy21.playback-speed.com/20240809/38098_e066c594/index.m3u8
+海关战线HD粤语动作片香港,https://yzzy21.playback-speed.com/20240809/38099_65b82ad1/index.m3u8
+跨界任务HD中字动作片韩国,https://svip.yyzy-play.vip/20240809/6205_aa2a4292/index.m3u8
+赊刀人HD國語动作片大陆,https://yzzy21.playback-speed.com/20240809/38090_8996fe2e/index.m3u8
+快人一步HD中字动作片美国,https://yzzy21.playback-speed.com/20240808/38084_422ae321/index.m3u8
+热血杀手HD国语动作片大陆,https://yzzy21.playback-speed.com/20240808/38082_b749a381/index.m3u8
+暗战缉杀HD中字动作片,https://yzzy21.playback-speed.com/20240808/38073_8218de5d/index.m3u8
+绝命狙击2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20240807/38063_dcb0f4ec/index.m3u8
+比佛利山超级警探4HD中字动作片美国,https://yzzy21.playback-speed.com/20240806/38037_f98e88aa/index.m3u8
+死亡之手2024HD中字动作片美国,https://yzzy21.playback-speed.com/20240805/38024_45ae77e8/index.m3u8
+沙漠袭击HD中字动作片,https://yzzy21.playback-speed.com/20240804/38018_28b0e68e/index.m3u8
+金刚归来2024HD国语动作片大陆,https://yzzy21.playback-speed.com/20240804/38017_f12565c9/index.m3u8
+奇趣马戏团：吸血鬼的助手HD中字动作片美国,https://yzzy21.playback-speed.com/20240804/38016_46c03c5f/index.m3u8
+蛇咒HD国语动作片香港,https://yzzy21.playback-speed.com/20240804/38015_7614c675/index.m3u8
+飞女芝芝HD国语动作片香港,https://yzzy21.playback-speed.com/20240804/38014_fd229a13/index.m3u8
+兄弟2024HD中字动作片印度,https://yzzy21.playback-speed.com/20240804/38011_fe8f9c2a/index.m3u8
+三个火枪手：米莱迪HD中字动作片法国,https://yzzy21.playback-speed.com/20240803/38004_baddb974/index.m3u8
+哪吒·魔童归来HD国语动作片大陆,https://yzzy21.playback-speed.com/20240803/37998_3c550d37/index.m3u8
+猩球崛起：新世界HD中字动作片美国,https://svip.yyzy-play.vip/20240520/2309_3ad4bbad/index.m3u8
+猩球崛起：新世界HD国语动作片美国,https://yzzy21.playback-speed.com/20240802/37986_1667e4d0/index.m3u8
+彷徨之刃2024HD中字动作片大陆,https://svip.yyzy-play.vip/20240610/3206_7baf98b0/index.m3u8
+救夫越狱记HD中字动作片印度,https://yzzy21.playback-speed.com/20240801/37958_8d0cf8f9/index.m3u8
+殊死一搏HD国语动作片大陆,https://yzzy21.playback-speed.com/20240731/37923_e1c15890/index.m3u8
+小李飞刀1979HD动作片台湾,https://svip.high24-playback.com/20240728/1884_986d4aa8/index.m3u8
+龙拳小子2HD中字动作片大陆,https://yzzy21.playback-speed.com/20240728/37759_4995857d/index.m3u8
+东哥闯东北HD中字动作片大陆,https://yzzy21.playback-speed.com/20240725/37675_bdbd40b1/index.m3u8
+寻龙迷棺HD中字动作片大陆,https://svip.high24-playback.com/20240723/1576_f7a733d4/index.m3u8
+我的间谍2：永恒之城HD中字动作片美国,https://yzzy21.playback-speed.com/20240718/37379_7523889c/index.m3u8
+三日玩命作HD中字动作片法国,https://yzzy21.playback-speed.com/20240718/37370_7ece6300/index.m3u8
+猎心之迷毒之罪HD中字动作片大陆,https://svip.high25-playback.com/20240717/666_dbbae5dc/index.m3u8
+龙石密码HD中字动作片大陆,https://svip.high24-playback.com/20240704/580_0432e1ce/index.m3u8
+硬汉狙击HD中字动作片大陆,https://svip.high24-playback.com/20240702/513_6d6e2576/index.m3u8
+犯罪都市4HD人工中文动作片韩国,https://svip.yyzy-play.vip/20240701/4372_9052ee7b/index.m3u8
+扫黑·决不放弃HD中字动作片大陆,https://yzzy21.playback-speed.com/20240630/36737_bf7f2c4d/index.m3u8
+浴血狙击2024HD中字动作片大陆,https://svip.high24-playback.com/20240629/267_0ac58f5c/index.m3u8
+食人鱼2024HD中字动作片大陆,https://yzzy21.playback-speed.com/20240627/36587_20a61086/index.m3u8
+狙击精英之纳米危机HD中字动作片大陆,https://svip.high24-playback.com/20240626/80_2253e81a/index.m3u8
+黑暗森林HD中字动作片大陆,https://svip.yyzy-play.vip/20240621/3837_592893e2/index.m3u8
+九龙城寨之围城HD国语动作片香港,https://svip.yyzy-play.vip/20240621/3795_dafe0bdd/index.m3u8
+九龙城寨之围城HD粤语动作片香港,https://svip.yyzy-play.vip/20240621/3794_edbaf04a/index.m3u8
+笑太极HD中字动作片香港,https://svip.high23-playback.com/20240616/14572_7e6fa3e0/index.m3u8
+维和防暴队HD中字动作片大陆,https://yzzy21.playback-speed.com/20240613/36229_dd79a019/index.m3u8
+快餐车HD国语动作片香港,https://yzzy.play-cdn17.com/20230818/16398_b8f534bd/index.m3u8
+快餐车HD粤语动作片香港,https://svip.high1-playback.com/20240609/50957_f1d9b8fc/index.m3u8
+铁血女枪手HD中字动作片大陆,https://svip.high1-playback.com/20240609/50891_eb21befa/index.m3u8
+丛林追击HD中字动作片大陆,https://svip.high1-playback.com/20240606/50590_721fad64/index.m3u8
+制暴2024HD中字动作片大陆,https://yzzy21.playback-speed.com/20240606/35932_0c16dc98/index.m3u8
+飞鹰计划HD国语动作片香港,https://yzzy.play-cdn4.com/20220606/17347_4b20a66b/index.m3u8
+飞鹰计划HD粤语动作片香港,https://svip.high1-playback.com/20240602/50327_0f689b76/index.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🎬⒉喜剧片,#genre#
@@ -3353,6 +3579,7 @@ STARS-655 终于和女友初体验！结果被隔壁大姐姐抢先夺走处男�
 STARS-666 回敬奉仕 口水满溢的全身舔舐 千鹤惠麻,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250417/EhLdecii/index.m3u8
 STARS-669 女友不在 和中学时代的前女友10年后的再会 和那时比不了的G CUP,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250409/iHGoqIRM/index.m3u8
 STARS-676 绝伦人妻的禁断不伦【不只是我哦 这座公寓的人妻们都是这样】本庄铃,https://mplay.8dy.one/url-https://cdn2.sybf3.com/20230616/YQEibUVM/index.m3u8
+
 
 
 
