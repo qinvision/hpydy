@@ -3595,11 +3595,11 @@ BLOODY ESCAPE -地狱的逃生作战2024(HD中字),https://vvip.high26-playback.
 酒帘(1976)HD国语版,https://yzzy.play-cdn7.com/20220701/2072_520b9abd/index.m3u8
 五毒天罗(1976)HD国语版,https://yzzy.play-cdn4.com/20220608/17597_8f090e21/index.m3u8
 伴游小姐(1976)
-沙胆英(1976)
-老夫子(1976)
-油鬼子(1976)
+沙胆英(1976),https://bfikuncdn.com/20240424/BMvIfqch/index.m3u8
+老夫子(1976),https://vip.ffzy-play7.com/20221208/8630_a4ec088c/index.m3u8
+油鬼子(1976),https://vip.ffzy-play7.com/20230225/16221_fe7c3359/index.m3u8
 蔡李佛小子(1976)HD国语版,https://yzzy.play-cdn4.com/20220612/19498_c1151886/index.m3u8
-无法无天飞车党(1976)
+无法无天飞车党(1976),https://v10.gggread.com/wjv10/202404/19/iaV19pVQQT82/video/index.m3u8
 香港奇案之二：凶杀(1976)
 鬼才伦文叙(1976)
 蛇王子(1976)
@@ -3615,7 +3615,7 @@ BLOODY ESCAPE -地狱的逃生作战2024(HD中字),https://vvip.high26-playback.
 八道楼子(1976)HD国语版,https://yzzy.play-cdn4.com/20220609/18151_45bc0e02/index.m3u8
 洞房艳史(1976)
 流星蝴蝶剑(1976)HD国语版,https://yzzy.play-cdn4.com/20220608/17524_0ba346c4/index.m3u8
-索命(1976)
+索命(1976),https://vip.ffzy-play6.com/20221207/10637_68ecd7f0/index.m3u8
 名女人奇异录(1976)
 瀛台泣血(1976)
 毒后秘史 (1976)
@@ -3773,6 +3773,7 @@ CRI环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM轻松调频,https://sk.cri.cn/915.m3u8
 HITFM劲曲调频,https://sk.cri.cn/887.m3u8
+
 
 
 
