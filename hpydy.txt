@@ -7,7 +7,7 @@ https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/
 5日	恐怖片	15日	恐怖片	25日	恐怖片
 6日	剧情片	16日	剧情片	26日	剧情片
 7日	战争片	17日	战争片	27日	战争片
-8日	动画片	18日L	动画片	28日	动画片
+8日	动画片	18日  动画片	28日	动画片
 9日	倫理片	19日	倫理片	29日	倫理片
 10日18+	    20日	18+	    30日	18+
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
@@ -3863,6 +3863,7 @@ CRI环球资讯广播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界华声(粤客闽潮方言广播海峡飞虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM轻松调频,https://sk.cri.cn/915.m3u8
 HITFM劲曲调频,https://sk.cri.cn/887.m3u8
+
 
 
 
