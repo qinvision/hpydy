@@ -289,450 +289,446 @@ V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
 意外收穫2025HD中字動作片美國,https://cdn.yzzy29-play.com/20250806/516_f3f27a32/index.m3u8
 封神第二部：戰火西岐HD國語動作片大陸,https://cdn.yzzy29-play.com/20250806/509_e2230b85/index.m3u8
 黑名單1993HD中字動作片美國,https://cdn.yzzy29-play.com/20250805/503_285e19f2/index.m3u8
-摩托車少年2004(HD中字),https://cdn.yzzy29-play.com/20250805/492_55a7cf9c/index.m3u8
-最後的快槍手2025(HD中字),https://cdn.yzzy29-play.com/20250805/496_b534ba68/index.m3u8
-天庭外傳(HD國語)1997,https://cdn.yzzy29-play.com/20250727/429_75fc093c/index.m3u8
-神探飛機頭3(HD中字)2009,https://cdn.yzzy29-play.com/20250727/428_8d7d8ee0/index.m3u8
-太空殺路(HD中字)2025,https://cdn.yzzy29-play.com/20250727/423_faa9afea/index.m3u8
-浪客劍心：傳說的完結篇(HD中字)2014,https://vvip.high26-playback.com/20250726/16593_f195a554/index.m3u8
-浪客劍心最終章：人誅篇(HD中字版)2021,https://vvip.high26-playback.com/20250726/16594_f5b1211c/index.m3u8
-虎膽龍威3HD國語動作片美國,https://cdn.yzzy28-play.com/20250724/9550_32b9e74c/index.m3u8
-虎膽龍威3HD中字動作片美國,https://cdn.yzzy28-play.com/20250724/9551_67ad4113/index.m3u8
-虎膽龍威2(HD國語),https://cdn.yzzy28-play.com/20250724/9548_f812291e/index.m3u8
-虎膽龍威2(HD中字),https://cdn.yzzy28-play.com/20250724/9549_6a21bd02/index.m3u8
-虎膽龍威(HD國語),https://cdn.yzzy28-play.com/20250724/9546_4845b84d/index.m3u8
-虎膽龍威(HD中字),https://cdn.yzzy28-play.com/20250724/9547_5f25fbe1/index.m3u8
-制暴：無限殺機(HD中字),https://yzzy21.playback-speed.com/20250404/42408_4208c962/index.m3u8
-制暴：無限殺機(HD國語),https://yzzy21.playback-speed.com/20250531/43119_4077e51c/index.m3u8
-制暴：無限殺機(HD英語中字),https://cdn.yzzy28-play.com/20250723/9380_96a0cc2f/index.m3u8
-星際寶貝史迪奇(HD國語),https://cdn.yzzy29-play.com/20250722/389_c86a7ee3/index.m3u8
-星際寶貝史迪奇(HD粵語),https://cdn.yzzy29-play.com/20250722/391_5a4b25aa/index.m3u8
-星際寶貝史迪奇(HD中字),https://cdn.yzzy29-play.com/20250722/390_a01a0380/index.m3u8
-告密者(HD中字),https://cdn.yzzy29-play.com/20250721/387_8efb100a/index.m3u8
-雙面伴娘(HD中字),https://cdn.yzzy29-play.com/20250721/381_00ec53c4/index.m3u8
-俱毗羅(HD中字),https://cdn.yzzy29-play.com/20250721/380_bca82e41/index.m3u8
-鐵血金盾(HD國語),https://cdn.yzzy29-play.com/20250720/376_142949df/index.m3u8
-生死有命(HD中字),https://cdn.yzzy29-play.com/20250718/371_41f1f191/index.m3u8
-航班蛛患(HD中字),https://cdn.yzzy29-play.com/20250718/359_c058f544/index.m3u8
-超異能特攻(HD中字),https://cdn.yzzy29-play.com/20250718/358_aa942ab2/index.m3u8
-芭蕾女刺客(HD中字),https://cdn.yzzy29-play.com/20250718/357_fb7b9ffa/index.m3u8
-紅絲行動(HD中字),https://cdn.yzzy29-play.com/20250716/347_c5ff2543/index.m3u8
-幽靈殺手(HD中字),https://cdn.yzzy29-play.com/20250716/353_138bb069/index.m3u8
-白雪公主之死(HD中字),https://cdn.yzzy29-play.com/20250716/343_3ad7c2eb/index.m3u8
-決戰豪門2(HD中字),https://cdn.yzzy29-play.com/20250715/335_f9b902fc/index.m3u8
-超人2025(HD中字),https://cdn.yzzy29-play.com/20250713/327_b83aac23/index.m3u8
-方世玉之決戰水怪(HD國語),https://cdn.yzzy27-play.com/20250714/10040_f250daff/index.m3u8
-凹凸雙雄(HD中字),https://cdn.yzzy29-play.com/20250712/315_ad13a2a0/index.m3u8
-赴湯蹈火2025(HD國語),https://cdn.yzzy29-play.com/20250711/301_34ed066d/index.m3u8
-無盡的戰鬥(HD中字),https://cdn.yzzy29-play.com/20250712/306_b2eb7349/index.m3u8
-重裝上陣3(HD中字),https://cdn.yzzy29-play.com/20250712/310_06eb61b8/index.m3u8
-獵狐·行動(HD國語),https://cdn.yzzy29-play.com/20250712/312_950a4152/index.m3u8
-浪客劍心：京都大火篇(HD中字),https://cdn.yzzy28-play.com/20250711/7847_d55cbf21/index.m3u8
-三惡人2024(HD中字),https://cdn.yzzy29-play.com/20250710/288_48aedb88/index.m3u8
-冰路營救2(HD中字),https://cdn.yzzy29-play.com/20250706/258_502e4a16/index.m3u8
-插翅難逃2025(HD國語),https://cdn.yzzy29-play.com/20250705/254_c52f1bd6/index.m3u8
-鎮上的新暴徒(HD中字),https://cdn.yzzy29-play.com/20250705/253_c24cd76e/index.m3u8
-真人快打：啟程(HD中字),https://cdn.yzzy29-play.com/20250705/252_03c6b069/index.m3u8
-謝謝你愛我(HD國語),https://cdn.yzzy29-play.com/20250704/248_621bf66d/index.m3u8
-龍捲風2025(HD中字),https://cdn.yzzy29-play.com/20250703/240_335f5352/index.m3u8
-原子風暴(HD中字),https://cdn.yzzy29-play.com/20250703/235_577ef115/index.m3u8
-永生守衛2(HD中字),https://cdn.yzzy29-play.com/20250703/234_289dff07/index.m3u8
-再見阿郎1999(DVD國語),https://cdn.yzzy28-play.com/20250704/7301_9c779f56/index.m3u8
-再見阿郎2000(DVD粵語),https://cdn.yzzy28-play.com/20250704/7302_d9437926/index.m3u8
-天若有情1990(HD國語),https://cdn.yzzy28-play.com/20250703/7135_604f2c31/index.m3u8
-國家元首(HD中字),https://cdn.yzzy29-play.com/20250703/228_74db120f/index.m3u8
-傑森醫生(HD中字),https://cdn.yzzy29-play.com/20250702/227_705f2172/index.m3u8
-冰路營救：復仇(HD中字),https://cdn.yzzy29-play.com/20250702/214_ca46c1b9/index.m3u8
-正義過客(HD中字),https://cdn.yzzy29-play.com/20250701/211_eb163727/index.m3u8
-李畋傳奇(HD國語),https://cdn.yzzy29-play.com/20250701/206_7eabe3a1/index.m3u8
-雷霆特攻隊*(HD中字),https://cdn.yzzy29-play.com/20250701/205_eae27d77/index.m3u8
-F1：狂飆飛車TS(TS中字),https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/index.m3u8
-蜀山：新蜀山劍俠(HD粵語版),https://yzzy.play-cdn3.com/20220513/21711_906bbe95/index.m3u8
-蜀山：新蜀山劍俠(HD國語),https://cdn.yzzy28-play.com/20250630/6893_05d0abb9/index.m3u8
-脫離罪惡(HD中字),https://cdn.yzzy29-play.com/20250629/182_4c5bde74/index.m3u8
-黑色城市(HD粵語),https://cdn.yzzy29-play.com/20250628/179_8f53295a/index.m3u8
-襲擊2(HD中字$https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
-魔王再世(HD中字),https://cdn.yzzy29-play.com/20250625/160_b73ce398/index.m3u8
-拳霸天下(HD中字),https://cdn.yzzy29-play.com/20250623/149_f2217062/index.m3u8
-腓尼基計劃(HD中字),https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
-瘋狂大逃亡(HD國語),https://cdn.yzzy29-play.com/20250623/146_a5e00132/index.m3u8
-魚雷(HD中字),https://cdn.yzzy29-play.com/20250623/144_0a09c884/index.m3u8
-K-POP：獵魔女團(HD中字),https://cdn.yzzy29-play.com/20250621/132_65ded535/index.m3u8
-哥斯拉VS碧奧蘭蒂(HD中字),https://cdn.yzzy29-play.com/20250621/122_a0a080f4/index.m3u8
-功夫熊貓之蓋世五俠的秘密(HD中字),https://cdn.yzzy29-play.com/20250621/124_c8ffe9a5/index.m3u8
-室町無賴(HD中字),https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
-夜行駭傳(HD中字),https://cdn.yzzy29-play.com/20250621/130_9b861925/index.m3u8
-燭陰古城(HD國語),https://cdn.yzzy29-play.com/20250619/111_698d51a1/index.m3u8
-最後的小屋(HD中字),https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
-絕對自治權(HD中字),https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
-午時三刻(HD國語),https://cdn.yzzy29-play.com/20250616/91_54229abf/index.m3u8
-六天2025(HD中字),https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
-黑超警探(HD中字),https://cdn.yzzy29-play.com/20250615/65_fc490ca4/index.m3u8
-迪亞波羅的復仇(HD中字),https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
-冬蔭功(HD國語),https://vvip.high26-playback.com/20250614/10858_c05c0c0a/index.m3u8
-冬蔭功(HD粵語),https://vvip.high26-playback.com/20250614/10859_7a43ed4e/index.m3u8
-冬蔭功(HD中字),https://vvip.high26-playback.com/20250614/10860_8b48a574/index.m3u8
-情色貨運(HD中字),https://cdn.yzzy29-play.com/20250613/56_9f61408e/index.m3u8
-漢諾瓦街(HD中字),https://cdn.yzzy29-play.com/20250613/53_d82c8d16/index.m3u8
-希巴，寶貝(HD中字),https://cdn.yzzy29-play.com/20250612/48_642e92ef/index.m3u8
-破果(HD中字),https://cdn.yzzy29-play.com/20250611/35_1c383cd3/index.m3u8
-堅守陣地(HD中字),https://cdn.yzzy29-play.com/20250611/34_e369853d/index.m3u8
-奪命煞星寶萊塢之國王歸來(HD中字),https://cdn.yzzy29-play.com/20250611/31_c16a5320/index.m3u8
-楚幽秘境(HD國語),https://cdn.yzzy29-play.com/20250611/26_4e732ced/index.m3u8
-007之金手指(HD中字),https://vvip.high26-playback.com/20250612/10729_f9b9f0fe/index.m3u8
-牙狼之介2：地獄斬(HD中字),https://cdn.yzzy29-play.com/20250611/25_8e296a06/index.m3u8
-美國那條黑街(HD中字),https://cdn.yzzy29-play.com/20250611/23_37693cfc/index.m3u8
-掃毒風暴2025：電影版(HD國語),https://cdn.yzzy29-play.com/20250610/19_1f0e3dad/index.m3u8
-諜網追兇(HD中字),https://cdn.yzzy29-play.com/20250610/18_6f4922f4/index.m3u8
-海島歷險記(HD中字),https://cdn.yzzy29-play.com/20250608/5_e4da3b7f/index.m3u8
-鐵血戰士：殺戮之王(HD中字),https://cdn.yzzy29-play.com/20250608/4_a87ff679/index.m3u8
-一個字頭的誕生(DVD粵語),https://vvip.high26-playback.com/20250609/10540_9dd16e04/index.m3u8
-無味神探(HD國語),https://vvip.high26-playback.com/20250609/10539_f85bd553/index.m3u8
-雲夢奇緣(HD國語),https://yzzy21.playback-speed.com/20250607/43184_d43ec839/index.m3u8
-救贖一擊(HD中字),https://yzzy21.playback-speed.com/20250606/43169_b1f68a18/index.m3u8
-哈萊姆地獄(HD中字),https://yzzy21.playback-speed.com/20250607/43173_db6812fe/index.m3u8
-火雷彈(HD中字),https://yzzy21.playback-speed.com/20250607/43174_46ab5450/index.m3u8
-突擊中央銀行(HD中字),https://yzzy21.playback-speed.com/20250607/43176_f070a8b1/index.m3u8
-無敵賈特(HD中字),https://yzzy21.playback-speed.com/20250607/43178_7c677ff4/index.m3u8
-會計刺客2(HD中字),https://yzzy21.playback-speed.com/20250605/43164_62be10fc/index.m3u8
-忍無可忍2025(HD國語),https://yzzy21.playback-speed.com/20250606/43167_ba66d1b1/index.m3u8
-殺人遊戲1978(HD中字),https://yzzy21.playback-speed.com/20250604/43155_eb429c58/index.m3u8
-美國心黑道情(HD中字),https://yzzy21.playback-speed.com/20250604/43152_23f6fd07/index.m3u8
-誓約歸隱(HD中字),https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
-謀殺干預組3(HD中字),https://yzzy21.playback-speed.com/20250601/43137_6ce8b21f/index.m3u8
-少年拳王(HD國語),https://yzzy21.playback-speed.com/20250601/43135_0b672b01/index.m3u8
-神聖之夜：惡魔獵人(HD中字),https://yzzy21.playback-speed.com/20250530/43110_598ab90b/index.m3u8
-凱恩的憤怒(HD中字),https://yzzy21.playback-speed.com/20250525/43086_e600ec23/index.m3u8
-鬥士2025(HD中字),https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/index.m3u8
-超級強盜(HD中字),https://yzzy21.playback-speed.com/20250522/43050_2f68c2e0/index.m3u8
-獵毒風暴(HD國語),https://yzzy21.playback-speed.com/20250522/43047_8895f980/index.m3u8
-驚爆死亡線(HD中字),https://yzzy21.playback-speed.com/20250521/43031_8cfebc3e/index.m3u8
-復仇逮捕令(HD中字),https://yzzy21.playback-speed.com/20250521/43030_2ae099e7/index.m3u8
-海神號歷險記2(HD中字),https://yzzy21.playback-speed.com/20250517/43004_b025ccf8/index.m3u8
-藍魔(HD中字),https://yzzy21.playback-speed.com/20250517/43003_9133d4cf/index.m3u8
-動作巨星2(HD中字),https://yzzy21.playback-speed.com/20250517/42999_f9e2270a/index.m3u8
-超乎常人2025(HD中字),https://yzzy21.playback-speed.com/20250517/43005_42cd6fb5/index.m3u8
-痞子大逃亡(HD中字),https://yzzy21.playback-speed.com/20250519/43018_9ec04091/index.m3u8
-阿炯：維賈揚蒂之子(HD中字),https://yzzy21.playback-speed.com/20250520/43026_89f5d93b/index.m3u8
-雪中血刀行(HD國語),https://yzzy21.playback-speed.com/20250520/43029_3b48bc98/index.m3u8
-蟻型危機(HD國語),https://cdn.yzzy28-play.com/20250518/261_b1a59b31/index.m3u8
-快車道2009(HD中字),https://yzzy21.playback-speed.com/20250517/42996_3102051b/index.m3u8
-鐵馭神兵(HD中字),https://yzzy21.playback-speed.com/20250512/42930_6e4d9cf7/index.m3u8
-暗戰2(HD國語版),https://yzzy.play-cdn17.com/20230730/13841_453d5eff/index.m3u8
-暗戰2(HD粵語),https://vvip.high26-playback.com/20250510/6550_034e2db7/index.m3u8
-暗戰1999(HD國語版),https://yzzy.play-cdn17.com/20230730/13842_0b634bc9/index.m3u8
-暗戰1999(HD粵語),https://vvip.high26-playback.com/20250510/6549_6828f61c/index.m3u8
-罪證子彈3(HD中字),https://yzzy21.playback-speed.com/20250509/42900_b3851315/index.m3u8
-蛇女2025(HD國語),https://yzzy21.playback-speed.com/20250509/42910_c7c6102d/index.m3u8
-肇事逃逸2025(HD中字),https://yzzy21.playback-speed.com/20250507/42889_67e19867/index.m3u8
-蛇島求生(HD國語),https://yzzy21.playback-speed.com/20250507/42885_e1f13985/index.m3u8
-身份(HD中字),https://yzzy21.playback-speed.com/20250505/42820_5b88f3e8/index.m3u8
-怒火營救(HD國語),https://yzzy21.playback-speed.com/20250504/42814_7557aef4/index.m3u8
-域外營救(HD中字),https://yzzy21.playback-speed.com/20250504/42807_2e61866e/index.m3u8
-清算日2025(HD中字),https://yzzy21.playback-speed.com/20250503/42792_16ac54f2/index.m3u8
-命懸一槍(HD普通話),https://yzzy21.playback-speed.com/20250503/42786_9d120ada/index.m3u8
-命懸一槍(HD川話版),https://yzzy21.playback-speed.com/20250503/42785_617c81b4/index.m3u8
-錄刀人(HD國語),https://yzzy21.playback-speed.com/20250502/42783_da6d1799/index.m3u8
-角頭：大橋頭(HD國語),https://yzzy21.playback-speed.com/20250502/42782_a85e8c31/index.m3u8
-暗湧2025(HD國語),https://yzzy21.playback-speed.com/20250502/42779_04ecc73f/index.m3u8
-俠膽醫心之暗潮洶湧(HD國語),https://yzzy21.playback-speed.com/20250501/42768_5d977a1a/index.m3u8
-火豹屠城(HD中字),https://yzzy21.playback-speed.com/20250430/42748_ab2956d3/index.m3u8
-終極武裝(HD中字),https://yzzy21.playback-speed.com/20250429/42747_3fe4e041/index.m3u8
-盲殺(HD國語),https://yzzy21.playback-speed.com/20250429/42744_fc7bb39f/index.m3u8
-CIA:美國的同志(HD中字),https://yzzy21.playback-speed.com/20250428/42743_b3d88358/index.m3u8
-淹沒2000(HD中字),https://yzzy21.playback-speed.com/20250428/42738_5b97f793/index.m3u8
-獵人克萊文(HD中字),https://yzzy21.playback-speed.com/20241220/40688_68457bcc/index.m3u8
-獵人克萊文(HD國語),https://yzzy21.playback-speed.com/20250427/42734_9bcdf1b6/index.m3u8
-神秘海域(HD中字),https://yzzy.play-cdn2.com/20220423/15584_7c6f1ae4/index.m3u8
-神秘海域(HD國語),https://yzzy21.playback-speed.com/20250427/42730_6cf4ffe5/index.m3u8
-珠寶大盜：神偷出馬(HD中字),https://yzzy21.playback-speed.com/20250427/42719_d188831a/index.m3u8
-辣妹刺客2(HD中字),https://yzzy21.playback-speed.com/20250427/42713_b26dda52/index.m3u8
-卡洛斯1991(HD中字),https://yzzy21.playback-speed.com/20250426/42708_195e1777/index.m3u8
-白象2011(HD中字),https://yzzy21.playback-speed.com/20250426/42701_3a1f9e55/index.m3u8
-鬥破蒼穹4：逃亡(HD國語),https://yzzy21.playback-speed.com/20250426/42712_c1d5dce0/index.m3u8
-毒劫2025(HD中字),https://yzzy21.playback-speed.com/20250426/42699_c6e98355/index.m3u8
-新幹線驚爆倒數(HD日語中字),https://yzzy21.playback-speed.com/20250424/42695_62dc8116/index.m3u8
-新幹線驚爆倒數(HD英語中字),https://yzzy21.playback-speed.com/20250424/42694_699e1538/index.m3u8
-遊戲2011(HD中字),https://yzzy21.playback-speed.com/20250424/42687_f0d92a0e/index.m3u8
-機械戰警2014(HD中字),https://yzzy.play-cdn3.com/20220510/19003_7e85c87c/index.m3u8
-機械戰警2014(HD國語),https://yzzy21.playback-speed.com/20250424/42685_d2108470/index.m3u8
-白象2022(HD中字版),https://yzzy.play-cdn4.com/20220616/21184_032a4126/index.m3u8
-地鐵驚魂2009(HD中字),https://vvip.high26-playback.com/20250425/5288_8859a81b/index.m3u8
-裡見八犬傳1983(HD中字),https://yzzy21.playback-speed.com/20250423/42667_661a3e79/index.m3u8
-七小福(HD國語),https://svip.high25-playback.com/20250421/24518_26dafde7/index.m3u8
-七小福(HD粵語),https://svip.high25-playback.com/20250421/24519_e2918803/index.m3u8
-斷了氣(HD中字),https://yzzy21.playback-speed.com/20250421/42635_f9879a7e/index.m3u8
-荒漠干戈(HD中字),https://yzzy21.playback-speed.com/20250420/42629_d4c30826/index.m3u8
-最高密令(HD中字),https://yzzy21.playback-speed.com/20250420/42628_5b58d44d/index.m3u8
-百家拳之董海川(HD國語),https://vvip.high26-playback.com/20250420/4852_5cf68969/index.m3u8
-海宮豔盜(HD國語),https://svip.high25-playback.com/20250418/24160_d61bc8a7/index.m3u8
-警匪生死劫(HD中字),https://yzzy21.playback-speed.com/20250418/42608_7dccffdd/index.m3u8
-不赦任務(HD中字),https://yzzy21.playback-speed.com/20250418/42607_590823fe/index.m3u8
-土忍記：風之天狗(HD英字),https://vvip.high26-playback.com/20250417/4562_4454c95c/index.m3u8
-我是拳手2025(HD國語),https://yzzy21.playback-speed.com/20250416/42602_64771502/index.m3u8
-鐵鷹戰士4(HD中字),https://yzzy21.playback-speed.com/20250414/42574_71305367/index.m3u8
-別碰髒錢(HD中字),https://yzzy21.playback-speed.com/20250414/42552_81f95c01/index.m3u8
-江湖通緝令(HD國語),https://yzzy21.playback-speed.com/20250413/42547_ed4c89fe/index.m3u8
-幼獅(HD中字),https://yzzy21.playback-speed.com/20250412/42544_ea96b0bf/index.m3u8
-槍手2025(HD中字),https://yzzy21.playback-speed.com/20250412/42537_e3fd458d/index.m3u8
-披薩超人(HD中字),https://yzzy21.playback-speed.com/20250412/42536_323799e6/index.m3u8
-魯邦三世：一美元戰爭(HD中字),https://yzzy21.playback-speed.com/20250412/42532_36aaee65/index.m3u8
-G20峰會(HD中字),https://yzzy21.playback-speed.com/20250412/42523_75c0a8c5/index.m3u8
-逃亡2015(HD中字),https://yzzy21.playback-speed.com/20250412/42521_5d99fbba/index.m3u8
-殺手：代號47(HD中字),https://yzzy.play-cdn7.com/20220804/10121_39e07f71/index.m3u8
-殺手：代號47(HD國語),https://yzzy21.playback-speed.com/20250412/42520_be26eb6d/index.m3u8
-風語者(HD中字),https://yzzy.play-cdn2.com/20220502/17732_7e56d8a6/index.m3u8
-風語者(HD國語),https://yzzy21.playback-speed.com/20250410/42501_fc45efdc/index.m3u8
-二流警探(HD中字),https://yzzy21.playback-speed.com/20250410/42503_6b0b2193/index.m3u8
-無痛凱恩(HD中字),https://yzzy21.playback-speed.com/20250411/42509_83bf29a1/index.m3u8
-射鵰英雄傳：俠之大者2025(HD國語),https://yzzy21.playback-speed.com/20250411/42510_e89ef5ea/index.m3u8
-繡衣使·西漢迷案2025(HD國語),https://yzzy21.playback-speed.com/20250410/42496_6618db57/index.m3u8
-絕密跟蹤2013(HD國語),https://yzzy21.playback-speed.com/20250409/42494_77bb4ff2/index.m3u8
-絕密跟蹤2013(HD中字),https://yzzy21.playback-speed.com/20250409/42493_29f7ac3a/index.m3u8
-K檔案(HD中字),https://yzzy21.playback-speed.com/20250409/42491_06f2bb50/index.m3u8
-霹靂玫瑰(HD國語),https://yzzy21.playback-speed.com/20250409/42481_ae5a4889/index.m3u8
-升級追緝(HD中字),https://yzzy21.playback-speed.com/20250408/42475_fee1ab5a/index.m3u8
-暗潮洶湧之驚魂12小時(HD國語),https://yzzy21.playback-speed.com/20250408/42466_2afdde29/index.m3u8
-在失落之地(HD中字),https://yzzy21.playback-speed.com/20250407/42464_f4812a8b/index.m3u8
-生死兩兄弟(HD中字),https://yzzy21.playback-speed.com/20250407/42460_3de2f5d6/index.m3u8
-歐布奧特曼：請借給我紐帶的力量！(HD中字),https://yzzy.play-cdn14.com/20230220/10358_8f7a8ca9/index.m3u8
-歐布奧特曼：請借給我紐帶的力量！(HD國語),https://yzzy21.playback-speed.com/20250406/42448_bec6ae95/index.m3u8
-尖峰對決(HD國語),https://yzzy21.playback-speed.com/20250406/42441_f2cb5353/index.m3u8
-浴血蛟龍(HD中字),https://vvip.high26-playback.com/20250405/3372_37d0b499/index.m3u8
-觀山太保(HD國語),https://svip.high24-playback.com/20250404/23434_46a36a35/index.m3u8
-決戰洛城(HD中字),https://yzzy21.playback-speed.com/20250403/42368_14a2750f/index.m3u8
-在劫難逃2011(HD中字),https://svip.high25-playback.com/20250402/22796_6475c86e/index.m3u8
-黑木城盜金案(HD國語),https://yzzy21.playback-speed.com/20250402/42361_d5d28c6f/index.m3u8
-鐵掌旋風腿(HD中字),https://yzzy21.playback-speed.com/20250401/42347_b063dc53/index.m3u8
-地獄佳人(HD中字),https://yzzy21.playback-speed.com/20250331/42339_bc72024b/index.m3u8
-KA(HD中字),https://yzzy21.playback-speed.com/20250331/42334_d1e2d088/index.m3u8
-安魂曲2001(HD中字),https://yzzy21.playback-speed.com/20250331/42329_3042ec85/index.m3u8
-搶劫佩爾哈姆123號線(HD中字),https://yzzy21.playback-speed.com/20250331/42326_3b156fcf/index.m3u8
-黑獄風雲2(HD中字),https://vvip.high26-playback.com/20250331/2896_07d0be03/index.m3u8
-魔鬼戰警1991(HD中字),https://yzzy21.playback-speed.com/20250330/42311_21b8036b/index.m3u8
-刺蝟索尼克3(HD中字),https://yzzy21.playback-speed.com/20250122/41207_2d040e45/index.m3u8
-刺蝟索尼克4(HD國語),https://yzzy21.playback-speed.com/20250330/42308_092b5c94/index.m3u8
-德瓦2025(HD中字),https://yzzy21.playback-speed.com/20250329/42298_fedde469/index.m3u8
-劫車王(HD中字),https://yzzy21.playback-speed.com/20250329/42297_eab23813/index.m3u8
-神之一手：鬼手篇(HD中字),https://yzzy21.playback-speed.com/20250329/42288_08315efa/index.m3u8
-白色垃圾(HD中字),https://yzzy21.playback-speed.com/20250329/42286_2b44b266/index.m3u8
-荒誕神話(HD中字),https://yzzy21.playback-speed.com/20250326/42247_d2cc0972/index.m3u8
-十萬火急1996(HD中字),https://yzzy21.playback-speed.com/20250326/42240_213275c5/index.m3u8
-風都偵探劇場版：假面騎士顱骨的肖像(HD中字)2024,https://yzzy21.playback-speed.com/20250326/42239_9e250aad/index.m3u8
-萬靈(HD中字)2023,https://yzzy21.playback-speed.com/20250326/42235_864af7da/index.m3u8
-印度狂戰士蘇亞(HD中字)2018,https://yzzy21.playback-speed.com/20250326/42229_8733dc8e/index.m3u8
-彪悍戰將(HD中字)1996,https://yzzy21.playback-speed.com/20250326/42224_0df79d5f/index.m3u8
-塞雅(HD中字)1998,https://yzzy21.playback-speed.com/20250326/42223_b5e461cf/index.m3u8
-超速殺陣(HD中字)1995,https://yzzy21.playback-speed.com/20250326/42222_bf6a5c6e/index.m3u8
-同窗(HD中字)2013,https://yzzy21.playback-speed.com/20250324/42198_bbc247a5/index.m3u8
-明日，戰爭爆發時(HD中字)2010,https://yzzy21.playback-speed.com/20250324/42200_c0208586/index.m3u8
-白蛇傳說2011(HD國語)2011,https://yzzy21.playback-speed.com/20250324/42204_79123446/index.m3u8
-白蛇傳說2012(HD粵語)2011,https://yzzy21.playback-speed.com/20250324/42203_01c9c8d3/index.m3u8
-決戰紫禁之巔(HD國語)2000,https://yzzy.play-cdn13.com/20230413/25829_ef3df351/index.m3u8
-決戰紫禁之巔(HD粵語)2000,https://yzzy21.playback-speed.com/20250324/42184_ba45605d/index.m3u8
-白雪公主與七武士(HD中字)2024,https://yzzy21.playback-speed.com/20250324/42179_78978fe8/index.m3u8
-全面追捕令(HD中字)1976,https://yzzy21.playback-speed.com/20250324/42165_322eb22f/index.m3u8
-罪惡清除工(HD中字)2025,https://yzzy21.playback-speed.com/20250322/42161_1209baf9/index.m3u8
-武替道(HD粵語)2024,https://yzzy21.playback-speed.com/20250323/42164_12d71e09/index.m3u8
-武替道(HD國語)2024,https://yzzy21.playback-speed.com/20250323/42163_9864d4a8/index.m3u8
-七號禁毒組(HD中字)2012,https://yzzy21.playback-speed.com/20250322/42146_0def9ec9/index.m3u8
-西遊降魔篇之快活城(HD國語)2025,https://yzzy21.playback-speed.com/20250322/42143_3410dc03/index.m3u8
-進擊的巨人總集篇最後的進擊(HD中字)2024,https://yzzy21.playback-speed.com/20250322/42140_ac46d5aa/index.m3u8
-獵殺鏢靶2001(HD中字)2001,https://yzzy21.playback-speed.com/20250320/42093_aeac918f/index.m3u8
-因果報應(HD中字)2024,https://yzzy21.playback-speed.com/20240815/38228_4254d04c/index.m3u8
-因果報應(HD國語)2024,https://yzzy21.playback-speed.com/20250320/42091_ccc5f37b/index.m3u8
-忍者蝙蝠俠大戰極道聯盟(HD中字)2025,https://yzzy21.playback-speed.com/20250320/42108_b4d73137/index.m3u8
-速度與激情7(HD中字),https://yzzy.play-cdn17.com/20230724/12456_499857b7/index.m3u8
-速度與激情7(HD國語),https://yzzy21.playback-speed.com/20250320/42090_04ac4332/index.m3u8
-300勇士：帝國崛起(HD中字),https://yzzy.play-cdn3.com/20220510/18925_e0ff85be/index.m3u8
-300勇士：帝國崛起(HD粵語),https://yzzy21.playback-speed.com/20250319/42088_ed06a6b5/index.m3u8
-宗教與黑道(HD中字)2024,https://yzzy21.playback-speed.com/20250318/42081_e6129453/index.m3u8
-恐怖籠罩城市(HD中字)1975,https://yzzy21.playback-speed.com/20250318/42068_c04bcff7/index.m3u8
-豪勇七蛟龍(HD中字)2016,https://yzzy21.playback-speed.com/20250318/42067_99e4a80c/index.m3u8
-紅一縱隊(HD中字)1980,https://yzzy21.playback-speed.com/20250317/42041_10774347/index.m3u8
-唐山大兄(HD國語)1971,https://yzzy.play-cdn4.com/20220608/17543_290a6e50/index.m3u8
-唐山大兄(HD粵語)1971,https://yzzy21.playback-speed.com/20250317/42042_893eb069/index.m3u8
-野獸之死(HD中字)1980,https://yzzy21.playback-speed.com/20250317/42046_31c2a40d/index.m3u8
-重振雄風(HD中字)2008,https://yzzy21.playback-speed.com/20250315/42004_e5ca3129/index.m3u8
-金菩薩之謎(HD中字)1986,https://yzzy21.playback-speed.com/20250315/41996_416a0ffd/index.m3u8
-馬可波羅之百眼(HD中字)2015,https://yzzy21.playback-speed.com/20250315/41990_c474ac4d/index.m3u8
-超人：毀滅日(HD中字)2007,https://yzzy21.playback-speed.com/20250314/41971_caf65549/index.m3u8
-靜默地帶(HD中字)2025,https://yzzy21.playback-speed.com/20250314/41976_d5647bd3/index.m3u8
-狂暴2：資本的懲罰(HD中字)2014,https://svip.yyzy-play.vip/20250316/29083_5f738cd1/index.m3u8
-套現2：大賭客(HD中字)2025,https://yzzy21.playback-speed.com/20250314/41962_62398d24/index.m3u8
-衛斯理傳奇(HD國語)1987,https://yzzy.play-cdn3.com/20220517/24282_fd1623da/index.m3u8
-衛斯理傳奇(HD粵語)1987,https://yzzy21.playback-speed.com/20250313/41941_d382eb70/index.m3u8
-深海狂鯊(HD中字)1999,https://yzzy.play-cdn2.com/20220405/7650_8cc3751c/index.m3u8
-深海狂鯊(HD國語)1999,https://yzzy21.playback-speed.com/20250313/41942_5cdb5cd4/index.m3u8
-蘇基(HD中字)2025,https://yzzy21.playback-speed.com/20250313/41945_01d72924/index.m3u8
-法特赫(HD中字)2025,https://yzzy21.playback-speed.com/20250313/41953_28fc6826/index.m3u8
-鯊魚驅魔人2：不潔水域(HD中字)2023,https://yzzy21.playback-speed.com/20250312/41928_588c38b9/index.m3u8
-雅各布·泰勒(HD中字)2024,https://yzzy21.playback-speed.com/20250312/41932_28ec73f7/index.m3u8
-刀鋒戰士2(HD中字)2002,https://yzzy21.playback-speed.com/20250312/41938_0d6ac01e/index.m3u8
-刀鋒戰士2(HD國語)2002,https://yzzy21.playback-speed.com/20250312/41937_b632e716/index.m3u8
-街頭女霸王(HD中字)1981,https://yzzy21.playback-speed.com/20250311/41914_29596eb7/index.m3u8
-天空部隊(HD中字)2025,https://yzzy21.playback-speed.com/20250310/41904_3b8341c5/index.m3u8
-太陽之子(HD國語)1990,https://yzzy21.playback-speed.com/20250310/41906_5f0b38f5/index.m3u8
-獵血行動(HD中字)2024,https://yzzy21.playback-speed.com/20250310/41907_f2131a34/index.m3u8
-王者無敵(HD中字)1980,https://yzzy21.playback-speed.com/20250310/41897_31aa1b4f/index.m3u8
-252生存者(HD中字)2008,https://yzzy21.playback-speed.com/20250308/41867_eb47b326/index.m3u8
-赤羽骨子的親衛隊(HD中字)2024,https://yzzy21.playback-speed.com/20250308/41865_59c3d067/index.m3u8
-多羅羅(HD中字)2007,https://yzzy21.playback-speed.com/20250306/41844_762ae7ea/index.m3u8
-火星幽靈(HD中字)2001,https://yzzy21.playback-speed.com/20250306/41848_e0da3c00/index.m3u8
-絕命北極(HD中字)2001,https://yzzy21.playback-speed.com/20250307/41858_72ce881b/index.m3u8
-空中劫持(HD中字)1996,https://yzzy21.playback-speed.com/20250307/41859_1bccffce/index.m3u8
-九州千秋令(HD國語)2025,https://yzzy21.playback-speed.com/20250307/41862_6d79297b/index.m3u8
-堅毅奇兵(HD中字)2025,https://yzzy21.playback-speed.com/20250306/41843_5370da43/index.m3u8
-威廉·退爾(HD中字)2024,https://yzzy21.playback-speed.com/20250305/41829_e612c5a1/index.m3u8
-大漠孤俠(HD國語)2025,https://yzzy21.playback-speed.com/20250305/41839_d1864d23/index.m3u8
-十一人的賊軍(HD中字)2024,https://yzzy21.playback-speed.com/20250304/41826_49311c5a/index.m3u8
-沙海狂鯊(HD中字)2012(HD中字)$,https://yzzy21.playback-speed.com/20250303/41811_b59c10b3/index.m3u8
-冷錢包(HD中字)2024,https://yzzy21.playback-speed.com/20250303/41814_5d625d45/index.m3u8
-飛速追殺(HD中字)2025,https://yzzy21.playback-speed.com/20250303/41815_178076f4/index.m3u8
-峨眉功夫(HD國語)2025,https://yzzy21.playback-speed.com/20250303/41817_01dba2de/index.m3u8
-刺客公會(HD中字)2024,https://yzzy21.playback-speed.com/20250302/41802_ac8f31bb/index.m3u8
-角鬥士2(HD中字)|(HD國語)2024,https://yzzy21.playback-speed.com/20241224/40737_fa53a154/index.m3u8
-角鬥士2(HD中字)|(HD國語)2024,https://yzzy21.playback-speed.com/20250302/41797_d835ef7b/index.m3u8
-瀚海神龍(HD國語)2025,https://yzzy21.playback-speed.com/20250301/41791_d2b831db/index.m3u8
-蒼月(HD國語)2025,https://yzzy21.playback-speed.com/20250301/41789_2750a677/index.m3u8
-家族命運之戰(HD中字)2024,https://yzzy21.playback-speed.com/20250301/41788_dcc4f5d4/index.m3u8
-欺負(HD中字)2007,https://yzzy21.playback-speed.com/20250301/41787_c2e4df7a/index.m3u8
-殺出銀河系(HD中字)1982,https://yzzy21.playback-speed.com/20250301/41785_74cb62f8/index.m3u8
-鬼城殺(HD中字)2025,https://yzzy21.playback-speed.com/20250301/41784_2b18ff4b/index.m3u8
-殺手保鏢(HD中字)2002,https://yzzy21.playback-speed.com/20250228/41773_5f8537ea/index.m3u8
-痙攣(HD中字)1974,https://yzzy21.playback-speed.com/20250227/41762_08720487/index.m3u8
-蝴蝶之吻(HD中字)2006,https://yzzy21.playback-speed.com/20250227/41758_0021bbfa/index.m3u8
-刑房(HD中字)2007,https://yzzy21.playback-speed.com/20250227/41754_9b9488cd/index.m3u8
-壞孩子下地獄2(HD中字)2017,https://yzzy21.playback-speed.com/20250227/41750_951b2fe9/index.m3u8
-御用牙/鬼之半藏，小判的去向(HD中字)1974,https://yzzy21.playback-speed.com/20250225/41739_3c53a0ce/index.m3u8
-超級豪華(HD中字)2019,https://yzzy21.playback-speed.com/20250225/41733_2366fbaf/index.m3u8
-威震八方3(HD中字)2007,https://yzzy21.playback-speed.com/20250225/41730_4db53cc0/index.m3u8
-前任殺神(HD中字)2025,https://yzzy21.playback-speed.com/20250225/41729_2aa5ede3/index.m3u8
-生死排爆(HD國語)2025,https://yzzy21.playback-speed.com/20250225/41725_b2061e13/index.m3u8
-江湖(HD國語)2004,https://svip.high25-playback.com/20250225/20596_121736b9/index.m3u8
-世界大戰：輻射(HD中字)2025,https://yzzy21.playback-speed.com/20250224/41718_7c827f63/index.m3u8
-歸來的玩命警探(HD中字)2024,https://yzzy21.playback-speed.com/20250224/41716_24939fa2/index.m3u8
-虛擬英雄(HD中字)2013,https://yzzy21.playback-speed.com/20250223/41709_1279e830/index.m3u8
-斷點(HD中字)2009,https://yzzy21.playback-speed.com/20250223/41706_23132911/index.m3u8
-亡命之徒(HD中字)2025,https://yzzy21.playback-speed.com/20250222/41698_bccdc47f/index.m3u8
-逆途(HD中字)2024,https://yzzy21.playback-speed.com/20250222/41693_17efd1b3/index.m3u8
-特工同盟(HD中字)2024,https://yzzy21.playback-speed.com/20250222/41692_f1593bc5/index.m3u8
-將死(HD中字)2024,https://yzzy21.playback-speed.com/20250222/41682_11c74556/index.m3u8
-天馬星空(HD國語)2025,https://yzzy21.playback-speed.com/20250222/41685_adbd1b59/index.m3u8
-猛虎3(HD中字)2023,https://yzzy21.playback-speed.com/20250220/41670_8d18bb80/index.m3u8
-奇門機關卷(HD國語)2025,https://yzzy21.playback-speed.com/20250221/41672_0427e4c8/index.m3u8
-蜜糖(HD中字)1974,https://yzzy21.playback-speed.com/20250220/41651_40f29018/index.m3u8
-展昭·探案(HD國語)2025,https://yzzy21.playback-speed.com/20250220/41659_57aeea61/index.m3u8
-特羅馬之戰(HD中字)1988,https://yzzy21.playback-speed.com/20250218/41629_3a7857a3/index.m3u8
-特警榮耀(HD國語)2025,https://yzzy21.playback-speed.com/20250218/41621_9227f09a/index.m3u8
-康斯坦丁(HD中字)2005,https://yzzy21.playback-speed.com/20250218/41612_bb0cec6b/index.m3u8
-峽谷2025(HD中字),https://yzzy21.playback-speed.com/20250215/41573_46581845/index.m3u8
-插翅難飛2025(HD中字),https://yzzy21.playback-speed.com/20250215/41574_a860a1a7/index.m3u8
-創傷2017(HD中字),https://yzzy21.playback-speed.com/20250215/41581_84a40022/index.m3u8
-颶風奇劫2018(HD中字),https://yzzy.play-cdn2.com/20220326/2115_aee03e89/index.m3u8
-颶風奇劫2018(HD國語),https://yzzy21.playback-speed.com/20250214/41564_e299779f/index.m3u8
-超級颶風2024(HD中字),https://yzzy21.playback-speed.com/20250214/41568_f73d6a8c/index.m3u8
-諜徒迷局2025(HD國語),https://yzzy21.playback-speed.com/20250214/41572_aa087b92/index.m3u8
-赤裸復仇1985(HD中字),https://yzzy21.playback-speed.com/20250213/41552_20e085e9/index.m3u8
-天虎突擊隊2025(HD國語),https://yzzy21.playback-speed.com/20250213/41560_f50bba86/index.m3u8
-畢加索機關1988(HD中字),https://yzzy21.playback-speed.com/20250212/41539_5cd9555b/index.m3u8
-蛇蠍美人心1993(HD中字),https://yzzy21.playback-speed.com/20250212/41536_0f44ea3a/index.m3u8
-執法女先鋒21994(HD中字),https://yzzy21.playback-speed.com/20250212/41534_b04c9da9/index.m3u8
-青蛇緣起2025(HD國語),https://yzzy21.playback-speed.com/20250212/41540_af5341aa/index.m3u8
-大官小官2024(HD中字),https://svip.high24-playback.com/20250211/18426_18763821/index.m3u8
-古惑仔3之隻手遮天1996(HD國語版),https://yzzy.play-cdn17.com/20230820/16595_19ad0c55/index.m3u8
-古惑仔3之隻手遮天1996(HD粵語),https://svip.high25-playback.com/20250211/19486_5af80c90/index.m3u8
-古惑仔2之猛龍過江1996(HD國語),https://svip.high1-playback.com/20231002/1590_b4c75b5f/index.m3u8
-古惑仔2之猛龍過江1996(HD粵語),https://svip.yyzy-play.vip/20250211/23250_826d9d4a/index.m3u8
-古惑仔之人在江湖1996(HD國語),https://svip.high1-playback.com/20231002/1587_193a7d9b/index.m3u8
-古惑仔之人在江湖1996(HD粵語),https://svip.yyzy-play.vip/20250211/23249_1dff005c/index.m3u8
-血腥瑪羅琳2002(HD中字),https://yzzy21.playback-speed.com/20250210/41517_b198a7eb/index.m3u8
-引以為戒22024(HD中字),https://yzzy21.playback-speed.com/20250210/41514_22c648c4/index.m3u8
-雲杜娘1984(HD中字),https://yzzy21.playback-speed.com/20250210/41509_90a1dc3d/index.m3u8
-改日再戰2025(HD中字),https://yzzy21.playback-speed.com/20250209/41495_95e51df0/index.m3u8
-規則改變者2025(HD中字),https://yzzy21.playback-speed.com/20250208/41475_5d6bc435/index.m3u8
-幽靈警官2024(HD中字),https://yzzy21.playback-speed.com/20250207/41455_4f77bf1b/index.m3u8
-塞古羅港使命2025(HD中字),https://yzzy21.playback-speed.com/20250206/41429_593df022/index.m3u8
-真假學園0木更津亂鬥篇2015(HD中字),https://svip.yyzy-play.vip/20250206/22737_f68ff090/index.m3u8
-黑手黨戰爭2024(HD中字),https://yzzy21.playback-speed.com/20250204/41399_6dc4cc90/index.m3u8
-剃光頭2010(HD中字),https://yzzy21.playback-speed.com/20250204/41391_59002e2c/index.m3u8
-老男孩2013(HD中字),https://svip.high24-playback.com/20250202/17477_4d074bcf/index.m3u8
-家園2024(HD中字),https://yzzy21.playback-speed.com/20250201/41357_cf96d755/index.m3u8
-諜與蝶2025(HD國語),https://yzzy21.playback-speed.com/20250201/41359_69c4664c/index.m3u8
-無間獵冰2025(HD國語),https://yzzy21.playback-speed.com/20250201/41360_7e022cff/index.m3u8
-追龍番外篇之廉政大風暴2025(HD國語),https://yzzy21.playback-speed.com/20250131/41344_ba05920e/index.m3u8
-封神第二部：戰火西岐2025(TS國語),https://yzzy21.playback-speed.com/20250130/41323_559eaec3/index.m3u8
-斷毒2025(HD國語),https://yzzy21.playback-speed.com/20250130/41322_4fec9138/index.m3u8
-大奉打更人之世間無我這般人2025(HD國語),https://yzzy21.playback-speed.com/20250129/41311_72e78399/index.m3u8
-木乃伊狂鯊2024(HD中字),https://yzzy21.playback-speed.com/20250128/41305_68b53bc3/index.m3u8
-為了皇帝2014(HD中字),https://yzzy21.playback-speed.com/20250128/41286_cd606d18/index.m3u8
-笑傲江湖2025(HD國語),https://yzzy21.playback-speed.com/20250128/41290_ccea048a/index.m3u8
-笑傲江湖2025(HD粵語),https://yzzy21.playback-speed.com/20250128/41289_e5c6cce8/index.m3u8
-邪惡的剖析2015(HD中字),https://yzzy21.playback-speed.com/20250127/41271_370de574/index.m3u8
-黑白潛行22025(HD粵語),https://yzzy21.playback-speed.com/20250125/41247_fb471117/index.m3u8
-黑白潛行22025(HD國語),https://yzzy21.playback-speed.com/20250125/41246_aeb457e6/index.m3u8
-星際迷航：31區2025(HD中字),https://yzzy21.playback-speed.com/20250124/41235_76e57955/index.m3u8
-御用牙1972(HD中字),https://yzzy21.playback-speed.com/20250125/41241_54ed529f/index.m3u8
-殘陽獵殺2024(HD中字),https://yzzy21.playback-speed.com/20250124/41216_16727ac6/index.m3u8
-解放：第二部2024(HD中字),https://yzzy21.playback-speed.com/20250124/41218_b32bc2ec/index.m3u8
-墮入深淵2025(HD中字),https://yzzy21.playback-speed.com/20250124/41210_e833a137/index.m3u8
-秦嶺詭事之守護者2025(HD國語),https://yzzy21.playback-speed.com/20250124/41228_f0d39a77/index.m3u8
-海島巨蟒2025(HD國語),https://yzzy21.playback-speed.com/20250123/41208_7ed3abd4/index.m3u8
-狙擊精英:背水一戰2025(HD中字),https://yzzy21.playback-speed.com/20250122/41165_867f4e46/index.m3u8
-槍支年代1991(HD中字),https://yzzy21.playback-speed.com/20250122/41171_160bf223/index.m3u8
-神鵰俠侶：問世間2025(HD國語),https://yzzy21.playback-speed.com/20250122/41184_ba277fde/index.m3u8
-鬼遮眼2015(HD國語),https://yzzy21.playback-speed.com/20250119/41139_a99a9f03/index.m3u8
-帕爾馬之心2022(HD中字),https://yzzy21.playback-speed.com/20250118/41134_2db8396c/index.m3u8
-速度與激情92021(HD中字),https://yzzy.play-cdn12.com/20221229/12848_19dd3dd1/index.m3u8
-速度與激情92021(HD國語),https://svip.yyzy-play.vip/20250119/21453_eb12b2db/index.m3u8
-亨利危險電影版2025(HD中字),https://yzzy21.playback-speed.com/20250118/41114_d44d6a2b/index.m3u8
-重返行動2025(HD中字),https://yzzy21.playback-speed.com/20250118/41116_77803fa1/index.m3u8
-步槍俱樂部2024(HD中字),https://yzzy21.playback-speed.com/20250118/41119_8fa8a40b/index.m3u8
-警報戰2025(HD中字),https://yzzy21.playback-speed.com/20250118/41123_5d20c790/index.m3u8
-黃沙渡2025(HD國語),https://yzzy21.playback-speed.com/20250118/41125_f3e8c292/index.m3u8
-在西部的星空下1938(HD中字),https://yzzy21.playback-speed.com/20250117/41105_ae055120/index.m3u8
-榮耀之誰與爭鋒2025(HD國語),https://yzzy21.playback-speed.com/20250116/41099_c24a30e4/index.m3u8
-無跡之人2025(HD中字),https://yzzy21.playback-speed.com/20250116/41093_10dd3984/index.m3u8
-普什帕：裁決2024(HD中字),https://yzzy21.playback-speed.com/20250114/41064_1c9de9ac/index.m3u8
-鋼鐵鬥士2024(HD中字),https://yzzy21.playback-speed.com/20250114/41071_ec42abc4/index.m3u8
-王者天下42024(HD中字),https://yzzy21.playback-speed.com/20250115/41078_38d76e2a/index.m3u8
-從邪惡中拯救我2020(HD中字),https://yzzy21.playback-speed.com/20241211/40513_0549bc7b/index.m3u8
-荒地之風1936(HD中字),https://yzzy21.playback-speed.com/20250113/41026_7bda8d1d/index.m3u8
-星際異形1996(HD中字),https://yzzy21.playback-speed.com/20250110/40971_5d9f554e/index.m3u8
-救命行動2025(HD中字),https://yzzy21.playback-speed.com/20250110/40968_03c91454/index.m3u8
-護衛者3：決戰2025(HD國語),https://yzzy21.playback-speed.com/20250110/40964_667efb72/index.m3u8
-精英部隊2007(HD中字),https://yzzy21.playback-speed.com/20241230/40853_6257dc97/index.m3u8
-精英部隊2：大敵當前2010(HD中字),https://yzzy21.playback-speed.com/20241230/40854_bc86d14d/index.m3u8
-深入敵後搞搞震21975(HD中字),https://yzzy21.playback-speed.com/20241230/40826_241af5bc/index.m3u8
-三劍客2011(HD中字),https://yzzy21.playback-speed.com/20241230/40821_bbd8bb3d/index.m3u8
-再造戰士4：清算之日2012(HD中字),https://yzzy21.playback-speed.com/20250101/40865_ac87667b/index.m3u8
-獅女2023(HD中字),https://yzzy21.playback-speed.com/20250101/40866_7e35b294/index.m3u8
-蝙蝠俠1989(HD中字),https://svip.high24-playback.com/20250105/15222_82a3474b/index.m3u8
-罪犯鬥獸場2022(HD中字),https://yzzy21.playback-speed.com/20250104/40903_701049e9/index.m3u8
-黑衣天使2024(HD中字),https://yzzy21.playback-speed.com/20250104/40905_ebc684cb/index.m3u8
-怪人2025(HD國語),https://yzzy21.playback-speed.com/20250103/40884_6044d5f0/index.m3u8
-魔道天師：幽冥黃泉2025(HD國語),https://yzzy21.playback-speed.com/20250103/40887_06254efe/index.m3u8
-指環王：洛汗之戰2024(HD中字),https://yzzy21.playback-speed.com/20241228/40778_82818cbb/index.m3u8
-緝毒警探1993(HD中字),https://yzzy21.playback-speed.com/20241226/40768_35bbbe01/index.m3u8
-獵毒者22024(HD國語),https://yzzy21.playback-speed.com/20241226/40765_08709dd5/index.m3u8
-破局2025(HD國語),https://yzzy21.playback-speed.com/20250101/40868_bbb100ab/index.m3u8
-老炮敢死隊2024(HD國語),https://yzzy21.playback-speed.com/20241231/40859_a875fceb/index.m3u8
-異變狼人2024(HD中字),https://yzzy21.playback-speed.com/20241225/40747_9a7ba1e7/index.m3u8
-暴走午夜2020(HD中字),https://yzzy21.playback-speed.com/20241225/40746_492f1aae/index.m3u8
-命運征服者2024：印度版(HD中字),https://yzzy21.playback-speed.com/20241223/40721_48070299/index.m3u8
-烏托邦2024(HD中字),https://yzzy21.playback-speed.com/20241223/40717_94a61d33/index.m3u8
-獵毒者2022(HD國語),https://yzzy21.playback-speed.com/20241223/40713_5512393b/index.m3u8
-粉碎罪惡2023(HD中字),https://yzzy21.playback-speed.com/20241222/40710_b7d157d6/index.m3u8
-心靈致動2024(HD中字),https://yzzy21.playback-speed.com/20241222/40708_c9882219/index.m3u8
-復仇女神2024(HD中字),https://yzzy21.playback-speed.com/20241222/40703_cda1559c/index.m3u8
-冷雨劍瀟瀟2024(HD國語),https://yzzy21.playback-speed.com/20241227/40775_1dca1b37/index.m3u8
-海盜霸王1945(HD中字),https://yzzy21.playback-speed.com/20241220/40684_98f01586/index.m3u8
-吞噬星空劇場版血洛大陸2024(HD國語),https://svip.high25-playback.com/20241208/13880_f6309080/index.m3u8
-蕩寇灘1972(HD國語),https://yzzy21.playback-speed.com/20241218/40658_18e086a7/index.m3u8
-機車殺手1971(HD中字),https://yzzy21.playback-speed.com/20241218/40655_feddab26/index.m3u8
-巨猿大戰機械猿：新秩序2024(HD中字),https://yzzy21.playback-speed.com/20241217/40634_fe533c10/index.m3u8
-紫茉莉2024(HD中字),https://yzzy21.playback-speed.com/20241216/40629_70fd9640/index.m3u8
-繡春刀：誅邪2024(HD國語),https://yzzy21.playback-speed.com/20241225/40757_abf192b5/index.m3u8
+摩托車少年HD中字動作片美國,	https://cdn.yzzy29-play.com/20250805/492_55a7cf9c/index.m3u8
+最後的快槍手HD中字動作片美國,	https://cdn.yzzy29-play.com/20250805/496_b534ba68/index.m3u8
+天庭外傳HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250727/429_75fc093c/index.m3u8
+神探飛機頭3HD中字動作片美國,	https://cdn.yzzy29-play.com/20250727/428_8d7d8ee0/index.m3u8
+太空殺路HD中字動作片美國,	https://cdn.yzzy29-play.com/20250727/423_faa9afea/index.m3u8
+浪客劍心：傳說的完結篇HD中字版動作片日本,	https://vvip.high26-playback.com/20250726/16593_f195a554/index.m3u8
+浪客劍心最終章：人誅篇HD中字版動作片日本,	https://vvip.high26-playback.com/20250726/16594_f5b1211c/index.m3u8
+虎膽龍威3HD國語動作片美國,	https://cdn.yzzy28-play.com/20250724/9550_32b9e74c/index.m3u8
+虎膽龍威3HD中字動作片美國,	https://cdn.yzzy28-play.com/20250724/9551_67ad4113/index.m3u8
+虎膽龍威2HD國語動作片美國,	https://cdn.yzzy28-play.com/20250724/9548_f812291e/index.m3u8
+虎膽龍威2HD中字動作片美國,	https://cdn.yzzy28-play.com/20250724/9549_6a21bd02/index.m3u8
+虎膽龍威HD國語動作片美國,	https://cdn.yzzy28-play.com/20250724/9546_4845b84d/index.m3u8
+虎膽龍威HD中字動作片美國,	https://cdn.yzzy28-play.com/20250724/9547_5f25fbe1/index.m3u8
+制暴：無限殺機HD中字動作片英國,	https://yzzy21.playback-speed.com/20250404/42408_4208c962/index.m3u8
+制暴：無限殺機HD國語動作片英國,	https://yzzy21.playback-speed.com/20250531/43119_4077e51c/index.m3u8
+星際寶貝史迪奇2025HD國語動作片美國,	https://cdn.yzzy29-play.com/20250722/389_c86a7ee3/index.m3u8
+星際寶貝史迪奇2025HD粵語動作片美國,	https://cdn.yzzy29-play.com/20250722/391_5a4b25aa/index.m3u8
+星際寶貝史迪奇2025HD中字動作片美國,	https://cdn.yzzy29-play.com/20250722/390_a01a0380/index.m3u8
+告密者2013HD中字動作片美國,	https://cdn.yzzy29-play.com/20250721/387_8efb100a/index.m3u8
+雙面伴娘HD中字動作片英國,	https://cdn.yzzy29-play.com/20250721/381_00ec53c4/index.m3u8
+俱毗羅HD中字動作片印度,	https://cdn.yzzy29-play.com/20250721/380_bca82e41/index.m3u8
+鐵血金盾HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250720/376_142949df/index.m3u8
+生死有命HD中字動作片印度,	https://cdn.yzzy29-play.com/20250718/371_41f1f191/index.m3u8
+航班蛛患HD中字動作片英國,	https://cdn.yzzy29-play.com/20250718/359_c058f544/index.m3u8
+超異能特攻HD中字動作片韓國,	https://cdn.yzzy29-play.com/20250718/358_aa942ab2/index.m3u8
+芭蕾女刺客HD中字動作片美國,	https://cdn.yzzy29-play.com/20250718/357_fb7b9ffa/index.m3u8
+紅絲行動HD中字動作片俄羅斯,	https://cdn.yzzy29-play.com/20250716/347_c5ff2543/index.m3u8
+幽靈殺手2024HD中字動作片日本,	https://cdn.yzzy29-play.com/20250716/353_138bb069/index.m3u8
+白雪公主之死HD中字動作片美國,	https://cdn.yzzy29-play.com/20250716/343_3ad7c2eb/index.m3u8
+決戰豪門2HD中字動作片法國,	https://cdn.yzzy29-play.com/20250715/335_f9b902fc/index.m3u8
+方世玉之決戰水怪HD國語動作片大陸,	https://cdn.yzzy27-play.com/20250714/10040_f250daff/index.m3u8
+凹凸雙雄HD中字動作片,	https://cdn.yzzy29-play.com/20250712/315_ad13a2a0/index.m3u8
+赴湯蹈火2025HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250711/301_34ed066d/index.m3u8
+無盡的戰鬥HD中字動作片,	https://cdn.yzzy29-play.com/20250712/306_b2eb7349/index.m3u8
+重裝上陣3HD中字動作片,	https://cdn.yzzy29-play.com/20250712/310_06eb61b8/index.m3u8
+獵狐·行動HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250712/312_950a4152/index.m3u8
+浪客劍心：京都大火篇HD中字動作片日本,	https://cdn.yzzy28-play.com/20250711/7847_d55cbf21/index.m3u8
+三惡人2024HD中字動作片美國,	https://cdn.yzzy29-play.com/20250710/288_48aedb88/index.m3u8
+冰路營救2HD中字動作片美國,	https://cdn.yzzy29-play.com/20250706/258_502e4a16/index.m3u8
+插翅難逃2025HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250705/254_c52f1bd6/index.m3u8
+鎮上的新暴徒HD中字動作片印度,	https://cdn.yzzy29-play.com/20250705/253_c24cd76e/index.m3u8
+真人快打：啟程HD中字動作片美國,	https://cdn.yzzy29-play.com/20250705/252_03c6b069/index.m3u8
+謝謝你愛我HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250704/248_621bf66d/index.m3u8
+龍捲風2025HD中字動作片英國,	https://cdn.yzzy29-play.com/20250703/240_335f5352/index.m3u8
+原子風暴HD中字動作片美國,	https://cdn.yzzy29-play.com/20250703/235_577ef115/index.m3u8
+永生守衛2HD中字動作片美國,	https://cdn.yzzy29-play.com/20250703/234_289dff07/index.m3u8
+再見阿郎1999DVD國語動作片香港,	https://cdn.yzzy28-play.com/20250704/7301_9c779f56/index.m3u8
+再見阿郎1999DVD粵語動作片香港,	https://cdn.yzzy28-play.com/20250704/7302_d9437926/index.m3u8
+天若有情1990HD國語動作片香港,	https://cdn.yzzy28-play.com/20250703/7135_604f2c31/index.m3u8
+國家元首HD中字動作片美國,	https://cdn.yzzy29-play.com/20250703/228_74db120f/index.m3u8
+傑森醫生HD中字動作片美國,	https://cdn.yzzy29-play.com/20250702/227_705f2172/index.m3u8
+冰路營救：復仇HD中字動作片美國,	https://cdn.yzzy29-play.com/20250702/214_ca46c1b9/index.m3u8
+正義過客HD中字動作片印度,	https://cdn.yzzy29-play.com/20250701/211_eb163727/index.m3u8
+李畋傳奇HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250701/206_7eabe3a1/index.m3u8
+雷霆特攻隊*HD中字動作片美國,	https://cdn.yzzy29-play.com/20250701/205_eae27d77/index.m3u8
+F1：狂飆飛車TS中字動作片美國,	https://cdn.yzzy29-play.com/20250629/184_6cdd60ea/index.m3u8
+蜀山：新蜀山劍俠HD粵語動作片香港,	https://yzzy.play-cdn3.com/20220513/21711_906bbe95/index.m3u8
+蜀山：新蜀山劍俠HD國語動作片香港,	https://cdn.yzzy28-play.com/20250630/6893_05d0abb9/index.m3u8
+脫離罪惡HD中字動作片,	https://cdn.yzzy29-play.com/20250629/182_4c5bde74/index.m3u8
+黑色城市HD粵語動作片臺灣,	https://cdn.yzzy29-play.com/20250628/179_8f53295a/index.m3u8
+襲擊2HD中字動作片印度,	https://cdn.yzzy29-play.com/20250628/177_96da2f59/index.m3u8
+魔王再世HD中字動作片印度,	https://cdn.yzzy29-play.com/20250625/160_b73ce398/index.m3u8
+拳霸天下HD中字動作片美國,	https://cdn.yzzy29-play.com/20250623/149_f2217062/index.m3u8
+腓尼基計劃HD中字動作片美國,	https://cdn.yzzy29-play.com/20250623/147_8d5e957f/index.m3u8
+瘋狂大逃亡HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250623/146_a5e00132/index.m3u8
+魚雷HD中字動作片,	https://cdn.yzzy29-play.com/20250623/144_0a09c884/index.m3u8
+K-POP：獵魔女團HD中字動作片美國,	https://cdn.yzzy29-play.com/20250621/132_65ded535/index.m3u8
+哥斯拉VS碧奧蘭蒂HD中字動作片日本,	https://cdn.yzzy29-play.com/20250621/122_a0a080f4/index.m3u8
+功夫熊貓之蓋世五俠的秘密HD中字動作片美國,	https://cdn.yzzy29-play.com/20250621/124_c8ffe9a5/index.m3u8
+室町無賴HD中字動作片日本,	https://cdn.yzzy29-play.com/20250621/127_ec5decca/index.m3u8
+夜行駭傳HD中字動作片美國,	https://cdn.yzzy29-play.com/20250621/130_9b861925/index.m3u8
+燭陰古城HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250619/111_698d51a1/index.m3u8
+最後的小屋HD中字動作片美國,	https://cdn.yzzy29-play.com/20250618/110_5f93f983/index.m3u8
+絕對自治權HD中字動作片美國,	https://cdn.yzzy29-play.com/20250618/102_ec895663/index.m3u8
+午時三刻HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250616/91_54229abf/index.m3u8
+六天2025HD中字動作片法國,	https://cdn.yzzy29-play.com/20250616/89_7647966b/index.m3u8
+黑超警探HD中字動作片美國,	https://cdn.yzzy29-play.com/20250615/65_fc490ca4/index.m3u8
+迪亞波羅的復仇HD中字動作片,	https://cdn.yzzy29-play.com/20250615/64_ea5d2f1c/index.m3u8
+冬蔭功HD中字國語版動作片泰國,	https://vvip.high26-playback.com/20250614/10858_c05c0c0a/index.m3u8
+冬蔭功HD中字粵語版動作片泰國,	https://vvip.high26-playback.com/20250614/10859_7a43ed4e/index.m3u8
+冬蔭功HD中字版動作片泰國,	https://vvip.high26-playback.com/20250614/10860_8b48a574/index.m3u8
+情色貨運HD中字動作片英國,	https://cdn.yzzy29-play.com/20250613/56_9f61408e/index.m3u8
+漢諾瓦街HD中字動作片英國,	https://cdn.yzzy29-play.com/20250613/53_d82c8d16/index.m3u8
+希巴，寶貝HD中字動作片美國,	https://cdn.yzzy29-play.com/20250612/48_642e92ef/index.m3u8
+破果HD中字動作片韓國,	https://cdn.yzzy29-play.com/20250611/35_1c383cd3/index.m3u8
+堅守陣地HD中字動作片美國,	https://cdn.yzzy29-play.com/20250611/34_e369853d/index.m3u8
+奪命煞星寶萊塢之國王歸來HD中字動作片印度,	https://cdn.yzzy29-play.com/20250611/31_c16a5320/index.m3u8
+楚幽秘境HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250611/26_4e732ced/index.m3u8
+007之金手指HD中字動作片英國,	https://vvip.high26-playback.com/20250612/10729_f9b9f0fe/index.m3u8
+牙狼之介2：地獄斬HD中字動作片日本,	https://cdn.yzzy29-play.com/20250611/25_8e296a06/index.m3u8
+美國那條黑街HD中字動作片英國,	https://cdn.yzzy29-play.com/20250611/23_37693cfc/index.m3u8
+掃毒風暴2025：電影版HD國語動作片大陸,	https://cdn.yzzy29-play.com/20250610/19_1f0e3dad/index.m3u8
+諜網追兇HD中字動作片美國,	https://cdn.yzzy29-play.com/20250610/18_6f4922f4/index.m3u8
+海島歷險記HD中字動作片美國,	https://cdn.yzzy29-play.com/20250608/5_e4da3b7f/index.m3u8
+鐵血戰士：殺戮之王HD中字動作片美國,	https://cdn.yzzy29-play.com/20250608/4_a87ff679/index.m3u8
+一個字頭的誕生DVD粵語動作片香港,	https://vvip.high26-playback.com/20250609/10540_9dd16e04/index.m3u8
+無味神探HD國語動作片香港,	https://vvip.high26-playback.com/20250609/10539_f85bd553/index.m3u8
+雲夢奇緣HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250607/43184_d43ec839/index.m3u8
+救贖一擊HD中字動作片法國,	https://yzzy21.playback-speed.com/20250606/43169_b1f68a18/index.m3u8
+哈萊姆地獄HD中字動作片美國,	https://yzzy21.playback-speed.com/20250607/43173_db6812fe/index.m3u8
+火雷彈HD中字動作片英國,	https://yzzy21.playback-speed.com/20250607/43174_46ab5450/index.m3u8
+突擊中央銀行HD中字動作片,	https://yzzy21.playback-speed.com/20250607/43176_f070a8b1/index.m3u8
+無敵賈特HD中字動作片印度,	https://yzzy21.playback-speed.com/20250607/43178_7c677ff4/index.m3u8
+會計刺客2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250605/43164_62be10fc/index.m3u8
+忍無可忍2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250606/43167_ba66d1b1/index.m3u8
+殺人遊戲1978HD中字動作片日本,	https://yzzy21.playback-speed.com/20250604/43155_eb429c58/index.m3u8
+美國心黑道情HD中字動作片美國,	https://yzzy21.playback-speed.com/20250604/43152_23f6fd07/index.m3u8
+誓約歸隱HD中字動作片印度,	https://yzzy21.playback-speed.com/20250601/43138_3a00f5cd/index.m3u8
+謀殺干預組3HD中字動作片印度,	https://yzzy21.playback-speed.com/20250601/43137_6ce8b21f/index.m3u8
+少年拳王HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250601/43135_0b672b01/index.m3u8
+神聖之夜：惡魔獵人HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250530/43110_598ab90b/index.m3u8
+凱恩的憤怒HD中字動作片美國,	https://yzzy21.playback-speed.com/20250525/43086_e600ec23/index.m3u8
+鬥士2025HD中字動作片印度,	https://yzzy21.playback-speed.com/20250525/43076_4c01ca04/index.m3u8
+超級強盜HD中字動作片,	https://yzzy21.playback-speed.com/20250522/43050_2f68c2e0/index.m3u8
+獵毒風暴HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250522/43047_8895f980/index.m3u8
+驚爆死亡線HD中字動作片美國,	https://yzzy21.playback-speed.com/20250521/43031_8cfebc3e/index.m3u8
+復仇逮捕令HD中字動作片,	https://yzzy21.playback-speed.com/20250521/43030_2ae099e7/index.m3u8
+海神號歷險記2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250517/43004_b025ccf8/index.m3u8
+藍魔HD中字動作片美國,	https://yzzy21.playback-speed.com/20250517/43003_9133d4cf/index.m3u8
+動作巨星2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250517/42999_f9e2270a/index.m3u8
+超乎常人2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250517/43005_42cd6fb5/index.m3u8
+痞子大逃亡HD中字動作片美國,	https://yzzy21.playback-speed.com/20250519/43018_9ec04091/index.m3u8
+阿炯：維賈揚蒂之子HD中字動作片印度,	https://yzzy21.playback-speed.com/20250520/43026_89f5d93b/index.m3u8
+雪中血刀行HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250520/43029_3b48bc98/index.m3u8
+蟻型危機HD國語動作片大陸,	https://cdn.yzzy28-play.com/20250518/261_b1a59b31/index.m3u8
+快車道2009HD中字動作片美國,	https://yzzy21.playback-speed.com/20250517/42996_3102051b/index.m3u8
+鐵馭神兵HD中字動作片英國,	https://yzzy21.playback-speed.com/20250512/42930_6e4d9cf7/index.m3u8
+暗戰2HD國語動作片香港,	https://yzzy.play-cdn17.com/20230730/13841_453d5eff/index.m3u8
+暗戰2HD粵語動作片香港,	https://vvip.high26-playback.com/20250510/6550_034e2db7/index.m3u8
+暗戰1999HD國語動作片香港,	https://yzzy.play-cdn17.com/20230730/13842_0b634bc9/index.m3u8
+暗戰1999HD粵語動作片香港,	https://vvip.high26-playback.com/20250510/6549_6828f61c/index.m3u8
+罪證子彈3HD中字動作片法國,	https://yzzy21.playback-speed.com/20250509/42900_b3851315/index.m3u8
+蛇女2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250509/42910_c7c6102d/index.m3u8
+肇事逃逸2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250507/42889_67e19867/index.m3u8
+蛇島求生HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250507/42885_e1f13985/index.m3u8
+身份HD中字動作片印度,	https://yzzy21.playback-speed.com/20250505/42820_5b88f3e8/index.m3u8
+怒火營救HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250504/42814_7557aef4/index.m3u8
+域外營救HD中字動作片,	https://yzzy21.playback-speed.com/20250504/42807_2e61866e/index.m3u8
+清算日2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250503/42792_16ac54f2/index.m3u8
+命懸一槍HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250503/42786_9d120ada/index.m3u8
+命懸一槍HD川語動作片大陸,	https://yzzy21.playback-speed.com/20250503/42785_617c81b4/index.m3u8
+錄刀人HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250502/42783_da6d1799/index.m3u8
+角頭：大橋頭HD國語動作片臺灣,	https://yzzy21.playback-speed.com/20250502/42782_a85e8c31/index.m3u8
+暗湧2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250502/42779_04ecc73f/index.m3u8
+俠膽醫心之暗潮洶湧HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250501/42768_5d977a1a/index.m3u8
+火豹屠城HD中字動作片,	https://yzzy21.playback-speed.com/20250430/42748_ab2956d3/index.m3u8
+終極武裝HD中字動作片加拿大,	https://yzzy21.playback-speed.com/20250429/42747_3fe4e041/index.m3u8
+盲殺HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250429/42744_fc7bb39f/index.m3u8
+CIA: 美國的同志HD中字動作片印度,	https://yzzy21.playback-speed.com/20250428/42743_b3d88358/index.m3u8
+淹沒2000HD中字動作片美國,	https://yzzy21.playback-speed.com/20250428/42738_5b97f793/index.m3u8
+獵人克萊文HD中字動作片美國,	https://yzzy21.playback-speed.com/20241220/40688_68457bcc/index.m3u8
+獵人克萊文HD國語動作片美國,	https://yzzy21.playback-speed.com/20250427/42734_9bcdf1b6/index.m3u8
+神秘海域HD中字動作片美國,	https://yzzy.play-cdn2.com/20220423/15584_7c6f1ae4/index.m3u8
+神秘海域HD國語動作片美國,	https://yzzy21.playback-speed.com/20250427/42730_6cf4ffe5/index.m3u8
+珠寶大盜：神偷出馬HD中字動作片印度,	https://yzzy21.playback-speed.com/20250427/42719_d188831a/index.m3u8
+辣妹刺客2HD中字動作片日本,	https://yzzy21.playback-speed.com/20250427/42713_b26dda52/index.m3u8
+卡洛斯1991HD中字動作片日本,	https://yzzy21.playback-speed.com/20250426/42708_195e1777/index.m3u8
+白象2011HD中字動作片美國,	https://yzzy21.playback-speed.com/20250426/42701_3a1f9e55/index.m3u8
+鬥破蒼穹4：逃亡HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250426/42712_c1d5dce0/index.m3u8
+毒劫HD中字動作片英國,	https://yzzy21.playback-speed.com/20250426/42699_c6e98355/index.m3u8
+新幹線驚爆倒數HD日語中字動作片日本,	https://yzzy21.playback-speed.com/20250424/42695_62dc8116/index.m3u8
+新幹線驚爆倒數HD英語中字動作片日本,	https://yzzy21.playback-speed.com/20250424/42694_699e1538/index.m3u8
+遊戲2011HD中字動作片印度,	https://yzzy21.playback-speed.com/20250424/42687_f0d92a0e/index.m3u8
+機械戰警2014HD中字動作片美國,	https://yzzy.play-cdn3.com/20220510/19003_7e85c87c/index.m3u8
+機械戰警2014HD國語動作片美國,	https://yzzy21.playback-speed.com/20250424/42685_d2108470/index.m3u8
+白象2022HD中字版動作片美國,	https://yzzy.play-cdn4.com/20220616/21184_032a4126/index.m3u8
+地鐵驚魂2009HD中字動作片美國,	https://vvip.high26-playback.com/20250425/5288_8859a81b/index.m3u8
+裡見八犬傳1983HD中字動作片日本,	https://yzzy21.playback-speed.com/20250423/42667_661a3e79/index.m3u8
+七小福HD國語動作片香港,	https://svip.high25-playback.com/20250421/24518_26dafde7/index.m3u8
+七小福HD粵語動作片香港,	https://svip.high25-playback.com/20250421/24519_e2918803/index.m3u8
+斷了氣HD中字動作片美國,	https://yzzy21.playback-speed.com/20250421/42635_f9879a7e/index.m3u8
+荒漠干戈HD中字動作片美國,	https://yzzy21.playback-speed.com/20250420/42629_d4c30826/index.m3u8
+最高密令HD中字動作片加拿大,	https://yzzy21.playback-speed.com/20250420/42628_5b58d44d/index.m3u8
+百家拳之董海川HD國語動作片大陸,	https://vvip.high26-playback.com/20250420/4852_5cf68969/index.m3u8
+海宮豔盜HD國語動作片美國,	https://svip.high25-playback.com/20250418/24160_d61bc8a7/index.m3u8
+警匪生死劫HD中字動作片美國,	https://yzzy21.playback-speed.com/20250418/42608_7dccffdd/index.m3u8
+不赦任務HD中字動作片美國,	https://yzzy21.playback-speed.com/20250418/42607_590823fe/index.m3u8
+土忍記：風之天狗HD英字動作片日本,	https://vvip.high26-playback.com/20250417/4562_4454c95c/index.m3u8
+我是拳手2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250416/42602_64771502/index.m3u8
+鐵鷹戰士4HD中字動作片加拿大,	https://yzzy21.playback-speed.com/20250414/42574_71305367/index.m3u8
+別碰髒錢HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250414/42552_81f95c01/index.m3u8
+江湖通緝令HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250413/42547_ed4c89fe/index.m3u8
+幼獅HD中字動作片印度,	https://yzzy21.playback-speed.com/20250412/42544_ea96b0bf/index.m3u8
+槍手2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250412/42537_e3fd458d/index.m3u8
+披薩超人HD中字動作片美國,	https://yzzy21.playback-speed.com/20250412/42536_323799e6/index.m3u8
+魯邦三世：一美元戰爭HD中字動作片日本,	https://yzzy21.playback-speed.com/20250412/42532_36aaee65/index.m3u8
+G20峰會HD中字動作片美國,	https://yzzy21.playback-speed.com/20250412/42523_75c0a8c5/index.m3u8
+逃亡2015HD中字動作片印度,	https://yzzy21.playback-speed.com/20250412/42521_5d99fbba/index.m3u8
+殺手：代號47HD中字動作片法國,	https://yzzy.play-cdn7.com/20220804/10121_39e07f71/index.m3u8
+殺手：代號47HD國語動作片法國,	https://yzzy21.playback-speed.com/20250412/42520_be26eb6d/index.m3u8
+風語者HD中字動作片美國,	https://yzzy.play-cdn2.com/20220502/17732_7e56d8a6/index.m3u8
+風語者HD國語動作片美國,	https://yzzy21.playback-speed.com/20250410/42501_fc45efdc/index.m3u8
+二流警探HD中字動作片美國,	https://yzzy21.playback-speed.com/20250410/42503_6b0b2193/index.m3u8
+無痛凱恩HD中字動作片美國,	https://yzzy21.playback-speed.com/20250411/42509_83bf29a1/index.m3u8
+射鵰英雄傳：俠之大者HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250411/42510_e89ef5ea/index.m3u8
+繡衣使·西漢迷案HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250410/42496_6618db57/index.m3u8
+絕密跟蹤HD國語動作片韓國,	https://yzzy21.playback-speed.com/20250409/42494_77bb4ff2/index.m3u8
+絕密跟蹤HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250409/42493_29f7ac3a/index.m3u8
+K檔案HD中字動作片,	https://yzzy21.playback-speed.com/20250409/42491_06f2bb50/index.m3u8
+霹靂玫瑰HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250409/42481_ae5a4889/index.m3u8
+升級追緝HD中字動作片美國,	https://yzzy21.playback-speed.com/20250408/42475_fee1ab5a/index.m3u8
+暗潮洶湧之驚魂12小時HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250408/42466_2afdde29/index.m3u8
+在失落之地HD中字動作片,	https://yzzy21.playback-speed.com/20250407/42464_f4812a8b/index.m3u8
+生死兩兄弟HD中字動作片香港,	https://yzzy21.playback-speed.com/20250407/42460_3de2f5d6/index.m3u8
+歐布奧特曼：請借給我紐帶的力量！HD中字動作片日本,	https://yzzy.play-cdn14.com/20230220/10358_8f7a8ca9/index.m3u8
+歐布奧特曼：請借給我紐帶的力量！HD國語動作片日本,	https://yzzy21.playback-speed.com/20250406/42448_bec6ae95/index.m3u8
+尖峰對決HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250406/42441_f2cb5353/index.m3u8
+浴血蛟龍HD中字動作片美國,	https://vvip.high26-playback.com/20250405/3372_37d0b499/index.m3u8
+觀山太保HD國語動作片大陸,	https://svip.high24-playback.com/20250404/23434_46a36a35/index.m3u8
+決戰洛城HD中字動作片美國,	https://yzzy21.playback-speed.com/20250403/42368_14a2750f/index.m3u8
+在劫難逃2011HD中字動作片美國,	https://svip.high25-playback.com/20250402/22796_6475c86e/index.m3u8
+黑木城盜金案HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250402/42361_d5d28c6f/index.m3u8
+鐵掌旋風腿HD中字動作片香港,	https://yzzy21.playback-speed.com/20250401/42347_b063dc53/index.m3u8
+地獄佳人HD中字動作片美國,	https://yzzy21.playback-speed.com/20250331/42339_bc72024b/index.m3u8
+KAHD中字動作片印度,	https://yzzy21.playback-speed.com/20250331/42334_d1e2d088/index.m3u8
+安魂曲2001HD中字動作片法國,	https://yzzy21.playback-speed.com/20250331/42329_3042ec85/index.m3u8
+搶劫佩爾哈姆123號線HD中字動作片美國,	https://yzzy21.playback-speed.com/20250331/42326_3b156fcf/index.m3u8
+黑獄風雲2HD中字動作片美國,	https://vvip.high26-playback.com/20250331/2896_07d0be03/index.m3u8
+魔鬼戰警1991HD中字動作片美國,	https://yzzy21.playback-speed.com/20250330/42311_21b8036b/index.m3u8
+刺蝟索尼克3HD中字動作片美國,	https://yzzy21.playback-speed.com/20250122/41207_2d040e45/index.m3u8
+刺蝟索尼克3HD國語動作片美國,	https://yzzy21.playback-speed.com/20250330/42308_092b5c94/index.m3u8
+德瓦2025HD中字動作片印度,	https://yzzy21.playback-speed.com/20250329/42298_fedde469/index.m3u8
+劫車王HD中字動作片法國,	https://yzzy21.playback-speed.com/20250329/42297_eab23813/index.m3u8
+神之一手：鬼手篇HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250329/42288_08315efa/index.m3u8
+白色垃圾HD中字動作片,	https://yzzy21.playback-speed.com/20250329/42286_2b44b266/index.m3u8
+荒誕神話HD中字動作片美國,	https://yzzy21.playback-speed.com/20250326/42247_d2cc0972/index.m3u8
+十萬火急1996HD中字動作片美國,	https://yzzy21.playback-speed.com/20250326/42240_213275c5/index.m3u8
+風都偵探劇場版：假面騎士顱骨的肖像HD中字動作片日本,	https://yzzy21.playback-speed.com/20250326/42239_9e250aad/index.m3u8
+萬靈HD中字動作片美國,	https://yzzy21.playback-speed.com/20250326/42235_864af7da/index.m3u8
+印度狂戰士蘇亞HD中字動作片印度,	https://yzzy21.playback-speed.com/20250326/42229_8733dc8e/index.m3u8
+彪悍戰將HD中字動作片加拿大,	https://yzzy21.playback-speed.com/20250326/42224_0df79d5f/index.m3u8
+塞雅HD中字動作片印度,	https://yzzy21.playback-speed.com/20250326/42223_b5e461cf/index.m3u8
+超速殺陣HD中字動作片,	https://yzzy21.playback-speed.com/20250326/42222_bf6a5c6e/index.m3u8
+同窗2013HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250324/42198_bbc247a5/index.m3u8
+明日，戰爭爆發時HD中字動作片,	https://yzzy21.playback-speed.com/20250324/42200_c0208586/index.m3u8
+白蛇傳說2011HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250324/42204_79123446/index.m3u8
+白蛇傳說2011HD粵語動作片大陸,	https://yzzy21.playback-speed.com/20250324/42203_01c9c8d3/index.m3u8
+決戰紫禁之巔HD國語動作片大陸,	https://yzzy.play-cdn13.com/20230413/25829_ef3df351/index.m3u8
+決戰紫禁之巔HD粵語動作片大陸,	https://yzzy21.playback-speed.com/20250324/42184_ba45605d/index.m3u8
+白雪公主與七武士HD中字動作片美國,	https://yzzy21.playback-speed.com/20250324/42179_78978fe8/index.m3u8
+全面追捕令HD中字動作片美國,	https://yzzy21.playback-speed.com/20250324/42165_322eb22f/index.m3u8
+罪惡清除工HD中字動作片英國,	https://yzzy21.playback-speed.com/20250322/42161_1209baf9/index.m3u8
+武替道HD粵語動作片香港,	https://yzzy21.playback-speed.com/20250323/42164_12d71e09/index.m3u8
+武替道HD國語動作片香港,	https://yzzy21.playback-speed.com/20250323/42163_9864d4a8/index.m3u8
+七號禁毒組HD中字動作片西班牙,	https://yzzy21.playback-speed.com/20250322/42146_0def9ec9/index.m3u8
+西遊降魔篇之快活城HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250322/42143_3410dc03/index.m3u8
+進擊的巨人 總集篇 最後的進擊HD中字動作片日本,	https://yzzy21.playback-speed.com/20250322/42140_ac46d5aa/index.m3u8
+獵殺鏢靶2001HD中字動作片美國,	https://yzzy21.playback-speed.com/20250320/42093_aeac918f/index.m3u8
+因果報應HD中字動作片印度,	https://yzzy21.playback-speed.com/20240815/38228_4254d04c/index.m3u8
+因果報應HD國語動作片印度,	https://yzzy21.playback-speed.com/20250320/42091_ccc5f37b/index.m3u8
+忍者蝙蝠俠大戰極道聯盟HD中字動作片日本,	https://yzzy21.playback-speed.com/20250320/42108_b4d73137/index.m3u8
+速度與激情7HD中字動作片美國,	https://yzzy.play-cdn17.com/20230724/12456_499857b7/index.m3u8
+速度與激情7HD國語動作片美國,	https://yzzy21.playback-speed.com/20250320/42090_04ac4332/index.m3u8
+300勇士：帝國崛起HD中字動作片美國,	https://yzzy.play-cdn3.com/20220510/18925_e0ff85be/index.m3u8
+300勇士：帝國崛起HD粵語動作片美國,	https://yzzy21.playback-speed.com/20250319/42088_ed06a6b5/index.m3u8
+宗教與黑道HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250318/42081_e6129453/index.m3u8
+恐怖籠罩城市HD中字動作片法國,	https://yzzy21.playback-speed.com/20250318/42068_c04bcff7/index.m3u8
+豪勇七蛟龍2016HD中字動作片美國,	https://yzzy21.playback-speed.com/20250318/42067_99e4a80c/index.m3u8
+紅一縱隊HD中字動作片美國,	https://yzzy21.playback-speed.com/20250317/42041_10774347/index.m3u8
+唐山大兄HD國語動作片香港,	https://yzzy.play-cdn4.com/20220608/17543_290a6e50/index.m3u8
+唐山大兄HD粵語動作片香港,	https://yzzy21.playback-speed.com/20250317/42042_893eb069/index.m3u8
+野獸之死1980HD中字動作片日本,	https://yzzy21.playback-speed.com/20250317/42046_31c2a40d/index.m3u8
+重振雄風2008HD中字動作片美國,	https://yzzy21.playback-speed.com/20250315/42004_e5ca3129/index.m3u8
+金菩薩之謎HD中字動作片美國,	https://yzzy21.playback-speed.com/20250315/41996_416a0ffd/index.m3u8
+馬可波羅之百眼HD中字動作片美國,	https://yzzy21.playback-speed.com/20250315/41990_c474ac4d/index.m3u8
+超人：毀滅日HD中字動作片美國,	https://yzzy21.playback-speed.com/20250314/41971_caf65549/index.m3u8
+靜默地帶HD中字動作片,	https://yzzy21.playback-speed.com/20250314/41976_d5647bd3/index.m3u8
+狂暴2：資本的懲罰HD中字動作片加拿大,	https://svip.yyzy-play.vip/20250316/29083_5f738cd1/index.m3u8
+套現2：大賭客HD中字動作片美國,	https://yzzy21.playback-speed.com/20250314/41962_62398d24/index.m3u8
+衛斯理傳奇HD國語動作片香港,	https://yzzy.play-cdn3.com/20220517/24282_fd1623da/index.m3u8
+衛斯理傳奇HD粵語動作片香港,	https://yzzy21.playback-speed.com/20250313/41941_d382eb70/index.m3u8
+深海狂鯊HD中字動作片美國,	https://yzzy.play-cdn2.com/20220405/7650_8cc3751c/index.m3u8
+深海狂鯊HD國語動作片美國,	https://yzzy21.playback-speed.com/20250313/41942_5cdb5cd4/index.m3u8
+蘇基HD中字動作片,	https://yzzy21.playback-speed.com/20250313/41945_01d72924/index.m3u8
+法特赫HD中字動作片印度,	https://yzzy21.playback-speed.com/20250313/41953_28fc6826/index.m3u8
+鯊魚驅魔人2：不潔水域HD中字動作片美國,	https://yzzy21.playback-speed.com/20250312/41928_588c38b9/index.m3u8
+雅各布·泰勒HD中字動作片美國,	https://yzzy21.playback-speed.com/20250312/41932_28ec73f7/index.m3u8
+刀鋒戰士2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250312/41938_0d6ac01e/index.m3u8
+刀鋒戰士2HD國語動作片美國,	https://yzzy21.playback-speed.com/20250312/41937_b632e716/index.m3u8
+街頭女霸王HD中字動作片美國,	https://yzzy21.playback-speed.com/20250311/41914_29596eb7/index.m3u8
+天空部隊HD中字動作片印度,	https://yzzy21.playback-speed.com/20250310/41904_3b8341c5/index.m3u8
+太陽之子HD國語動作片香港,	https://yzzy21.playback-speed.com/20250310/41906_5f0b38f5/index.m3u8
+獵血行動HD中字動作片泰國,	https://yzzy21.playback-speed.com/20250310/41907_f2131a34/index.m3u8
+王者無敵HD中字動作片美國,	https://yzzy21.playback-speed.com/20250310/41897_31aa1b4f/index.m3u8
+252生存者HD中字動作片日本,	https://yzzy21.playback-speed.com/20250308/41867_eb47b326/index.m3u8
+赤羽骨子的親衛隊HD中字動作片日本,	https://yzzy21.playback-speed.com/20250308/41865_59c3d067/index.m3u8
+多羅羅2007HD中字動作片日本,	https://yzzy21.playback-speed.com/20250306/41844_762ae7ea/index.m3u8
+火星幽靈HD中字動作片美國,	https://yzzy21.playback-speed.com/20250306/41848_e0da3c00/index.m3u8
+絕命北極HD中字動作片美國,	https://yzzy21.playback-speed.com/20250307/41858_72ce881b/index.m3u8
+空中劫持HD中字動作片美國,	https://yzzy21.playback-speed.com/20250307/41859_1bccffce/index.m3u8
+九州千秋令HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250307/41862_6d79297b/index.m3u8
+堅毅奇兵HD中字動作片印度,	https://yzzy21.playback-speed.com/20250306/41843_5370da43/index.m3u8
+威廉·退爾2024HD中字動作片英國,	https://yzzy21.playback-speed.com/20250305/41829_e612c5a1/index.m3u8
+大漠孤俠2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250305/41839_d1864d23/index.m3u8
+十一人的賊軍HD中字動作片日本,	https://yzzy21.playback-speed.com/20250304/41826_49311c5a/index.m3u8
+沙海狂鯊HD中字動作片美國,	https://yzzy21.playback-speed.com/20250303/41811_b59c10b3/index.m3u8
+冷錢包HD中字動作片美國,	https://yzzy21.playback-speed.com/20250303/41814_5d625d45/index.m3u8
+飛速追殺HD中字動作片美國,	https://yzzy21.playback-speed.com/20250303/41815_178076f4/index.m3u8
+峨眉功夫HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250303/41817_01dba2de/index.m3u8
+刺客公會HD中字動作片英國,	https://yzzy21.playback-speed.com/20250302/41802_ac8f31bb/index.m3u8
+角鬥士2HD中字動作片英國,	https://yzzy21.playback-speed.com/20241224/40737_fa53a154/index.m3u8
+角鬥士2HD國語動作片英國,	https://yzzy21.playback-speed.com/20250302/41797_d835ef7b/index.m3u8
+瀚海神龍HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250301/41791_d2b831db/index.m3u8
+蒼月HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250301/41789_2750a677/index.m3u8
+家族命運之戰HD中字動作片印度,	https://yzzy21.playback-speed.com/20250301/41788_dcc4f5d4/index.m3u8
+欺負2007HD中字動作片,	https://yzzy21.playback-speed.com/20250301/41787_c2e4df7a/index.m3u8
+殺出銀河系HD中字動作片美國,	https://yzzy21.playback-speed.com/20250301/41785_74cb62f8/index.m3u8
+鬼城殺HD中字動作片日本,	https://yzzy21.playback-speed.com/20250301/41784_2b18ff4b/index.m3u8
+殺手保鏢HD中字動作片美國,	https://yzzy21.playback-speed.com/20250228/41773_5f8537ea/index.m3u8
+痙攣1974HD中字動作片,	https://yzzy21.playback-speed.com/20250227/41762_08720487/index.m3u8
+蝴蝶之吻2006HD中字動作片俄羅斯,	https://yzzy21.playback-speed.com/20250227/41758_0021bbfa/index.m3u8
+刑房HD中字動作片美國,	https://yzzy21.playback-speed.com/20250227/41754_9b9488cd/index.m3u8
+壞孩子下地獄2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250227/41750_951b2fe9/index.m3u8
+御用牙 鬼之半藏，小判的去向HD中字動作片日本,	https://yzzy21.playback-speed.com/20250225/41739_3c53a0ce/index.m3u8
+超級豪華HD中字動作片印度,	https://yzzy21.playback-speed.com/20250225/41733_2366fbaf/index.m3u8
+威震八方3HD中字動作片美國,	https://yzzy21.playback-speed.com/20250225/41730_4db53cc0/index.m3u8
+前任殺神HD中字動作片美國,	https://yzzy21.playback-speed.com/20250225/41729_2aa5ede3/index.m3u8
+生死排爆2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250225/41725_b2061e13/index.m3u8
+江湖HD國語動作片香港,	https://svip.high25-playback.com/20250225/20596_121736b9/index.m3u8
+世界大戰：輻射HD中字動作片美國,	https://yzzy21.playback-speed.com/20250224/41718_7c827f63/index.m3u8
+歸來的玩命警探HD中字動作片日本,	https://yzzy21.playback-speed.com/20250224/41716_24939fa2/index.m3u8
+虛擬英雄HD中字動作片美國,	https://yzzy21.playback-speed.com/20250223/41709_1279e830/index.m3u8
+斷點2009HD中字動作片美國,	https://yzzy21.playback-speed.com/20250223/41706_23132911/index.m3u8
+亡命之徒HD中字動作片印度,	https://yzzy21.playback-speed.com/20250222/41698_bccdc47f/index.m3u8
+逆途HD中字動作片印度,	https://yzzy21.playback-speed.com/20250222/41693_17efd1b3/index.m3u8
+特工同盟HD中字動作片英國,	https://yzzy21.playback-speed.com/20250222/41692_f1593bc5/index.m3u8
+將死HD中字動作片,	https://yzzy21.playback-speed.com/20250222/41682_11c74556/index.m3u8
+天馬星空HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250222/41685_adbd1b59/index.m3u8
+猛虎3HD中字動作片印度,	https://yzzy21.playback-speed.com/20250220/41670_8d18bb80/index.m3u8
+奇門機關卷HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250221/41672_0427e4c8/index.m3u8
+蜜糖1974HD中字動作片美國,	https://yzzy21.playback-speed.com/20250220/41651_40f29018/index.m3u8
+展昭·探案HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250220/41659_57aeea61/index.m3u8
+特羅馬之戰HD中字動作片美國,	https://yzzy21.playback-speed.com/20250218/41629_3a7857a3/index.m3u8
+特警榮耀HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250218/41621_9227f09a/index.m3u8
+康斯坦丁2005HD中字動作片美國,	https://yzzy21.playback-speed.com/20250218/41612_bb0cec6b/index.m3u8
+峽谷2025HD中字動作片英國,	https://yzzy21.playback-speed.com/20250215/41573_46581845/index.m3u8
+插翅難飛2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250215/41574_a860a1a7/index.m3u8
+創傷2017HD中字動作片,	https://yzzy21.playback-speed.com/20250215/41581_84a40022/index.m3u8
+颶風奇劫HD中字動作片英國,	https://yzzy.play-cdn2.com/20220326/2115_aee03e89/index.m3u8
+颶風奇劫HD國語動作片英國,	https://yzzy21.playback-speed.com/20250214/41564_e299779f/index.m3u8
+超級颶風2024HD中字動作片美國,	https://yzzy21.playback-speed.com/20250214/41568_f73d6a8c/index.m3u8
+諜徒迷局HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250214/41572_aa087b92/index.m3u8
+赤裸復仇HD中字動作片美國,	https://yzzy21.playback-speed.com/20250213/41552_20e085e9/index.m3u8
+天虎突擊隊HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250213/41560_f50bba86/index.m3u8
+畢加索機關HD中字動作片美國,	https://yzzy21.playback-speed.com/20250212/41539_5cd9555b/index.m3u8
+蛇蠍美人心HD中字動作片加拿大,	https://yzzy21.playback-speed.com/20250212/41536_0f44ea3a/index.m3u8
+執法女先鋒2HD中字動作片美國,	https://yzzy21.playback-speed.com/20250212/41534_b04c9da9/index.m3u8
+青蛇緣起HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250212/41540_af5341aa/index.m3u8
+大官小官HD中字動作片印度,	https://svip.high24-playback.com/20250211/18426_18763821/index.m3u8
+古惑仔3之隻手遮天HD國語動作片香港,	https://yzzy.play-cdn17.com/20230820/16595_19ad0c55/index.m3u8
+古惑仔3之隻手遮天HD粵語動作片香港,	https://svip.high25-playback.com/20250211/19486_5af80c90/index.m3u8
+古惑仔2之猛龍過江HD國語動作片香港,	https://svip.high1-playback.com/20231002/1590_b4c75b5f/index.m3u8
+古惑仔2之猛龍過江HD粵語動作片香港,	https://svip.yyzy-play.vip/20250211/23250_826d9d4a/index.m3u8
+古惑仔之人在江湖HD國語動作片香港,	https://svip.high1-playback.com/20231002/1587_193a7d9b/index.m3u8
+古惑仔之人在江湖HD粵語動作片香港,	https://svip.yyzy-play.vip/20250211/23249_1dff005c/index.m3u8
+血腥瑪羅琳HD中字動作片法國,	https://yzzy21.playback-speed.com/20250210/41517_b198a7eb/index.m3u8
+引以為戒2HD中字動作片印度,	https://yzzy21.playback-speed.com/20250210/41514_22c648c4/index.m3u8
+雲杜娘HD中字動作片法國,	https://yzzy21.playback-speed.com/20250210/41509_90a1dc3d/index.m3u8
+改日再戰HD中字動作片美國,	https://yzzy21.playback-speed.com/20250209/41495_95e51df0/index.m3u8
+規則改變者HD中字動作片印度,	https://yzzy21.playback-speed.com/20250208/41475_5d6bc435/index.m3u8
+幽靈警官HD中字動作片印度,	https://yzzy21.playback-speed.com/20250207/41455_4f77bf1b/index.m3u8
+塞古羅港使命HD中字動作片,	https://yzzy21.playback-speed.com/20250206/41429_593df022/index.m3u8
+真假學園0木更津亂鬥篇HD中字動作片日本,	https://svip.yyzy-play.vip/20250206/22737_f68ff090/index.m3u8
+黑手黨戰爭HD中字動作片美國,	https://yzzy21.playback-speed.com/20250204/41399_6dc4cc90/index.m3u8
+剃光頭HD中字動作片,	https://yzzy21.playback-speed.com/20250204/41391_59002e2c/index.m3u8
+老男孩2013HD中字動作片美國,	https://svip.high24-playback.com/20250202/17477_4d074bcf/index.m3u8
+家園2024HD中字動作片美國,	https://yzzy21.playback-speed.com/20250201/41357_cf96d755/index.m3u8
+諜與蝶HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250201/41359_69c4664c/index.m3u8
+無間獵冰HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250201/41360_7e022cff/index.m3u8
+追龍番外篇之廉政大風暴HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250131/41344_ba05920e/index.m3u8
+斷毒HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250130/41322_4fec9138/index.m3u8
+大奉打更人之世間無我這般人HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250129/41311_72e78399/index.m3u8
+木乃伊狂鯊HD中字動作片美國,	https://yzzy21.playback-speed.com/20250128/41305_68b53bc3/index.m3u8
+為了皇帝HD中字動作片韓國,	https://yzzy21.playback-speed.com/20250128/41286_cd606d18/index.m3u8
+笑傲江湖2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250128/41290_ccea048a/index.m3u8
+笑傲江湖2025HD粵語動作片大陸,	https://yzzy21.playback-speed.com/20250128/41289_e5c6cce8/index.m3u8
+邪惡的剖析HD中字動作片,	https://yzzy21.playback-speed.com/20250127/41271_370de574/index.m3u8
+黑白潛行2HD粵語動作片大陸,	https://yzzy21.playback-speed.com/20250125/41247_fb471117/index.m3u8
+黑白潛行2HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250125/41246_aeb457e6/index.m3u8
+星際迷航：31區HD中字動作片美國,	https://yzzy21.playback-speed.com/20250124/41235_76e57955/index.m3u8
+御用牙1972HD中字動作片日本,	https://yzzy21.playback-speed.com/20250125/41241_54ed529f/index.m3u8
+殘陽獵殺HD中字動作片英國,	https://yzzy21.playback-speed.com/20250124/41216_16727ac6/index.m3u8
+解放：第二部HD中字動作片印度,	https://yzzy21.playback-speed.com/20250124/41218_b32bc2ec/index.m3u8
+墮入深淵2025HD中字動作片美國,	https://yzzy21.playback-speed.com/20250124/41210_e833a137/index.m3u8
+秦嶺詭事之守護者HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250124/41228_f0d39a77/index.m3u8
+海島巨蟒HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250123/41208_7ed3abd4/index.m3u8
+狙擊精英: 背水一戰HD中字動作片美國,	https://yzzy21.playback-speed.com/20250122/41165_867f4e46/index.m3u8
+槍支年代HD中字動作片美國,	https://yzzy21.playback-speed.com/20250122/41171_160bf223/index.m3u8
+神鵰俠侶：問世間HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250122/41184_ba277fde/index.m3u8
+鬼遮眼2015HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250119/41139_a99a9f03/index.m3u8
+帕爾馬之心HD中字動作片俄羅斯,	https://yzzy21.playback-speed.com/20250118/41134_2db8396c/index.m3u8
+速度與激情9HD中字動作片美國,	https://yzzy.play-cdn12.com/20221229/12848_19dd3dd1/index.m3u8
+速度與激情9HD國語動作片美國,	https://svip.yyzy-play.vip/20250119/21453_eb12b2db/index.m3u8
+亨利危險 電影版HD中字動作片美國,	https://yzzy21.playback-speed.com/20250118/41114_d44d6a2b/index.m3u8
+重返行動HD中字動作片美國,	https://yzzy21.playback-speed.com/20250118/41116_77803fa1/index.m3u8
+步槍俱樂部HD中字動作片印度,	https://yzzy21.playback-speed.com/20250118/41119_8fa8a40b/index.m3u8
+警報戰HD中字動作片美國,	https://yzzy21.playback-speed.com/20250118/41123_5d20c790/index.m3u8
+在西部的星空下HD中字動作片美國,	https://yzzy21.playback-speed.com/20250117/41105_ae055120/index.m3u8
+榮耀之誰與爭鋒HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250116/41099_c24a30e4/index.m3u8
+無跡之人HD中字動作片美國,	https://yzzy21.playback-speed.com/20250116/41093_10dd3984/index.m3u8
+普什帕：裁決HD中字動作片印度,	https://yzzy21.playback-speed.com/20250114/41064_1c9de9ac/index.m3u8
+鋼鐵鬥士HD中字動作片美國,	https://yzzy21.playback-speed.com/20250114/41071_ec42abc4/index.m3u8
+王者天下4HD中字動作片日本,	https://yzzy21.playback-speed.com/20250115/41078_38d76e2a/index.m3u8
+從邪惡中拯救我HD中字動作片韓國,	https://yzzy21.playback-speed.com/20241211/40513_0549bc7b/index.m3u8
+荒地之風HD中字動作片美國,	https://yzzy21.playback-speed.com/20250113/41026_7bda8d1d/index.m3u8
+星際異形HD中字動作片美國,	https://yzzy21.playback-speed.com/20250110/40971_5d9f554e/index.m3u8
+救命行動HD中字動作片法國,	https://yzzy21.playback-speed.com/20250110/40968_03c91454/index.m3u8
+護衛者3：決戰HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250110/40964_667efb72/index.m3u8
+精英部隊HD中字動作片,	https://yzzy21.playback-speed.com/20241230/40853_6257dc97/index.m3u8
+精英部隊2：大敵當前HD中字動作片,	https://yzzy21.playback-speed.com/20241230/40854_bc86d14d/index.m3u8
+深入敵後搞搞震2HD中字動作片法國,	https://yzzy21.playback-speed.com/20241230/40826_241af5bc/index.m3u8
+三劍客2011HD中字動作片美國,	https://yzzy21.playback-speed.com/20241230/40821_bbd8bb3d/index.m3u8
+再造戰士4：清算之日HD中字動作片美國,	https://yzzy21.playback-speed.com/20250101/40865_ac87667b/index.m3u8
+獅女HD中字動作片美國,	https://yzzy21.playback-speed.com/20250101/40866_7e35b294/index.m3u8
+蝙蝠俠HD中字動作片美國,	https://svip.high24-playback.com/20250105/15222_82a3474b/index.m3u8
+罪犯鬥獸場HD中字動作片美國,	https://yzzy21.playback-speed.com/20250104/40903_701049e9/index.m3u8
+黑衣天使2024HD中字動作片印度,	https://yzzy21.playback-speed.com/20250104/40905_ebc684cb/index.m3u8
+怪人2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250103/40884_6044d5f0/index.m3u8
+魔道天師：幽冥黃泉HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250103/40887_06254efe/index.m3u8
+指環王：洛汗之戰HD中字動作片美國,	https://yzzy21.playback-speed.com/20241228/40778_82818cbb/index.m3u8
+緝毒警探HD中字動作片美國,	https://yzzy21.playback-speed.com/20241226/40768_35bbbe01/index.m3u8
+獵毒者2HD國語動作片大陸,	https://yzzy21.playback-speed.com/20241226/40765_08709dd5/index.m3u8
+破局2025HD國語動作片大陸,	https://yzzy21.playback-speed.com/20250101/40868_bbb100ab/index.m3u8
+老炮敢死隊HD國語動作片大陸,	https://yzzy21.playback-speed.com/20241231/40859_a875fceb/index.m3u8
+異變狼人HD中字動作片美國,	https://yzzy21.playback-speed.com/20241225/40747_9a7ba1e7/index.m3u8
+暴走午夜HD中字動作片西班牙,	https://yzzy21.playback-speed.com/20241225/40746_492f1aae/index.m3u8
+命運征服者2024：印度版HD中字動作片印度,	https://yzzy21.playback-speed.com/20241223/40721_48070299/index.m3u8
+烏托邦HD中字動作片美國,	https://yzzy21.playback-speed.com/20241223/40717_94a61d33/index.m3u8
+獵毒者HD國語動作片大陸,	https://yzzy21.playback-speed.com/20241223/40713_5512393b/index.m3u8
+粉碎罪惡HD中字動作片,	https://yzzy21.playback-speed.com/20241222/40710_b7d157d6/index.m3u8
+心靈致動HD中字動作片馬來西亞,	https://yzzy21.playback-speed.com/20241222/40708_c9882219/index.m3u8
+復仇女神2024HD中字動作片,	https://yzzy21.playback-speed.com/20241222/40703_cda1559c/index.m3u8
+冷雨劍瀟瀟HD國語動作片大陸,	https://yzzy21.playback-speed.com/20241227/40775_1dca1b37/index.m3u8
+海盜霸王HD中字動作片美國,	https://yzzy21.playback-speed.com/20241220/40684_98f01586/index.m3u8
+吞噬星空劇場版 血洛大陸HD國語動作片大陸,	https://svip.high25-playback.com/20241208/13880_f6309080/index.m3u8
+蕩寇灘HD國語動作片香港,	https://yzzy21.playback-speed.com/20241218/40658_18e086a7/index.m3u8
+機車殺手HD中字動作片美國,	https://yzzy21.playback-speed.com/20241218/40655_feddab26/index.m3u8
+巨猿大戰機械猿：新秩序HD中字動作片美國,	https://yzzy21.playback-speed.com/20241217/40634_fe533c10/index.m3u8
+紫茉莉HD中字動作片印度,	https://yzzy21.playback-speed.com/20241216/40629_70fd9640/index.m3u8
+繡春刀：誅邪HD國語動作片大陸,	https://yzzy21.playback-speed.com/20241225/40757_abf192b5/index.m3u8
 驚爆摩天樓1996HD中字動作片美國,https://yzzy21.playback-speed.com/20241215/40589_3a485ab8/index.m3u8
 震撼擂臺HD國語動作片大陸,https://yzzy21.playback-speed.com/20241223/40728_87662716/index.m3u8
 海岸線HD中字動作片韓國,https://svip.yyzy-play.vip/20241223/19803_6d97befd/index.m3u8
@@ -2456,7 +2452,6 @@ X醫生：外科醫生大門未知子電影版2024HD中字劇情片日本,https:
 黃河女兒(HD國語)2025,https://cdn.yzzy29-play.com/20250802/465_68ce199e/index.m3u8
 誠實的生活(HD中字)2025,https://cdn.yzzy29-play.com/20250802/463_428fca9b/index.m3u8
 8(HD中字)2025,https://cdn.yzzy29-play.com/20250802/462_51d92be1/index.m3u8
-2025-08-0110:58:08
 替天行道2001(HD中字),https://cdn.yzzy29-play.com/20250731/456_250cf8b5/index.m3u8
 生存迴圈(HD中字)2015,https://cdn.yzzy29-play.com/20250731/455_821fa74b/index.m3u8
 熱牛奶(HD中字)2025,https://cdn.yzzy29-play.com/20250731/454_e44fea3b/index.m3u8
@@ -4665,6 +4660,7 @@ CRI環球資訊廣播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界華聲(粵客閩潮方言廣播海峽飛虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM輕鬆調頻,https://sk.cri.cn/915.m3u8
 HITFM勁曲調頻,https://sk.cri.cn/887.m3u8
+
 
 
 
