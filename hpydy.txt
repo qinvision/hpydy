@@ -1874,66 +1874,67 @@ X計劃HD中字喜劇片美國,	https://yzzy21.playback-speed.com/20250201/41348
 紅樓夢第四部：二尤慘死1989HD國語愛情片大陸,https://cdn.yzzy27-play.com/20250806/15265_987ecf18/index.m3u8
 紅樓夢第三部：鳳姐潑醋1989HD國語愛情片大陸,https://cdn.yzzy27-play.com/20250806/15264_ce738adf/index.m3u8
 紅樓夢第二部：黛玉葬花1989HD國語愛情片大陸,https://cdn.yzzy27-play.com/20250806/15263_c018ae0e/index.m3u8
-盛夏光年2006(HD國語),https://cdn.yzzy29-play.com/20250805/493_2f55707d/index.m3u8
-餘生多指教2025(HD國語),https://cdn.yzzy29-play.com/20250803/482_f770b62b/index.m3u8
-長髮鬼2023(HD中字),https://cdn.yzzy29-play.com/20250803/483_e1e32e23/index.m3u8
-6E班2017(HD國語),https://cdn.yzzy29-play.com/20250804/485_218a0aef/index.m3u8
-情事五段半(HD國語)2023,https://cdn.yzzy29-play.com/20250802/468_877a9ba7/index.m3u8
-初吻2025(HD中字),https://cdn.yzzy29-play.com/20250802/464_f1b6f285/index.m3u8
-盜墓驚魂之鎖魂(HD國語)2017,https://cdn.yzzy27-play.com/20250802/12375_2609acba/index.m3u8
-紫羅蘭永恆花園劇場版(HD中字)2020,https://cdn.yzzy29-play.com/20250731/459_7fe1f8ab/index.m3u8
-朝鮮魔術師2015(HD中字),https://cdn.yzzy29-play.com/20250727/420_b6f0479a/index.m3u8
-五朵金花的兒女(DVD國語),https://vvip.high26-playback.com/20250725/16550_043c2a4b/index.m3u8
-時間之子(HD國語),https://cdn.yzzy29-play.com/20250724/399_352fe25d/index.m3u8
-普拉酒店(HD中字),https://cdn.yzzy29-play.com/20250723/394_28f0b864/index.m3u8
-愛只在一瞬間(HD中字),https://cdn.yzzy29-play.com/20250723/392_f73b76ce/index.m3u8
-非標準戀愛(HD國語),https://cdn.yzzy29-play.com/20250720/375_f61d6947/index.m3u8
-傑森博士II-光與影(HD中字),https://cdn.yzzy29-play.com/20250718/368_cf004fdc/index.m3u8
-赤橙黃綠青藍紫(HD國語),https://vvip.high26-playback.com/20250719/15999_064ba0b2/index.m3u8
-餘生一年的我，遇見了餘生半年的你的故事(HD中字),https://cdn.yzzy29-play.com/20250718/364_bac9162b/index.m3u8
-簡·奧斯汀毀了我的生活(HD中字),https://cdn.yzzy29-play.com/20250716/350_9de6d14f/index.m3u8
-同床不軌(HD國語),https://cdn.yzzy27-play.com/20250717/10485_e4f37b9e/index.m3u8
-音欲(HD中字),https://cdn.yzzy29-play.com/20250716/345_d81f9c1b/index.m3u8
-逃生之門(HD國語),https://cdn.yzzy29-play.com/20250716/344_b3967a0e/index.m3u8
-愛的季節(HD中字),https://cdn.yzzy29-play.com/20250716/342_58238e9a/index.m3u8
-0公里(HD中字),https://cdn.yzzy29-play.com/20250715/339_04025959/index.m3u8
-睡眠經銷商(HD中字),https://cdn.yzzy29-play.com/20250715/338_819f46e5/index.m3u8
-殭屍高校4：吸血鬼黎明(HD中字),https://cdn.yzzy29-play.com/20250713/329_6faa8040/index.m3u8
-結婚與遺產(HD中字),https://cdn.yzzy29-play.com/20250712/319_8d3bba74/index.m3u8
-像你這樣的人2025(HD中字),https://cdn.yzzy29-play.com/20250712/322_5737c6ec/index.m3u8
-愛情也有版權嗎?(HD無字),https://vvip.high26-playback.com/20250712/14755_cc8f2e58/index.m3u8
-不了情2015(HD中字),https://cdn.yzzy29-play.com/20250709/282_6a9aeddf/index.m3u8
-相親大作戰(HD中字),https://cdn.yzzy29-play.com/20250710/290_f90f2aca/index.m3u8
-征服曼哈頓(HD中字),https://cdn.yzzy29-play.com/20250709/278_07cdfd23/index.m3u8
-紅樓夢之金玉良緣(HD國語),https://cdn.yzzy29-play.com/20250708/274_d947bf06/index.m3u8
-藍色太陽宮(HD國語),https://cdn.yzzy29-play.com/20250706/260_a4f23670/index.m3u8
-匠魂(HD國語),https://cdn.yzzy29-play.com/20250705/255_fe131d7f/index.m3u8
-男與女1983(HD國語),https://cdn.yzzy27-play.com/20250705/9136_28891cb4/index.m3u8
-男與女1983(HD粵語),https://cdn.yzzy27-play.com/20250705/9137_ee3dd1c2/index.m3u8
-戀小滿的小滿意(HD國語),https://cdn.yzzy29-play.com/20250703/238_ac1dd209/index.m3u8
-愛的時光2023(HD中字),https://cdn.yzzy29-play.com/20250702/213_979d472a/index.m3u8
-烈焰危情(HD國語),https://cdn.yzzy29-play.com/20250701/207_69adc1e1/index.m3u8
-不知戀愛的我們(HD中字),https://cdn.yzzy29-play.com/20250701/199_84d9ee44/index.m3u8
-總統愛情(HD中字),https://cdn.yzzy29-play.com/20250629/195_0336dcba/index.m3u8
-大海作證(HD中字),https://cdn.yzzy29-play.com/20250628/174_bf822969/index.m3u8
-兩個女人2010(HD中字),https://cdn.yzzy28-play.com/20250625/5904_05ae14d7/index.m3u8
-有一個地方只有我們知道(HD國語),https://cdn.yzzy29-play.com/20250624/154_1d7f7abc/index.m3u8
-此前此後1999(HD中字),https://cdn.yzzy29-play.com/20250621/135_7f1de29e/index.m3u8
-致巴塞羅那，永遠(HD中字),https://cdn.yzzy29-play.com/20250616/92_92cc2275/index.m3u8
-戀曲塵封(HD國語),https://cdn.yzzy29-play.com/20250615/75_d09bf415/index.m3u8
-勒克瑙之花(HD中字),https://cdn.yzzy27-play.com/20250615/6932_caaa29ea/index.m3u8
-地下鐵2003(HD國語),https://cdn.yzzy29-play.com/20250611/30_34173cb3/index.m3u8
-命運之手2025(HD國語),https://yzzy21.playback-speed.com/20250607/43183_e1eb0dc6/index.m3u8
-朱麗葉與羅密歐2025(HD中字),https://yzzy21.playback-speed.com/20250605/43163_95ece4dd/index.m3u8
-雙峰：遺失的碎片(HD中字),https://cdn.yzzy27-play.com/20250606/5560_f05f78cb/index.m3u8
-東京少女2008(HD中字),https://yzzy21.playback-speed.com/20250602/43145_3d1dfde9/index.m3u8
-記憶摩天輪2025(HD國語),https://yzzy21.playback-speed.com/20250601/43134_66b708d4/index.m3u8
-我在等，風也在等2025(HD國語),https://yzzy21.playback-speed.com/20250530/43115_8f3a59e2/index.m3u8
-病毒2025(HD中字),https://yzzy21.playback-speed.com/20250527/43096_d0b2ef3b/index.m3u8
-聖誕佳節風情錄2009(HD中字),https://yzzy21.playback-speed.com/20250525/43084_1b02d19f/index.m3u8
-心若在，家就在(HD中字),https://yzzy21.playback-speed.com/20250525/43077_39f08ca9/index.m3u8
-愛屋及汙2011(HD中字),https://yzzy21.playback-speed.com/20250525/43068_99fb2c00/index.m3u8
-恩怨情天1984(HD中字),https://yzzy21.playback-speed.com/20250524/43066_24fe7c0c/index.m3u8
+盛夏光年2006HD國語愛情片臺灣,	https://cdn.yzzy29-play.com/20250805/493_2f55707d/index.m3u8
+餘生多指教HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250803/482_f770b62b/index.m3u8
+長髮鬼HD中字愛情片,	https://cdn.yzzy29-play.com/20250803/483_e1e32e23/index.m3u8
+6E班HD國語愛情片香港,	https://cdn.yzzy29-play.com/20250804/485_218a0aef/index.m3u8
+情事五段半HD國語愛情片,	https://cdn.yzzy29-play.com/20250802/468_877a9ba7/index.m3u8
+初吻2025HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250802/464_f1b6f285/index.m3u8
+盜墓驚魂之鎖魂HD國語愛情片大陸,	https://cdn.yzzy27-play.com/20250802/12375_2609acba/index.m3u8
+紫羅蘭永恆花園 劇場版HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250731/459_7fe1f8ab/index.m3u8
+朝鮮魔術師HD中字愛情片韓國,	https://cdn.yzzy29-play.com/20250727/420_b6f0479a/index.m3u8
+五朵金花的兒女DVD國語愛情片大陸,	https://vvip.high26-playback.com/20250725/16550_043c2a4b/index.m3u8
+時間之子HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250724/399_352fe25d/index.m3u8
+普拉酒店HD中字愛情片,	https://cdn.yzzy29-play.com/20250723/394_28f0b864/index.m3u8
+愛只在一瞬間HD中字愛情片,	https://cdn.yzzy29-play.com/20250723/392_f73b76ce/index.m3u8
+非標準戀愛HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250720/375_f61d6947/index.m3u8
+傑森博士 II - 光與影HD中字愛情片美國,	https://cdn.yzzy29-play.com/20250718/368_cf004fdc/index.m3u8
+赤橙黃綠青藍紫HD國語愛情片大陸,	https://vvip.high26-playback.com/20250719/15999_064ba0b2/index.m3u8
+餘生一年的我，遇見了餘生半年的你的故事HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250718/364_bac9162b/index.m3u8
+簡·奧斯汀毀了我的生活HD中字愛情片法國,	https://cdn.yzzy29-play.com/20250716/350_9de6d14f/index.m3u8
+同床不軌HD國語愛情片大陸,	https://cdn.yzzy27-play.com/20250717/10485_e4f37b9e/index.m3u8
+音欲HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250716/345_d81f9c1b/index.m3u8
+逃生之門HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250716/344_b3967a0e/index.m3u8
+愛的季節HD中字愛情片,	https://cdn.yzzy29-play.com/20250716/342_58238e9a/index.m3u8
+0公里HD中字愛情片,	https://cdn.yzzy29-play.com/20250715/339_04025959/index.m3u8
+睡眠經銷商HD中字愛情片,	https://cdn.yzzy29-play.com/20250715/338_819f46e5/index.m3u8
+殭屍高校4：吸血鬼黎明HD中字愛情片美國,	https://cdn.yzzy29-play.com/20250713/329_6faa8040/index.m3u8
+結婚與遺產HD中字愛情片加拿大,	https://cdn.yzzy29-play.com/20250712/319_8d3bba74/index.m3u8
+像你這樣的人2025HD中字愛情片印度,	https://cdn.yzzy29-play.com/20250712/322_5737c6ec/index.m3u8
+愛情也有版權嗎?HD無字愛情片韓國,	https://vvip.high26-playback.com/20250712/14755_cc8f2e58/index.m3u8
+不了情2015HD中字愛情片印度,	https://cdn.yzzy29-play.com/20250709/282_6a9aeddf/index.m3u8
+相親大作戰HD中字愛情片美國,	https://cdn.yzzy29-play.com/20250710/290_f90f2aca/index.m3u8
+征服曼哈頓HD中字愛情片英國,	https://cdn.yzzy29-play.com/20250709/278_07cdfd23/index.m3u8
+紅樓夢之金玉良緣HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250708/274_d947bf06/index.m3u8
+藍色太陽宮HD國語愛情片美國,	https://cdn.yzzy29-play.com/20250706/260_a4f23670/index.m3u8
+匠魂HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250705/255_fe131d7f/index.m3u8
+男與女1983HD國語愛情片香港,	https://cdn.yzzy27-play.com/20250705/9136_28891cb4/index.m3u8
+男與女1983HD粵語愛情片香港,	https://cdn.yzzy27-play.com/20250705/9137_ee3dd1c2/index.m3u8
+戀小滿的小滿意HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250703/238_ac1dd209/index.m3u8
+愛的時光2023HD中字愛情片法國,	https://cdn.yzzy29-play.com/20250702/213_979d472a/index.m3u8
+烈焰危情HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250701/207_69adc1e1/index.m3u8
+不知戀愛的我們HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250701/199_84d9ee44/index.m3u8
+總統愛情HD中字愛情片,	https://cdn.yzzy29-play.com/20250629/195_0336dcba/index.m3u8
+大海作證HD中字愛情片日本,	https://cdn.yzzy29-play.com/20250628/174_bf822969/index.m3u8
+兩個女人2010HD中字愛情片韓國,	https://cdn.yzzy28-play.com/20250625/5904_05ae14d7/index.m3u8
+有一個地方只有我們知道HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250624/154_1d7f7abc/index.m3u8
+此前此後1999HD中字愛情片法國,	https://cdn.yzzy29-play.com/20250621/135_7f1de29e/index.m3u8
+致巴塞羅那，永遠HD中字愛情片西班牙,	https://cdn.yzzy29-play.com/20250616/92_92cc2275/index.m3u8
+戀曲塵封HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250615/75_d09bf415/index.m3u8
+勒克瑙之花HD中字愛情片印度,	https://cdn.yzzy27-play.com/20250615/6932_caaa29ea/index.m3u8
+地下鐵2003HD國語愛情片大陸,	https://cdn.yzzy29-play.com/20250611/30_34173cb3/index.m3u8
+命運之手2025HD國語愛情片大陸,	https://yzzy21.playback-speed.com/20250607/43183_e1eb0dc6/index.m3u8
+朱麗葉與羅密歐HD中字愛情片美國,	https://yzzy21.playback-speed.com/20250605/43163_95ece4dd/index.m3u8
+雙峰：遺失的碎片HD中字愛情片美國,	https://cdn.yzzy27-play.com/20250606/5560_f05f78cb/index.m3u8
+東京少女HD中字愛情片日本,	https://yzzy21.playback-speed.com/20250602/43145_3d1dfde9/index.m3u8
+記憶摩天輪HD國語愛情片大陸,	https://yzzy21.playback-speed.com/20250601/43134_66b708d4/index.m3u8
+我在等，風也在等HD國語愛情片大陸,	https://yzzy21.playback-speed.com/20250530/43115_8f3a59e2/index.m3u8
+病毒2025HD中字愛情片韓國,	https://yzzy21.playback-speed.com/20250527/43096_d0b2ef3b/index.m3u8
+聖誕佳節風情錄HD中字愛情片美國,	https://yzzy21.playback-speed.com/20250525/43084_1b02d19f/index.m3u8
+心若在，家就在HD中字愛情片,	https://yzzy21.playback-speed.com/20250525/43077_39f08ca9/index.m3u8
+愛屋及汙HD中字愛情片法國,	https://yzzy21.playback-speed.com/20250525/43068_99fb2c00/index.m3u8
+恩怨情天1984HD中字愛情片英國,	https://yzzy21.playback-speed.com/20250524/43066_24fe7c0c/index.m3u8
+
 
 
 
@@ -4664,6 +4665,7 @@ CRI環球資訊廣播(CRINewsRadio),https://sk.cri.cn/905.m3u8
 CRI世界華聲(粵客閩潮方言廣播海峽飛虹),https://sk.cri.cn/hxfh.m3u8
 CRIEZFM輕鬆調頻,https://sk.cri.cn/915.m3u8
 HITFM勁曲調頻,https://sk.cri.cn/887.m3u8
+
 
 
 
