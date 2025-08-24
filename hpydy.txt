@@ -6071,57 +6071,75 @@ JUQ-090 學生時代被性騷擾的老師，因為那天應召女郎碰巧重逢
 📀倾听民歌,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔴
-1送情郎（闫学晶版）八字歌名(闫学晶),https://www.qupu123.com/Public/Uploads/mp3/2025/08/13/689bd7735bbac.mp3
-2荷花颂 - 童丽主唱八字歌名(童丽),https://www.qupu123.com/Public/Uploads/mp3/2025/07/27/688563c964c87.MP3
-3草原天使四字歌名(熬都),https://www.qupu123.com/Public/Uploads/mp3/2025/07/15/687628f363eb5.mp3
-4山那边(女版)五字歌名(影子),https://www.qupu123.com/Public/Uploads/mp3/2025/07/02/686511d692556.mp3
-5问新疆（完整版）八字歌名(殷秀梅),https://www.qupu123.com/Public/Uploads/mp3/2025/07/02/686511d692556.mp3
-6阿拉斯布姆五字歌名(阿斯满),https://www.qupu123.com/Public/Uploads/mp3/2025/06/15/684e1894dacca.mp3
-7那片山岗四字歌名(宇航),https://www.qupu123.com/Public/Uploads/mp3/2025/06/09/684641023d942.mp3
-8爱的舞曲 - 云飞七字歌名(云飞),https://www.qupu123.com/Public/Uploads/mp3/2025/06/02/683da6271ffbb.mp3
-9阿杰拉卓四字歌名(阿桑旦巴),https://www.qupu123.com/Public/Uploads/mp3/2025/05/31/683acbe0eefda.mp3
-10月光如水四字歌名(傲日其楞),https://www.qupu123.com/Public/Uploads/mp3/2025/05/27/6835ae325420d.MP3
-11梦中的雪域五字歌名(旦增贡桑),https://www.qupu123.com/Public/Uploads/mp3/2025/05/18/6829a62ab15f8.mp3
-12月亮里的阿妹（湘西深山乐队）六字歌名(湘西深山乐队),https://www.qupu123.com/Public/Uploads/mp3/2025/05/03/681624628f4f4.mp3
-13古城之恋四字歌名(和文军),https://www.qupu123.com/Public/Uploads/mp3/2025/05/01/6812c055c3257.mp3
-14神奇的丹巴五字歌名(兰卡措（兰卡初）),https://www.qupu123.com/Public/Uploads/mp3/2025/04/22/68077ad4da600.mp3
-15阿妈的呼唤五字歌名(敖都),https://www.qupu123.com/Public/Uploads/mp3/2025/03/24/67e1540ec9fab.mp3
-16再唱兰花花五字歌名(雪地野草),https://www.qupu123.com/Public/Uploads/mp3/2025/03/21/67dd5d39e57c6.mp3
-17又唱兰花花五字歌名(郝萌),https://www.qupu123.com/Public/Uploads/mp3/2025/03/19/67da213124c1d.mp3
-18解酒-七郎（闽南语歌曲）四字歌名(七郎),https://www.qupu123.com/Public/Uploads/mp3/2025/03/16/67d65e415a399.mp3
-19娥嫚（完整版）七字歌名(齐坦布),https://www.qupu123.com/Public/Uploads/mp3/2025/03/15/67d4b5a23a164.mp3
-20吉祥杓哇四字歌名(阿桑旦巴),https://www.qupu123.com/Public/Uploads/mp3/2025/03/12/67d174a0a42a6.mp3
-21就在这一刻-刀郎七字歌名(刀郎),https://www.qupu123.com/Public/Uploads/mp3/2025/03/09/67cd9aaa42917.MP3
-22草原的守候四字歌名(苏日娜),https://www.qupu123.com/Public/Uploads/mp3/2025/01/20/678dadeedd4d7.mp3
-23你在草原等着我七字歌名(阿诗娜),https://www.qupu123.com/Public/Uploads/mp3/2025/01/19/678c631a14e99.MP3
-24草原我的故乡六字歌名(胡尔沁夫),https://www.qupu123.com/Public/Uploads/mp3/2025/01/15/6787a75433c87.mp3
-25心之寻-电吹管版七字歌名(海之韵),https://www.qupu123.com/Public/Uploads/mp3/2024/12/16/675ff668cf19d.mp3
+1送情郎（闫学晶版）(闫学晶),https://www.qupu123.com/Public/Uploads/mp3/2025/08/13/689bd7735bbac.mp3
+2荷花颂 - 童丽主唱(童丽),https://www.qupu123.com/Public/Uploads/mp3/2025/07/27/688563c964c87.MP3
+3草原天使(熬都),https://www.qupu123.com/Public/Uploads/mp3/2025/07/15/687628f363eb5.mp3
+4山那边(女版)(影子),https://www.qupu123.com/Public/Uploads/mp3/2025/07/02/686511d692556.mp3
+5问新疆（完整版）(殷秀梅),https://www.qupu123.com/Public/Uploads/mp3/2025/07/02/686511d692556.mp3
+6阿拉斯布姆(阿斯满),https://www.qupu123.com/Public/Uploads/mp3/2025/06/15/684e1894dacca.mp3
+7那片山岗(宇航),https://www.qupu123.com/Public/Uploads/mp3/2025/06/09/684641023d942.mp3
+8爱的舞曲 - 云飞(云飞),https://www.qupu123.com/Public/Uploads/mp3/2025/06/02/683da6271ffbb.mp3
+9阿杰拉卓(阿桑旦巴),https://www.qupu123.com/Public/Uploads/mp3/2025/05/31/683acbe0eefda.mp3
+10月光如水(傲日其楞),https://www.qupu123.com/Public/Uploads/mp3/2025/05/27/6835ae325420d.MP3
+11梦中的雪域(旦增贡桑),https://www.qupu123.com/Public/Uploads/mp3/2025/05/18/6829a62ab15f8.mp3
+12月亮里的阿妹（湘西深山乐队）(湘西深山乐队),https://www.qupu123.com/Public/Uploads/mp3/2025/05/03/681624628f4f4.mp3
+13古城之恋(和文军),https://www.qupu123.com/Public/Uploads/mp3/2025/05/01/6812c055c3257.mp3
+14神奇的丹巴(兰卡措（兰卡初）),https://www.qupu123.com/Public/Uploads/mp3/2025/04/22/68077ad4da600.mp3
+15阿妈的呼唤(敖都),https://www.qupu123.com/Public/Uploads/mp3/2025/03/24/67e1540ec9fab.mp3
+16再唱兰花花(雪地野草),https://www.qupu123.com/Public/Uploads/mp3/2025/03/21/67dd5d39e57c6.mp3
+17又唱兰花花(郝萌),https://www.qupu123.com/Public/Uploads/mp3/2025/03/19/67da213124c1d.mp3
+18解酒-七郎（闽南语歌曲）(七郎),https://www.qupu123.com/Public/Uploads/mp3/2025/03/16/67d65e415a399.mp3
+19娥嫚（完整版）(齐坦布),https://www.qupu123.com/Public/Uploads/mp3/2025/03/15/67d4b5a23a164.mp3
+20吉祥杓哇(阿桑旦巴),https://www.qupu123.com/Public/Uploads/mp3/2025/03/12/67d174a0a42a6.mp3
+21就在这一刻-刀郎(刀郎),https://www.qupu123.com/Public/Uploads/mp3/2025/03/09/67cd9aaa42917.MP3
+22草原的守候(苏日娜),https://www.qupu123.com/Public/Uploads/mp3/2025/01/20/678dadeedd4d7.mp3
+23你在草原等着我(阿诗娜),https://www.qupu123.com/Public/Uploads/mp3/2025/01/19/678c631a14e99.MP3
+24草原我的故乡(胡尔沁夫),https://www.qupu123.com/Public/Uploads/mp3/2025/01/15/6787a75433c87.mp3
+25心之寻-电吹管版(海之韵),https://www.qupu123.com/Public/Uploads/mp3/2024/12/16/675ff668cf19d.mp3
 🔴
-1花兒與少年（QQ影音飛圗版）九字以上(青海民歌),https://www.qupu123.com/Public/Uploads/mp3/2024/11/12/67333896a7a54.MP3
-2妈妈的洪湖水六字歌名(阿赖),https://www.qupu123.com/Public/Uploads/mp3/2024/11/05/672961467f93a.mp3
-3离天最近的地方七字歌名(孟文豪 阿斯根),https://www.qupu123.com/data2/uploads/mp3/2024/10/20/6714bc099bf7b.mp3
-4梦中的草原五字歌名(凭栏听雨),
-5父母亲三字歌名(苏伦),https://www.qupu123.com/Public/Uploads/mp3/2024/09/13/66e416f3d7a7f.mp3
-6苹果香（云飞版）八字歌名(云飞),https://www.qupu123.com/Public/Uploads/mp3/2024/08/15/66bd68f668339.mp3
-7水乡情歌四字歌名(云飞燕),https://www.qupu123.com/Public/Uploads/mp3/2024/08/04/66aec175ed28b.mp3
-8星星下的故乡六字歌名(依蓉儿),https://www.qupu123.com/Public/Uploads/mp3/2024/07/26/66a2c7bfb5976.mp3
-9情歌之爱 (对唱)六字歌名(党明毅、红蔷薇),https://www.qupu123.com/Public/Uploads/mp3/2024/06/19/6672358665994.mp3
-10心中流淌的纳林河八字歌名(李牧臻),https://www.qupu123.com/Public/Uploads/mp3/2024/06/17/66701fbb38b67.mp3
-11田侨仔问西施（闽南语）六字歌名(谢宜君、陈随意),https://www.qupu123.com/Public/Uploads/mp3/2024/06/10/66661a43343d6.mp3
-12犀牛望月恨天高（云贵山歌）七字歌名(满春),https://www.qupu123.com/Public/Uploads/mp3/2024/06/06/6661a8575395a.MP3
-13一暝 （闽南语）七字歌名(杨静),https://www.qupu123.com/Public/Uploads/mp3/2024/06/03/665dd169099fc.mp3
-14天使的牧歌五字歌名(郭村月),https://www.qupu123.com/Public/Uploads/mp3/2024/05/21/664bb9f88f5bb.mp3
-15爱在莫云滩五字歌名(安康·吾金才仁),https://www.qupu123.com/Public/Uploads/mp3/2024/05/15/66445620402b7.mp3
-16拥抱扎尕那五字歌名(云丹久美),https://www.qupu123.com/Public/Uploads/mp3/2024/05/15/664455d62aa72.mp3
-17乃楞格尔的夜六字歌名(娄译心),https://www.qupu123.com/Public/Uploads/mp3/2024/05/08/663b4740045a9.mp3
-18情投意合（藏语歌曲）九字以上(谢旦 桑登措姆),https://www.qupu123.com/Public/Uploads/mp3/2024/04/16/661e751d1194a.mp3
-19酸甜苦辣都是歌七字歌名(衡越),https://www.qupu123.com/Public/Uploads/mp3/2024/04/13/661a5cb22b75a.MP3
-20隔山隔水隔不断我和你九字以上(李珍),https://www.qupu123.com/Public/Uploads/mp3/2024/03/31/6608aaed1efd7.MP3
-21因果颂三字歌名(方瑄),https://www.qupu123.com/Public/Uploads/mp3/2024/03/29/6605e42141996.MP3
-22绥德的婆姨酸溜溜的曲五字歌名(佚名),https://www.qupu123.com/Public/Uploads/mp3/2024/03/22/65fd8eca21bae.mp3
-23戴香包的哥哥六字歌名(罗姣),https://www.qupu123.com/Public/Uploads/mp3/2024/03/15/65f453236f661.mp3
-24龙丹花三字歌名(谈芳兵),https://www.qupu123.com/Public/Uploads/mp3/2024/03/14/65f3071e1f518.mp3
-25双双燕三字歌名(李琼 韩政),https://www.qupu123.com/Public/Uploads/mp3/2024/03/03/65e3b79f50f5e.mp3
+26花兒與少年（QQ影音飛圗版）(青海民歌),https://www.qupu123.com/Public/Uploads/mp3/2024/11/12/67333896a7a54.MP3
+27妈妈的洪湖水(阿赖),https://www.qupu123.com/Public/Uploads/mp3/2024/11/05/672961467f93a.mp3
+28离天最近的地方(孟文豪 阿斯根),https://www.qupu123.com/data2/uploads/mp3/2024/10/20/6714bc099bf7b.mp3
+29梦中的草原(凭栏听雨),
+30父母亲(苏伦),https://www.qupu123.com/Public/Uploads/mp3/2024/09/13/66e416f3d7a7f.mp3
+31苹果香（云飞版）(云飞),https://www.qupu123.com/Public/Uploads/mp3/2024/08/15/66bd68f668339.mp3
+32水乡情歌(云飞燕),https://www.qupu123.com/Public/Uploads/mp3/2024/08/04/66aec175ed28b.mp3
+33星星下的故乡(依蓉儿),https://www.qupu123.com/Public/Uploads/mp3/2024/07/26/66a2c7bfb5976.mp3
+34情歌之爱 (对唱)(党明毅、红蔷薇),https://www.qupu123.com/Public/Uploads/mp3/2024/06/19/6672358665994.mp3
+35心中流淌的纳林河(李牧臻),https://www.qupu123.com/Public/Uploads/mp3/2024/06/17/66701fbb38b67.mp3
+36田侨仔问西施（闽南语）(谢宜君、陈随意),https://www.qupu123.com/Public/Uploads/mp3/2024/06/10/66661a43343d6.mp3
+37犀牛望月恨天高（云贵山歌）(满春),https://www.qupu123.com/Public/Uploads/mp3/2024/06/06/6661a8575395a.MP3
+38一暝 （闽南语）(杨静),https://www.qupu123.com/Public/Uploads/mp3/2024/06/03/665dd169099fc.mp3
+39天使的牧歌(郭村月),https://www.qupu123.com/Public/Uploads/mp3/2024/05/21/664bb9f88f5bb.mp3
+40爱在莫云滩(安康·吾金才仁),https://www.qupu123.com/Public/Uploads/mp3/2024/05/15/66445620402b7.mp3
+41拥抱扎尕那(云丹久美),https://www.qupu123.com/Public/Uploads/mp3/2024/05/15/664455d62aa72.mp3
+42乃楞格尔的夜(娄译心),https://www.qupu123.com/Public/Uploads/mp3/2024/05/08/663b4740045a9.mp3
+43情投意合（藏语歌曲）(谢旦 桑登措姆),https://www.qupu123.com/Public/Uploads/mp3/2024/04/16/661e751d1194a.mp3
+44酸甜苦辣都是歌(衡越),https://www.qupu123.com/Public/Uploads/mp3/2024/04/13/661a5cb22b75a.MP3
+45隔山隔水隔不断我和你(李珍),https://www.qupu123.com/Public/Uploads/mp3/2024/03/31/6608aaed1efd7.MP3
+46因果颂(方瑄),https://www.qupu123.com/Public/Uploads/mp3/2024/03/29/6605e42141996.MP3
+47绥德的婆姨酸溜溜的曲(佚名),https://www.qupu123.com/Public/Uploads/mp3/2024/03/22/65fd8eca21bae.mp3
+48戴香包的哥哥(罗姣),https://www.qupu123.com/Public/Uploads/mp3/2024/03/15/65f453236f661.mp3
+49龙丹花(谈芳兵),https://www.qupu123.com/Public/Uploads/mp3/2024/03/14/65f3071e1f518.mp3
+50双双燕(李琼 韩政),https://www.qupu123.com/Public/Uploads/mp3/2024/03/03/65e3b79f50f5e.mp3
+🔴
+
+🔴
+
+🔴
+
+🔴
+
+🔴
+
+🔴
+
+🔴
+
+🔴
+
+🔴
+
 
 
 
