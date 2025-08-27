@@ -31,7 +31,81 @@ https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/
 代价2024HD中字剧情片加拿大,https://cdn.yzzy29-play.com/20250827/1026_24146db4/index.m3u8
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺大陆电视,#genre#
+CCTV1,http://110.181.238.30:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.181.238.30:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://110.181.238.30:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://110.181.238.30:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://110.181.238.30:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://110.181.238.30:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://110.181.238.30:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://110.181.238.30:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://110.181.238.30:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://110.181.238.30:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://110.181.238.30:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://110.181.238.30:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
+CCTV1,http://218.17.33.178:53290/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://218.17.33.178:53290/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV1,http://liveapi.feylen8.top/api/kzb.php?id=CCTV1
+CCTV2,http://liveapi.feylen8.top/api/kzb.php?id=CCTV2
+CCTV3,http://liveapi.feylen8.top/api/kzb.php?id=CCTV3
+CCTV4,http://liveapi.feylen8.top/api/kzb.php?id=CCTV4
+CCTV5,http://liveapi.feylen8.top/api/kzb.php?id=CCTV5
+CCTV5+,http://liveapi.feylen8.top/api/kzb.php?id=CCTV5P
+CCTV6,http://liveapi.feylen8.top/api/kzb.php?id=CCTV6
+CCTV7,http://liveapi.feylen8.top/api/kzb.php?id=CCTV7
+CCTV8,http://liveapi.feylen8.top/api/kzb.php?id=CCTV8
+CCTV9,http://liveapi.feylen8.top/api/kzb.php?id=CCTV9
+CCTV10,http://liveapi.feylen8.top/api/kzb.php?id=CCTV10
+CCTV11,http://liveapi.feylen8.top/api/kzb.php?id=CCTV11
+CCTV12,http://liveapi.feylen8.top/api/kzb.php?id=CCTV12
+CCTV13,http://liveapi.feylen8.top/api/kzb.php?id=CCTV13
+CCTV14,http://liveapi.feylen8.top/api/kzb.php?id=CCTV14
+CCTV15,http://liveapi.feylen8.top/api/kzb.php?id=CCTV15
+CCTV17,http://liveapi.feylen8.top/api/kzb.php?id=CCTV17
+CCTV4美洲,http://liveapi.feylen8.top/api/kzb.php?id=CCTV4美洲
+CCTV4欧洲,http://liveapi.feylen8.top/api/kzb.php?id=CCTV4欧洲
+东方卫视,http://liveapi.feylen8.top/api/kzb.php?id=东方卫视
+湖南卫视,http://liveapi.feylen8.top/api/kzb.php?id=湖南卫视
+浙江卫视,http://liveapi.feylen8.top/api/kzb.php?id=浙江卫视
+江苏卫视,http://liveapi.feylen8.top/api/kzb.php?id=江苏卫视
+北京卫视,http://liveapi.feylen8.top/api/kzb.php?id=北京卫视
+深圳卫视,http://liveapi.feylen8.top/api/kzb.php?id=深圳卫视
+安徽卫视,http://liveapi.feylen8.top/api/kzb.php?id=安徽卫视
+广东卫视,http://liveapi.feylen8.top/api/kzb.php?id=广东卫视
+湖北卫视,http://liveapi.feylen8.top/api/kzb.php?id=湖北卫视
+山东卫视,http://liveapi.feylen8.top/api/kzb.php?id=山东卫视
+江西卫视,http://liveapi.feylen8.top/api/kzb.php?id=江西卫视
+海南卫视,http://liveapi.feylen8.top/api/kzb.php?id=海南卫视
+黑龙江卫视,http://liveapi.feylen8.top/api/kzb.php?id=黑龙江卫视
+东南卫视,http://liveapi.feylen8.top/api/kzb.php?id=东南卫视
+河北卫视,http://liveapi.feylen8.top/api/kzb.php?id=河北卫视
+四川卫视,http://liveapi.feylen8.top/api/kzb.php?id=四川卫视
+辽宁卫视,http://liveapi.feylen8.top/api/kzb.php?id=辽宁卫视
+重庆卫视,http://liveapi.feylen8.top/api/kzb.php?id=重庆卫视
+河南卫视,http://liveapi.feylen8.top/api/kzb.php?id=河南卫视
+贵州卫视,http://liveapi.feylen8.top/api/kzb.php?id=贵州卫视
+广西卫视,http://liveapi.feylen8.top/api/kzb.php?id=广西卫视
+吉林卫视,http://liveapi.feylen8.top/api/kzb.php?id=吉林卫视
+陕西卫视,http://liveapi.feylen8.top/api/kzb.php?id=陕西卫视
+天津卫视,http://liveapi.feylen8.top/api/kzb.php?id=天津卫视
+青海卫视,http://liveapi.feylen8.top/api/kzb.php?id=青海卫视
+甘肃卫视,http://liveapi.feylen8.top/api/kzb.php?id=甘肃卫视
+新疆卫视,http://liveapi.feylen8.top/api/kzb.php?id=新疆卫视
+山西卫视,http://liveapi.feylen8.top/api/kzb.php?id=山西卫视
+**************************************************************************************************
 来自湖北移通的酒店源(120.202.94.181:9446)共有26个频道：
 CCTV1-综合,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -63,6 +137,8 @@ CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&play
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺港台电视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+
 凤凰香港频限,http://iptv.4666888.xyz/iptv.php?id=20065
 TVBJ1美频标,http://php.jdshipin.com/PLTV/iptv.php?id=tvbj1
 无线新闻频高,http://php.jdshipin.com/PLTV/iptv.php?id=wxxwt
@@ -4622,6 +4698,7 @@ SDDE-672 营业中的痉挛潮吹 即便失禁也仍然淡定工作的OL,https:/
 SDJS-166 制作部入社2年 助理担当 森川 路演车巡回中首次逆向搭讪！被3根大肉棒包围,https://mplay.8dy.one/url-https://v2024.sysybf.com/20241228/zjEjDE2R/index.m3u8
 STARS-665 我的姐姐是最喜欢口交的女经理人 社团活动结束后偷偷的口交诱惑...,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250416/lH6ClySt/index.m3u8
 STARS-672 敏感M男喜欢的过激连续射精 中出OK的沙龙店 铃音凛,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250410/sFwatpLM/index.m3u8
+
 
 
 
