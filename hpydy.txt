@@ -41,7 +41,7 @@ https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/
 代价2024HD中字剧情片加拿大,https://cdn.yzzy29-play.com/20250827/1026_24146db4/index.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-📺电视频道1,#genre#
+📺电视频道,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 来自山西联通的酒店源(118.81.193.192:9003)共有57个频道：
 CCTV1,http://118.81.193.192:9003/hls/1/index.m3u8
@@ -104,41 +104,40 @@ CCTV17,http://118.81.193.192:9003/hls/18/index.m3u8
 世界地理,http://118.81.193.192:9003/hls/59/index.m3u8
 风云剧场,http://118.81.193.192:9003/hls/61/index.m3u8
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-📺电视频道2,#genre#
-⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-來自湖北電信的酒店源(171.83.115.193:85)共有32個頻道：
-CCTV1-綜合,http://171.83.115.193:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-財經,http://171.83.115.193:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-綜藝,http://171.83.115.193:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-國際,http://171.83.115.193:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-體育,http://171.83.115.193:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-電影,http://171.83.115.193:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-軍農,http://171.83.115.193:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-電視劇,http://171.83.115.193:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-紀錄,http://171.83.115.193:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+来自湖北电信的酒店源(171.83.115.193:85)共有32个频道：
+CCTV1-综合,http://171.83.115.193:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://171.83.115.193:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://171.83.115.193:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://171.83.115.193:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://171.83.115.193:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://171.83.115.193:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://171.83.115.193:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://171.83.115.193:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://171.83.115.193:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10-科教,http://171.83.115.193:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戲曲,http://171.83.115.193:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社會與法,http://171.83.115.193:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新聞,http://171.83.115.193:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少兒,http://171.83.115.193:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音樂,http://171.83.115.193:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北經視,http://171.83.115.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北衛視,http://171.83.115.193:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南衛視,http://171.83.115.193:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江衛視,http://171.83.115.193:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江蘇衛視,http://171.83.115.193:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-廣東衛視,http://171.83.115.193:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-北京衛視,http://171.83.115.193:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳衛視,http://171.83.115.193:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-天津衛視,http://171.83.115.193:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-山東衛視,http://171.83.115.193:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽衛視,http://171.83.115.193:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-河北衛視,http://171.83.115.193:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-重慶衛視,http://171.83.115.193:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-東方衛視,http://171.83.115.193:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龍江衛視,http://171.83.115.193:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-遼寧衛視,http://171.83.115.193:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-江西衛視,http://171.83.115.193:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://171.83.115.193:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://171.83.115.193:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://171.83.115.193:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://171.83.115.193:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://171.83.115.193:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://171.83.115.193:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://171.83.115.193:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://171.83.115.193:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://171.83.115.193:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://171.83.115.193:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://171.83.115.193:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://171.83.115.193:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://171.83.115.193:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://171.83.115.193:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://171.83.115.193:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://171.83.115.193:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://171.83.115.193:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://171.83.115.193:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://171.83.115.193:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://171.83.115.193:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://171.83.115.193:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://171.83.115.193:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🎬⒈动作片库,#genre#
@@ -4644,8 +4643,8 @@ BLOODYESCAPE-地狱的逃生作战2024(HD中字),https://vvip.high26-playback.co
 🔞好朋友250829,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 MIAA-718 隐藏着巨乳的体育委员被绝伦部员们盯上了... 南条一花,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250417/r5DQSeZq/index.m3u8
-MIDV-192 SUPER STAR WELCOME BACK 新有菜 禁慾觉醒四本番,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250329/ujxa5isQ/index.m3u8
-MIDV-193 制服少女在学校裏的无声SEX 星乃樱,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250422/hscYtp5q/index.m3u8
+MIDV-192 SUPER STAR WELCOME BACK 新有菜 禁欲觉醒四本番,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250329/ujxa5isQ/index.m3u8
+MIDV-193 制服少女在学校里的无声SEX 星乃樱,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250422/hscYtp5q/index.m3u8
 MIDV-197 社员旅行NTR 即将结婚的巨乳女友篇 石原希望,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250411/lA96blen/index.m3u8
 MIDV-199 最爱的女友被班上的流氓们用媚药迷奸 我却在旁边看的勃起,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250422/ys4giXGb/index.m3u8
 MIDV-201 AV隐退 蕾的最后SEX,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250327/3LorWaFp/index.m3u8
@@ -4653,6 +4652,7 @@ PRED-427 逢花就是我的全部 从初次SEX到成熟的中出 和姐姐的友
 PRED-428 喜欢风俗店的那种性爱吗？楪花恋,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250416/jty8a4SS/index.m3u8
 PRED-429 被嫌弃的老公数次中出的我 星奈爱,https://mplay.8dy.one/url-https://v2024.sysybf.com/20241229/ApCD3ZMr/index.m3u8
 PRED-434 最棒的不伦生活 绝品美体 沉浸情人泥沼的我... JULIA,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250422/va8JE43Z/index.m3u8
+
 
 
 
