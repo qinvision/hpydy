@@ -4745,6 +4745,37 @@ CCTV-17农业农村,http://106.52.196.79:80/TV/mui.php?id=cctv17
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY港台电视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+Plus综合频临,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
+有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
+VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
+RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
+RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
+Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
+凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxw
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
 澳视澳门[1920x1080],http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
 澳门莲花[1920x1080],http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 澳视澳门频效,http://iptv.4666888.xyz/iptv.php?id=20127
@@ -4877,13 +4908,6 @@ tvbs亚洲[1280x720],https://stream1.freetv.fun/664705905935bd2a420105e1221286de
 八大戏剧,https://stream1.freetv.fun/ba-da-xi-ju-1.m3u8
 凤凰中文[1280x720],https://stream1.freetv.fun/feng-huang-zhong-wen-1.m3u8
 靖洋戏剧,https://stream1.freetv.fun/jing-yang-xi-ju-1.ctv
-纬来体育,rtmp://f13h.mine.nu/sat/tv721
-DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
-DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
-momoTV,rtmp://f13h.mine.nu/sat/tv761
-中视,rtmp://f13h.mine.nu:1935/sat/tv091
-东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
-经典电影轮播[1920x1080],rtmp://live.gxrb.com.cn/pull/red_movies_0501
 CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
 CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
 CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
@@ -4970,16 +4994,10 @@ TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
 中天娱乐3[1280x720],https://stream1.freetv.fun/zhong-tian-yu-le-2.m3u8
-民视闽南,rtmp://f13h.mine.nu/sat/tv051
-台视闽南,rtmp://f13h.mine.nu/sat/tv071
-民视,rtmp://f13h.mine.nu:1935/sat/tv051
-台视,rtmp://f13h.mine.nu:1935/sat/tv071
 韩国新闻[1280x720],http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
 中国|CGTN阿语[1920x1080],http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
 CCTV?Channel1[1066x600],http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
 中国|CGTN[1280x720],http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -4988,3 +5006,4 @@ CCTV?Channel1[1066x600],http://cd-live-stream.news.cctvplus.com/live/smil:CHANNE
 中国|CGTN俄语[1920x1080],http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
 中国|CGTN记录[1280x720],https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 八大第一频限,http://iptv.4666888.xyz/iptv.php?id=20197
+
