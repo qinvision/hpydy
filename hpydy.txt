@@ -4998,12 +4998,6 @@ TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-中国|CGTN阿语[1920x1080],http://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd.m3u8
-CCTV?Channel1[1066x600],http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8
-中国|CGTN[1280x720],http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-中国|CGTN西语[1920x1080],http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-中国|CGTN法语[1920x1080],http://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd.m3u8
-中国|CGTN俄语[1920x1080],http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd.m3u8
-中国|CGTN记录[1280x720],https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 八大第一频限,http://iptv.4666888.xyz/iptv.php?id=20197
+
 
