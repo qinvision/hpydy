@@ -4844,9 +4844,7 @@ CCTV-17农业农村,http://106.52.196.79:80/TV/mui.php?id=cctv17
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY港台电视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-Plus综合频临,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
 Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
 无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
 无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
@@ -4855,11 +4853,9 @@ Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
 有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
 有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
 Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
-VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
 VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
 RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
 RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
-Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
 tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
 tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
 闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
@@ -5098,6 +5094,7 @@ TVB Plus,https://stream1.freetv.fun/tvb-j2-1.m3u8
 新加坡国际[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台[1280x720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 八大第一频限,http://iptv.4666888.xyz/iptv.php?id=20197
+
 
 
 
