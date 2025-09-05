@@ -5581,6 +5581,53 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
+
+
+
+来自河南电信的酒店源(123.160.174.89:85)共有40个频道：
+CCTV1-综合,http://123.160.174.89:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://123.160.174.89:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://123.160.174.89:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://123.160.174.89:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://123.160.174.89:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://123.160.174.89:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://123.160.174.89:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://123.160.174.89:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://123.160.174.89:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://123.160.174.89:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://123.160.174.89:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://123.160.174.89:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://123.160.174.89:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://123.160.174.89:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://123.160.174.89:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://123.160.174.89:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://123.160.174.89:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://123.160.174.89:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://123.160.174.89:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+来自河南电信的酒店源(123.160.174.89:85)共有40个频道：
+辽宁卫视,http://123.160.174.89:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://123.160.174.89:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://123.160.174.89:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://123.160.174.89:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://123.160.174.89:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://123.160.174.89:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://123.160.174.89:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://123.160.174.89:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://123.160.174.89:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://123.160.174.89:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+都市频道,http://123.160.174.89:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+民生频道,http://123.160.174.89:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+法制频道,http://123.160.174.89:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻频道,http://123.160.174.89:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+公共频道,http://123.160.174.89:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+移动戏曲,http://123.160.174.89:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+梨园频道,http://123.160.174.89:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://123.160.174.89:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://123.160.174.89:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+来自河南电信的酒店源(123.160.174.89:85)共有40个频道：
+东方卫视,http://123.160.174.89:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://123.160.174.89:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
 来自山西电信的酒店源(110.181.238.23:9901)共有38个频道：
 CCTV1-综合,http://110.181.238.23:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://110.181.238.23:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -5735,6 +5782,40 @@ CCTV-17农业农村,http://106.52.196.79:80/TV/mui.php?id=cctv17
 浙江卫视,http://183.144.172.44:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://218.77.62.245:10999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://183.144.172.44:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+
+来自河南联通的酒店源(125.42.148.255:9901)共有31个频道：
+CCTV1-综合,http://125.42.148.255:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://125.42.148.255:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://125.42.148.255:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://125.42.148.255:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://125.42.148.255:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://125.42.148.255:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://125.42.148.255:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://125.42.148.255:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9高清,http://125.42.148.255:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://125.42.148.255:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://125.42.148.255:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://125.42.148.255:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://125.42.148.255:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://125.42.148.255:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://125.42.148.255:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://125.42.148.255:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://125.42.148.255:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://125.42.148.255:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://125.42.148.255:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+来自河南联通的酒店源(125.42.148.255:9901)共有31个频道：
+安徽卫视,http://125.42.148.255:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://125.42.148.255:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://125.42.148.255:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡通,http://125.42.148.255:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://125.42.148.255:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://125.42.148.255:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://125.42.148.255:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://125.42.148.255:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://125.42.148.255:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://125.42.148.255:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://125.42.148.255:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://125.42.148.255:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://ygbh.site/php/bfgd.php?id=488#,http://ygbh.site/php/bfgd.php?id=201#,http://ygbh.site/php/bfgd.php?id=484#,http://ygbh.site/php/bfgd.php?id=489
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
@@ -5900,7 +5981,7 @@ CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 内蒙古卫视,http://112.27.235.94:8000/hls/49/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-
+*****************************************************************************************************
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -6524,6 +6605,7 @@ TPPN-233 垂直落下的直接衝击 抗打骑乘位x留种 新井莉玛的潮�
 VENX-163 和最喜欢的巨乳叔母浓厚破处SEX 南条一花,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250407/jO0fy7Yg/index.m3u8
 VOD-014 真正素人妻document 次世代S级下流妻 忘记摄像机的存在只凭本能的贪食,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250419/BuNxbzMM/index.m3u8
 XVSR-669 和爱撒娇妻子的造人中出性生活 沙月芽衣,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250411/ARmOb8nR/index.m3u8
+
 
 
 
