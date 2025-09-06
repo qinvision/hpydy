@@ -5581,37 +5581,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
-来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
-CCTV1-综合,http://175.0.72.215:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://175.0.72.215:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://175.0.72.215:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://175.0.72.215:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://175.0.72.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://175.0.72.215:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://175.0.72.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://175.0.72.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://175.0.72.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://175.0.72.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://175.0.72.215:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://175.0.72.215:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://175.0.72.215:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://175.0.72.215:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://175.0.72.215:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://175.0.72.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://175.0.72.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://175.0.72.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://175.0.72.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
-安徽卫视,http://175.0.72.215:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://175.0.72.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://175.0.72.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://175.0.72.215:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://175.0.72.215:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://175.0.72.215:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://175.0.72.215:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://175.0.72.215:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://175.0.72.215:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://175.0.72.215:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 来自山西电信的酒店源(223.14.160.121:9901)共有36个频道：
 CCTV1-综合,http://223.14.160.121:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -5917,6 +5887,38 @@ CETV2,http://ygbh.site/php/bfgd.php?id=492
 辽宁影视剧,http://ygbh.site/php/bfgd.php?id=070
 山东教育卫视,http://ygbh.site/php/bfgd.php?id=112
 重庆汽摩,http://ygbh.site/php/bfgd.php?id=168
+
+来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
+CCTV1-综合,http://175.0.72.215:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://175.0.72.215:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://175.0.72.215:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://175.0.72.215:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://175.0.72.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://175.0.72.215:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://175.0.72.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://175.0.72.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://175.0.72.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://175.0.72.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://175.0.72.215:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://175.0.72.215:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://175.0.72.215:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://175.0.72.215:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+体育赛事,http://175.0.72.215:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://175.0.72.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://175.0.72.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://175.0.72.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://175.0.72.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
+安徽卫视,http://175.0.72.215:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://175.0.72.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://175.0.72.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://175.0.72.215:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://175.0.72.215:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://175.0.72.215:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://175.0.72.215:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南经视,http://175.0.72.215:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南电视剧,http://175.0.72.215:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南都市,http://175.0.72.215:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
@@ -6561,6 +6563,7 @@ SSIS-530 喝醉的后辈 全身都是破绽... 几乎无防备的巨乳 整晚�
 SSIS-532 禁慾一个月后的小宵虎南 火力全开 潮吹高潮 10小时ENDLESS FUCK,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250405/gijERcxZ/index.m3u8
 SSIS-537 激潮117回！痉挛4400回！潮液1800cc！满分笑容的可爱少女 色情觉醒,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250407/AAnttjdM/index.m3u8
 SSIS-538 交融体液浓密SEX 完全无剪辑special 安达夕莉,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250405/nr5dCCAp/index.m3u8
+
 
 
 
