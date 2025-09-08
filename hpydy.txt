@@ -108,49 +108,7 @@ https://ghfast.top/https://raw.githubusercontent.com/qinvision/hpydy/refs/heads/
 
 
 
-来自山西联通的酒店源(118.81.240.119:9999)共有40个频道：
-CCTV1-综合,http://118.81.240.119:9999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://118.81.240.119:9999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://118.81.240.119:9999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://118.81.240.119:9999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://118.81.240.119:9999/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://118.81.240.119:9999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://118.81.240.119:9999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://118.81.240.119:9999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://118.81.240.119:9999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://118.81.240.119:9999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://118.81.240.119:9999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://118.81.240.119:9999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://118.81.240.119:9999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://118.81.240.119:9999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://118.81.240.119:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://118.81.240.119:9999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://118.81.240.119:9999/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://118.81.240.119:9999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://118.81.240.119:9999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-来自山西联通的酒店源(118.81.240.119:9999)共有40个频道：
-深圳卫视,http://118.81.240.119:9999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://118.81.240.119:9999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://118.81.240.119:9999/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://118.81.240.119:9999/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://118.81.240.119:9999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://118.81.240.119:9999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://118.81.240.119:9999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://118.81.240.119:9999/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-上海卫视,http://118.81.240.119:9999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://118.81.240.119:9999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://118.81.240.119:9999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://118.81.240.119:9999/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://118.81.240.119:9999/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://118.81.240.119:9999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://118.81.240.119:9999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://118.81.240.119:9999/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://118.81.240.119:9999/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://118.81.240.119:9999/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://118.81.240.119:9999/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-来自山西联通的酒店源(118.81.240.119:9999)共有40个频道：
-安徽卫视,http://118.81.240.119:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://118.81.240.119:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 来自山西电信的酒店源(110.181.237.129:9901)共有38个频道：
 CCTV1-综合,http://110.181.237.129:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -8086,6 +8044,7 @@ STARS-703 绝顶开发 G乳惠体 震盪激潮 初次巨根大绝顶 神木丽,h
 VEC-552 巨乳激盪 住在附近的巨乳人妻 理性崩坏的绝顶中出性交 宫藤由美奈,https://c32.dycp444.com/202212/12/WONzE1Q4/500kb/hls/index.m3u8
 VENX-169 和哥哥处于倦怠期的义姐 一旦二人独处...借住在他们家,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250403/7Bp1Nozz/index.m3u8
 XRL-048 春季排球亚军 全裸调教SEX流出,https://mplay.8dy.one/url-https://nbfjhertyrxiang.com/20240420/XuT2zIZJ/index.m3u8
+
 
 
 
