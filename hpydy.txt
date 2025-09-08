@@ -2251,26 +2251,39 @@ CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 💗番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 💗纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 💗tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
-💚tvbs新闻频限,http://iptv.4666888.xyz/iptv.php?id=20168
-💚VIUTV-粤频效,http://iptv.4666888.xyz/iptv.php?id=20075
-💚闽镜新闻频限,http://iptv.4666888.xyz/iptv.php?id=20180
-💚天映经典粤效,http://iptv.4666888.xyz/iptv.php?id=20114
-💚无线翡翠频效,http://iptv.4666888.xyz/iptv.php?id=20066
-💚无线经典频效,http://iptv.4666888.xyz/iptv.php?id=20107
-💚无线千禧频效,http://iptv.4666888.xyz/iptv.php?id=20105
-💚无线戏曲频效,http://iptv.4666888.xyz/iptv.php?id=20113
-💚无线星河粤效,http://iptv.4666888.xyz/iptv.php?id=20101
-💚无线亚剧频效,http://iptv.4666888.xyz/iptv.php?id=20109
-💚无线粤片频效,http://iptv.4666888.xyz/iptv.php?id=20112
-💚有线综合频效,http://iptv.4666888.xyz/iptv.php?id=20078
-💚中视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20171
-🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
-🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
-🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
-🔵中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+💚Now爆谷,http://iptv.4666888.xyz/iptv.php?id=20087
+💚Now爆谷国限,http://iptv.4666888.xyz/iptv.php?id=20089
+💚Now财经,http://iptv.4666888.xyz/iptv.php?id=20085
+💚Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
+💚Now新闻,http://iptv.4666888.xyz/iptv.php?id=20082
+💚Now新闻,http://iptv.4666888.xyz/iptv.php?id=20083
+💚Now新闻,http://iptv.4666888.xyz/iptv.php?id=20084
+💚Now星影,http://iptv.4666888.xyz/iptv.php?id=20086
+💚Now星影国限,http://iptv.4666888.xyz/iptv.php?id=20088
+💚Now英超,http://iptv.4666888.xyz/iptv.php?id=20092
+💚Now直播,http://iptv.4666888.xyz/iptv.php?id=20093
+💚Plus综合,http://iptv.4666888.xyz/iptv.php?id=20072
+💚RTHK-31,http://iptv.4666888.xyz/iptv.php?id=20080
+💚RTHK-32,http://iptv.4666888.xyz/iptv.php?id=20081
+💚VIUTV-英,http://iptv.4666888.xyz/iptv.php?id=20076
+💚VIUTV-粤,http://iptv.4666888.xyz/iptv.php?id=20075
+💚凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
+💚凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+💚凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
+💚凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+💚凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
+💚凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+💚无线翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
+💚无线翡翠马来,http://iptv.4666888.xyz/iptv.php?id=20068
+💚无线翡翠新坡,http://iptv.4666888.xyz/iptv.php?id=20067
+💚无线明珠,http://iptv.4666888.xyz/iptv.php?id=20071
+💚无线生活,http://iptv.4666888.xyz/iptv.php?id=20074
+💚无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
+💚无线新闻美效,http://iptv.4666888.xyz/iptv.php?id=20070
+💚无线娱乐,http://iptv.4666888.xyz/iptv.php?id=20073
+💚有线赛讯,http://iptv.4666888.xyz/iptv.php?id=20077
+💚有线新闻,http://iptv.4666888.xyz/iptv.php?id=20079
+💚有线综合,http://iptv.4666888.xyz/iptv.php?id=20078
 💚东森新闻频限,http://iptv.4666888.xyz/iptv.php?id=20174
 💚寰宇新闻频限,http://iptv.4666888.xyz/iptv.php?id=20176
 💚民视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20177
@@ -2280,6 +2293,23 @@ CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 💚台视新闻频限,http://iptv.4666888.xyz/iptv.php?id=20172
 💚中天新闻加效,http://iptv.4666888.xyz/iptv.php?id=20181
 💚中天新闻频效,http://iptv.4666888.xyz/iptv.php?id=20173
+HUB都会,http://j.s.bkpcp.top/js/dht
+无线翡翠,http://j.s.bkpcp.top/js/fct
+爆谷台,http://j.s.bkpcp.top/js/nowbgt
+星影台,http://j.s.bkpcp.top/js/nowxyt
+无线功夫,http://j.s.bkpcp.top/js/tvbgftg
+无线功夫,http://j.s.bkpcp.top/js/tvbgfty
+无线星河,http://j.s.bkpcp.top/js/tvbxhpdg
+无线星河,http://j.s.bkpcp.top/js/tvbxhpdy
+HUB娱家,http://j.s.bkpcp.top/js/yjt
+pₒₚc电影,http://j.s.bkpcp.top/js/popc
+🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
+🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
+🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+🔵中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
 🔷凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 🔺	CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
 🔺	CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
@@ -8042,6 +8072,7 @@ STARS-703 绝顶开发 G乳惠体 震盪激潮 初次巨根大绝顶 神木丽,h
 VEC-552 巨乳激盪 住在附近的巨乳人妻 理性崩坏的绝顶中出性交 宫藤由美奈,https://c32.dycp444.com/202212/12/WONzE1Q4/500kb/hls/index.m3u8
 VENX-169 和哥哥处于倦怠期的义姐 一旦二人独处...借住在他们家,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250403/7Bp1Nozz/index.m3u8
 XRL-048 春季排球亚军 全裸调教SEX流出,https://mplay.8dy.one/url-https://nbfjhertyrxiang.com/20240420/XuT2zIZJ/index.m3u8
+
 
 
 
