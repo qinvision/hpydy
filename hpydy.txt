@@ -2011,16 +2011,6 @@ CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 🔴广东体育,http://bxtv.3a.ink/api.php?id=gdty
 🔴广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 🔴中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-🔵Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
-🔵RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
-🔵RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
-🔵tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-🔵tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
-🔵闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
-🔵无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-🔵有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
-🔵有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
-🔵有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
 💗澳视综艺[1920x1080],http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
 💗澳视Macau[1920x1080],http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
 💗澳视葡文[1920x1080],http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
@@ -2031,61 +2021,32 @@ CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 💗番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 💗纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 💗tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
-
-🍉HUB都会,http://j.s.bkpcp.top/js/dht
-🍉无线翡翠,http://j.s.bkpcp.top/js/fct
-🍉爆谷台,http://j.s.bkpcp.top/js/nowbgt
-🍉星影台,http://j.s.bkpcp.top/js/nowxyt
 🍉无线功夫,http://j.s.bkpcp.top/js/tvbgftg
 🍉无线功夫,http://j.s.bkpcp.top/js/tvbgfty
-🍉无线星河,http://j.s.bkpcp.top/js/tvbxhpdg
-🍉无线星河,http://j.s.bkpcp.top/js/tvbxhpdy
-🍉HUB娱家,http://j.s.bkpcp.top/js/yjt
-🍉pₒₚc电影,http://j.s.bkpcp.top/js/popc
-
-🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
-🔵东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-🔵寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
-🔵民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
-🔵中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-🔷凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-🔺	CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
-🔺	CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
-🔺	CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
-🔺	DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 🔺	HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 🔺	HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 🔺	RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
 🔺	RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-🔺	冰冰剧场,http://lxajh.top/tv/douyu.php?id=74374
 🔺	番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-🔺	番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 🔺	凤凰中文,http://m.061899.xyz/mg/fhzw
 🔺	华藏卫视,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
 🔺	环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-🔺	镜新闻,http://pullpackage.alivecdn.com/live/4ef3bV1oG7KBJy3bfd2ybfSDto8eDzUvR0mWv5oKB6nemLkT4c.flv
-🔺	龙华日韩,http://pullpackage.alivecdn.com/live/GD8HEPHYTZqmWcX4YIgJAWJmobfd2yko44kWegmQ62bcMT6UR4.flv
 🔺	龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-🔺	生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 🔺	沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 🔺	新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 🔺	亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
 🔺	中视,rtmp://f13h.mine.nu/sat/tv091
-🔺	中视新闻,http://pullpackage.alivecdn.com/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-🔺	中天CTI+,http://pullpackage.alivecdn.com/live/bfd2yczrTFqK7nEAJybacKGcrnLdslNp5YcphockmQnscq2S1p.flv
 🔺	重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+🔺	CHC动作电影,http://113.195.172.192:808/hls/114/index.m3u8
+🔺	CHC家庭影院,http://113.195.172.192:808/hls/113/index.m3u8
+🔺	CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
 🔺	TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
 🔺	TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 🔺	TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-🔺	TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 🔺	翡翠台,http://bxtv.3a.ink/api.php?id=fct
 🔺	翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 🔺	翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 🔺	凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-🔺	凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-🔺	凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 🔺	鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
 🔺	明珠台,http://bxtv.3a.ink/api.php?id=mz
 🔺	澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
@@ -2099,7 +2060,6 @@ CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 🔺	龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 🔺	龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 🔺	民视,rtmp://f13h.mine.nu/sat/tv051
-🔺	民视旅游,http://t.061899.xyz/tl/js/js.php?id=msly
 🔺	人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 🔺	三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 🔺	三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
@@ -8085,6 +8045,7 @@ MKMP-476 直到第二天太阳昇起 对七濑爱丽丝的连续侵犯,https://m
 YMDS-114 爱的宅喝浓厚的黏黏中密着的性爱天马结成爲她的日子,https://mplay.8dy.one/url-https://nbfjhertyrxiang.com/20240428/S4YY7LBM/index.m3u8
 YSN-581 【FANZA限定】嘻嘻~说了这么多，想被浜崎先生玩弄的浜崎真绪内裤和照片附带,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250327/oCTDUJXQ/index.m3u8
 YSN-582 新弟媳是个鬼畜，却无法抑制我的勃起。渚见月,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250415/U6nNdzUr/index.m3u8
+
 
 
 
