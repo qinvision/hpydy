@@ -1563,21 +1563,18 @@ hpy哈尔滨影视,https://stream.hrbtv.net/yspd/sd/live.m3u8
 hpy延边朝鲜语频道YBTV-1,https://srs.iyb983.cn/video/ybtv1/index.m3u8
 hpy延边汉语频道YBTV-2,https://srs.iyb983.cn/video/ybtv2/index.m3u8
 hpy延边卫视,https://srs.iyb983.cn/video/CYS/index.m3u8
-hpy长春综合频道,https://stream2.jlntv.cn/jlcc/sd/live.m3u8?_upt=62fc42641745340902
+hpy亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8
+hpy亳州综合,http://zbbf2.ahbztv.com/live/416.m3u8
 阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
 安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
-安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
 安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
 巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
-巴音郭楞州,http://124.88.144.73:1935/live/dywt/playlist.m3u8
 包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
-宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
-北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
+宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
 兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
-亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
+
 苍南新闻综合,https://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
@@ -8091,6 +8088,7 @@ MKMP-476 直到第二天太阳昇起 对七濑爱丽丝的连续侵犯,https://m
 YMDS-114 爱的宅喝浓厚的黏黏中密着的性爱天马结成爲她的日子,https://mplay.8dy.one/url-https://nbfjhertyrxiang.com/20240428/S4YY7LBM/index.m3u8
 YSN-581 【FANZA限定】嘻嘻~说了这么多，想被浜崎先生玩弄的浜崎真绪内裤和照片附带,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250327/oCTDUJXQ/index.m3u8
 YSN-582 新弟媳是个鬼畜，却无法抑制我的勃起。渚见月,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250415/U6nNdzUr/index.m3u8
+
 
 
 
