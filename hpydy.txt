@@ -77,9 +77,121 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 
 
 
+来自山东联通的酒店源(218.56.123.244:85)共有66个频道：
+CCTV-1,http://218.56.123.244:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://218.56.123.244:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://218.56.123.244:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://218.56.123.244:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://218.56.123.244:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://218.56.123.244:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://218.56.123.244:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://218.56.123.244:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://218.56.123.244:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://218.56.123.244:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://218.56.123.244:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://218.56.123.244:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://218.56.123.244:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://218.56.123.244:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://218.56.123.244:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://218.56.123.244:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CGTN,http://218.56.123.244:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://218.56.123.244:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+山东文旅,http://218.56.123.244:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+来自山东联通的酒店源(218.56.123.244:85)共有66个频道：
+山东生活,http://218.56.123.244:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+山东综艺,http://218.56.123.244:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+山东体育,http://218.56.123.244:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+山东新闻,http://218.56.123.244:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山东农科,http://218.56.123.244:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+山东少儿,http://218.56.123.244:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+厦门卫视,http://218.56.123.244:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+齐鲁频道,http://218.56.123.244:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+山东教育,http://218.56.123.244:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+居家购物,http://218.56.123.244:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://218.56.123.244:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://218.56.123.244:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://218.56.123.244:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://218.56.123.244:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://218.56.123.244:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://218.56.123.244:85/tsfile/live/0130_2.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://218.56.123.244:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://218.56.123.244:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://218.56.123.244:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+来自山东联通的酒店源(218.56.123.244:85)共有66个频道：
+三沙卫视,http://218.56.123.244:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://218.56.123.244:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://218.56.123.244:85/tsfile/live/0132_2.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://218.56.123.244:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://218.56.123.244:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://218.56.123.244:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://218.56.123.244:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://218.56.123.244:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://218.56.123.244:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://218.56.123.244:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://218.56.123.244:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://218.56.123.244:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://218.56.123.244:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://218.56.123.244:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://218.56.123.244:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://218.56.123.244:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://218.56.123.244:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://218.56.123.244:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://218.56.123.244:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://218.56.123.244:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+来自山东联通的酒店源(218.56.123.244:85)共有66个频道：
+青海卫视,http://218.56.123.244:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://218.56.123.244:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经,http://218.56.123.244:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+威海新闻,http://218.56.123.244:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+都市生活,http://218.56.123.244:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+兵团卫视,http://218.56.123.244:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+农林卫视,http://218.56.123.244:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://218.56.123.244:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
+来自浙江联通的酒店源(101.66.195.202:85)共有41个频道：
+CCTV1-综合,http://101.66.195.202:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-财经,http://101.66.195.202:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3-综艺,http://101.66.195.202:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4-国际,http://101.66.195.202:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5-体育,http://101.66.195.202:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6-电影,http://101.66.195.202:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7-军农,http://101.66.195.202:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8-电视剧,http://101.66.195.202:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9-纪录,http://101.66.195.202:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10-科教,http://101.66.195.202:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11-戏曲,http://101.66.195.202:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12-社会与法,http://101.66.195.202:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13-新闻,http://101.66.195.202:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14-少儿,http://101.66.195.202:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15-音乐,http://101.66.195.202:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://101.66.195.202:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://101.66.195.202:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://101.66.195.202:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://101.66.195.202:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+来自浙江联通的酒店源(101.66.195.202:85)共有41个频道：
+重庆卫视,http://101.66.195.202:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://101.66.195.202:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://101.66.195.202:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://101.66.195.202:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://101.66.195.202:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://101.66.195.202:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://101.66.195.202:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://101.66.195.202:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://101.66.195.202:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://101.66.195.202:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://101.66.195.202:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://101.66.195.202:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://101.66.195.202:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://101.66.195.202:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://101.66.195.202:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://101.66.195.202:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://101.66.195.202:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://101.66.195.202:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://101.66.195.202:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+来自浙江联通的酒店源(101.66.195.202:85)共有41个频道：
+浙江卫视,http://101.66.195.202:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江新闻,http://101.66.195.202:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+杭州影视,http://101.66.195.202:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 来自湖北电信的酒店源(171.83.96.80:85)共有32个频道：
 CCTV1-综合,http://171.83.96.80:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -8251,18 +8363,20 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-🔞VIP节选0911_13579,#genre#
+🔞VIP节选0912_13579,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-KIRE-079 妖豔高冷的前臺小姐 和中年大叔的往我浓密SEX 森下园花 26岁,https://b.gg155gg1.com/20250417/jIp0ZlvL/index.m3u8
-MILK-154 神级沙龙女郎 生插中出OK的隐祕行爲 完全偷拍！,https://b.gg155gg1.com/20250413/SkJJQdzq/index.m3u8
-MILK-155 10年后的再会 被姐姐像从前一样调戏弄到完全勃起 沉溺抖M姐姐加虐嗜好的我,https://b.gg155gg1.com/20250327/P1cdt2CU/index.m3u8
-MILK-156 想被喜欢的AV女优侵犯 抖M处男的妄想实现约会 河合阳菜,https://b.gg155gg1.com/20250416/5fB1tZiy/index.m3u8
-MMUS-068 小恶魔撩拨美少女 由良加奈,https://b.gg155gg1.com/20250416/evjsZISh/index.m3u8
-MMYU-001 巨尻全开！细长美脚 淫语撩拨 高身长bitch的美臀 木下日葵,https://b.gg155gg1.com/20250407/kPEQcyeW/index.m3u8
-MOGI-050 拍写真满足不了的慾望 对AV的响往抑制不住 慾望爆发！,https://b.gg155gg1.com/20250410/07DEURdy/index.m3u8
-STARS-690 在前作学会舔技的惠麻是服务过剩就连本番都给干的风俗女 千鹤えま,https://b.gg155gg1.com/20250420/PZq1p7NC/index.m3u8
-WO-006 Dr.单人性爱 北田祥乃,https://b.gg155gg1.com/20250327/5MydlcdA/index.m3u8
-XMOM-047 XMOM-47 夜晚名媛 高身高猥亵人妻 明日美柑菜,https://b.gg155gg1.com/20250417/W6mNb2AM/index.m3u8
+DDFF-023 被跟踪狂远距离调教的巨乳OL 结城莉乃,https://b.gg155gg1.com/20250422/1O0MM2YC/index.m3u8
+DDK-213 强制近亲相奸 和最爱的女儿乱伦SEX 目黑日乃实,https://b.gg155gg1.com/20250429/VvMwAtGF/index.m3u8
+DRPT-026 在客满的电车上前后都被挡住，拘束后被强制开发乳头的巨乳美女 小花暖,https://b.gg155gg1.com/20250504/Ff4FmcKq/index.m3u8
+GS-450 来面试沙龙店的纯情女大学生,https://b.gg155gg1.com/20250426/3dTFMmRa/index.m3u8
+SDDE-678 学生随时随地都可以到处做爱的性爱学园 高瀬りな、天马ゆい,https://b.gg155gg1.com/20250417/SxftIaEa/index.m3u8
+SDMF-024 时隔10年的姐弟浴室。抑制不住勃起的童贞弟弟和姐姐每天做爱,https://b.gg155gg1.com/20250413/pfQH8bjJ/index.m3u8
+SDNM-359 中国年轻太太抖M绽放展露的两天一夜调教温泉旅行 宍戸翠兰,https://b.gg155gg1.com/20250421/lInbxDHd/index.m3u8
+STARS-641 洗脑干净的CA被一次性洗脑ー萝琳花恋,https://b.gg155gg1.com/20250415/3J51itbA/index.m3u8
+WAAA-214 社员旅行的下流宴会 被髮情的同事们整晚侵犯的女友 水川堇,https://b.gg155gg1.com/20250412/9XrQQTQ7/index.m3u8
+WAAA-215 让姐姐在这三天 成爲我的奴隶 佐山爱,https://b.gg155gg1.com/20250411/m0FApMEN/index.m3u8
+
+
 
 
 
