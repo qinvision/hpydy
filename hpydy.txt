@@ -705,13 +705,6 @@ IPTV8+,http://110.181.237.251:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1
 
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CCTV1,http://112.132.10.54:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://112.132.10.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://112.132.10.54:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://112.132.10.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8,http://112.132.10.54:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
 CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
 CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
@@ -8250,6 +8243,7 @@ MIDV-208 出差处的温泉接待 强行共处一室 被浓厚大叔们抽插到
 MIDV-211 一击颜射！肉弹活塞 精液爆射大乱交 五十岚清华,https://b.gg155gg1.com/20250417/4mBdR0Aj/index.m3u8
 MIDV-212 女神的浓厚亲吻 唾液满溢连射中出 风俗店全套餐 神宫寺奈绪,https://b.gg155gg1.com/20250410/F3Uyd6LW/index.m3u8
 WAAA-213 一整月完全禁慾 JULIA狂潮限界突破！激突潮吹开发,https://b.gg155gg1.com/20250418/pdQLQcyZ/index.m3u8
+
 
 
 
