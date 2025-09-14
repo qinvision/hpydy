@@ -36,7 +36,13 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 
 
 
-
+唐顿庄园3/2025TS中字剧情片英国,https://cdn.yzzy29-play.com/20250914/1725_3e7e0224/index.m3u8
+往蚀2025HD中字动作片印度,https://cdn.yzzy29-play.com/20250914/1726_74563ba2/index.m3u8
+乌龙巴黎梦2025HD中字爱情片美国,https://cdn.yzzy29-play.com/20250914/1727_515ab26c/index.m3u8
+心花怒放2025HD中字剧情片美国,https://cdn.yzzy29-play.com/20250914/1728_7137debd/index.m3u8
+余烬夺宝2025TS中字科幻片美国,https://cdn.yzzy29-play.com/20250914/1729_25e2a30f/index.m3u8
+招魂4：终章2025TS中字恐怖片英国,https://cdn.yzzy29-play.com/20250914/1730_851300ee/index.m3u8
+分手清单2025HD国语爱情片大陆,https://cdn.yzzy29-play.com/20250914/1721_28dc6b0e/index.m3u8
 再见朱庇特1984HD中字科幻片日本,https://cdn.yzzy28-play.com/20250914/15307_5798df74/index.m3u8
 狗神2001HD中字爱情片日本,https://vvip.high26-playback.com/20250914/22886_d5c1f60f/index.m3u8
 日出前向青春告别2003DVD中字爱情片日本,https://cdn.yzzy28-play.com/20250914/15284_66a1942c/index.m3u8
@@ -105,6 +111,49 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 
 
 
+来自浙江电信的酒店源(60.187.244.74:85)共有40个频道：	$浙江嵊州电信
+CCTV1-综合,http://60.187.244.74:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV2-财经,http://60.187.244.74:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV3-综艺,http://60.187.244.74:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV4-国际,http://60.187.244.74:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV5-体育,http://60.187.244.74:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV6-电影,http://60.187.244.74:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV7-军农,http://60.187.244.74:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV8-电视剧,http://60.187.244.74:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV9-纪录,http://60.187.244.74:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV10-科教,http://60.187.244.74:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV11-戏曲,http://60.187.244.74:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV12-社会与法,http://60.187.244.74:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV13-新闻,http://60.187.244.74:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV14-少儿,http://60.187.244.74:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+CCTV15-音乐,http://60.187.244.74:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+浙江卫视,http://60.187.244.74:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+湖南卫视,http://60.187.244.74:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+江苏卫视,http://60.187.244.74:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+上海卫视,http://60.187.244.74:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+来自浙江电信的酒店源(60.187.244.74:85)共有40个频道：	$浙江嵊州电信
+北京卫视,http://60.187.244.74:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+天津卫视,http://60.187.244.74:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+山东卫视,http://60.187.244.74:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+广西卫视,http://60.187.244.74:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+安徽卫视,http://60.187.244.74:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+东南卫视,http://60.187.244.74:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+江西卫视,http://60.187.244.74:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+湖北卫视,http://60.187.244.74:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+四川卫视,http://60.187.244.74:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+重庆卫视,http://60.187.244.74:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+广东卫视,http://60.187.244.74:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+深圳卫视,http://60.187.244.74:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+河南卫视,http://60.187.244.74:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+辽宁卫视,http://60.187.244.74:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+贵州卫视,http://60.187.244.74:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+黑龙江卫视,http://60.187.244.74:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+吉林卫视,http://60.187.244.74:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+山西卫视,http://60.187.244.74:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+河北卫视,http://60.187.244.74:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+来自浙江电信的酒店源(60.187.244.74:85)共有40个频道：	$浙江嵊州电信
+云南卫视,http://60.187.244.74:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
+旅游卫视,http://60.187.244.74:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	$浙江嵊州电信
 
 
 CCTV1-综合,http://123.12.182.34:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
@@ -7706,6 +7755,7 @@ CAWD-435 又可爱又性格好 想尝试各种性爱！全部初体验 高潮三
 JUFE-425 用媚药来报復把我送进监狱的女孩 美体OL被复仇强奸的真实记录 天川空,https://b.gg155gg1.com/20250418/K09M7caN/index.m3u8
 SAME-020 向学生时代欺负我的女人復仇【已经...高潮了... 请原谅我吧】即使玩坏掉,https://b.gg155gg1.com/20250416/bgQ5eirw/index.m3u8
 WAAA-217 黑人解禁！贪食蛇舌 中出大乱交 佐伯由美香,https://b.gg155gg1.com/20250405/fC1zxbB6/index.m3u8
+
 
 
 
