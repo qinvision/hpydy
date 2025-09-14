@@ -108,261 +108,204 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 
 
 来自河南联通的酒店源(123.12.182.34:85)共有56个频道：	
-CCTV1-综合,http://123.12.182.34:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV2-财经,http://123.12.182.34:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV3-综艺,http://123.12.182.34:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV4-国际,http://123.12.182.34:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV5+体育赛事,http://123.12.182.34:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV-6,http://123.12.182.34:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV7-军农,http://123.12.182.34:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV-8,http://123.12.182.34:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV9-纪录,http://123.12.182.34:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV10-科教,http://123.12.182.34:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV-11,http://123.12.182.34:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV12-社会与法,http://123.12.182.34:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV-13,http://123.12.182.34:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV14-少儿,http://123.12.182.34:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV-15,http://123.12.182.34:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-CCTV5-体育,http://123.12.182.34:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南卫视高清,http://123.12.182.34:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南都市频道,http://123.12.182.34:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南民生频道,http://123.12.182.34:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-来自河南联通的酒店源(123.12.182.34:85)共有56个频道：	$河南联通的酒店源
-河南法制频道,http://123.12.182.34:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南电视剧频道,http://123.12.182.34:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南新闻频道,http://123.12.182.34:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南公共频道,http://123.12.182.34:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河南新农村频道,http://123.12.182.34:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-浙江卫视,http://123.12.182.34:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-湖南卫视,http://123.12.182.34:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-东方卫视,http://123.12.182.34:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-江苏卫视,http://123.12.182.34:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-安徽卫视,http://123.12.182.34:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-北京卫视,http://123.12.182.34:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-深圳卫视,http://123.12.182.34:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-重庆卫视,http://123.12.182.34:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-山东卫视,http://123.12.182.34:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-贵州卫视,http://123.12.182.34:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-福建东南,http://123.12.182.34:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-陕西卫视,http://123.12.182.34:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-广西卫视,http://123.12.182.34:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-云南卫视,http://123.12.182.34:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-来自河南联通的酒店源(123.12.182.34:85)共有56个频道：	$河南联通的酒店源
-四川卫视,http://123.12.182.34:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-湖北卫视,http://123.12.182.34:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-河北卫视,http://123.12.182.34:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-江西卫视,http://123.12.182.34:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-山西卫视,http://123.12.182.34:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-宁夏卫视,http://123.12.182.34:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-新疆卫视,http://123.12.182.34:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-吉林卫视,http://123.12.182.34:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-辽宁卫视,http://123.12.182.34:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-天津卫视,http://123.12.182.34:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-广东卫视,http://123.12.182.34:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-黑龙江卫视,http://123.12.182.34:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-金鹰卡通,http://123.12.182.34:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-北京卡通,http://123.12.182.34:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-嘉佳卡通,http://123.12.182.34:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-经典电影,http://123.12.182.34:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-周口电视台1,http://123.12.182.34:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
-周口电视台2,http://123.12.182.34:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通的酒店源
+CCTV1-综合,http://123.12.182.34:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV2-财经,http://123.12.182.34:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV3-综艺,http://123.12.182.34:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV4-国际,http://123.12.182.34:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV5+体育赛事,http://123.12.182.34:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV-6,http://123.12.182.34:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV7-军农,http://123.12.182.34:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV-8,http://123.12.182.34:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV9-纪录,http://123.12.182.34:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV10-科教,http://123.12.182.34:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV-11,http://123.12.182.34:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV12-社会与法,http://123.12.182.34:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV-13,http://123.12.182.34:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV14-少儿,http://123.12.182.34:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV-15,http://123.12.182.34:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+CCTV5-体育,http://123.12.182.34:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南卫视高清,http://123.12.182.34:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南都市频道,http://123.12.182.34:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南民生频道,http://123.12.182.34:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+来自河南联通的酒店源(123.12.182.34:85)共有56个频道：	$河南联通
+河南法制频道,http://123.12.182.34:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南电视剧频道,http://123.12.182.34:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南新闻频道,http://123.12.182.34:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南公共频道,http://123.12.182.34:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河南新农村频道,http://123.12.182.34:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+浙江卫视,http://123.12.182.34:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+湖南卫视,http://123.12.182.34:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+东方卫视,http://123.12.182.34:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+江苏卫视,http://123.12.182.34:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+安徽卫视,http://123.12.182.34:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+北京卫视,http://123.12.182.34:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+深圳卫视,http://123.12.182.34:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+重庆卫视,http://123.12.182.34:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+山东卫视,http://123.12.182.34:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+贵州卫视,http://123.12.182.34:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+福建东南,http://123.12.182.34:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+陕西卫视,http://123.12.182.34:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+广西卫视,http://123.12.182.34:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+云南卫视,http://123.12.182.34:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+来自河南联通的酒店源(123.12.182.34:85)共有56个频道：	$河南联通
+四川卫视,http://123.12.182.34:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+湖北卫视,http://123.12.182.34:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+河北卫视,http://123.12.182.34:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+江西卫视,http://123.12.182.34:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+山西卫视,http://123.12.182.34:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+宁夏卫视,http://123.12.182.34:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+新疆卫视,http://123.12.182.34:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+吉林卫视,http://123.12.182.34:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+辽宁卫视,http://123.12.182.34:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+天津卫视,http://123.12.182.34:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+广东卫视,http://123.12.182.34:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+黑龙江卫视,http://123.12.182.34:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+金鹰卡通,http://123.12.182.34:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+北京卡通,http://123.12.182.34:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+嘉佳卡通,http://123.12.182.34:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+经典电影,http://123.12.182.34:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+周口电视台1,http://123.12.182.34:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+周口电视台2,http://123.12.182.34:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0	$河南联通
+
+CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV2,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV3,http://36.135.118.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV4,http://36.135.118.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV5,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV6,http://36.135.118.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV7,http://36.135.118.195:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV8,http://36.135.118.195:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV9,http://36.135.118.195:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV10,http://36.135.118.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV11,http://36.135.118.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV12,http://36.135.118.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV13,http://36.135.118.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV14,http://36.135.118.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV15,http://36.135.118.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV17,http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV第一剧场,http://36.135.118.195:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CCTV5+,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+湖南卫视,http://36.135.118.195:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+江苏卫视,http://36.135.118.195:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+浙江卫视,http://36.135.118.195:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+北京卫视,http://36.135.118.195:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+东方卫视,http://36.135.118.195:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+深圳卫视,http://36.135.118.195:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+山西卫视,http://36.135.118.195:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+内蒙古卫视,http://36.135.118.195:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+辽宁卫视,http://36.135.118.195:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+天津卫视,http://36.135.118.195:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+安徽卫视,http://36.135.118.195:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+广东卫视,http://36.135.118.195:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+山东卫视,http://36.135.118.195:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+贵州卫视,http://36.135.118.195:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+黑龙江卫视,http://36.135.118.195:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+河北卫视,http://36.135.118.195:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+东南卫视,http://36.135.118.195:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+湖北卫视,http://36.135.118.195:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+重庆卫视,http://36.135.118.195:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+云南卫视,http://36.135.118.195:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+陕西卫视,http://36.135.118.195:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+青海卫视,http://36.135.118.195:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+兵团卫视,http://36.135.118.195:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+甘肃卫视,http://36.135.118.195:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+新疆卫视,http://36.135.118.195:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+河南卫视,http://36.135.118.195:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+宁夏卫视,http://36.135.118.195:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+江西卫视,http://36.135.118.195:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+广西卫视,http://36.135.118.195:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+西藏卫视,http://36.135.118.195:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+四川卫视,http://36.135.118.195:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉林卫视,http://36.135.118.195:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+延边卫视,http://36.135.118.195:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+金鹰卡通,http://36.135.118.195:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+广东佳嘉卡通,http://36.135.118.195:85/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+三沙卫视,http://36.135.118.195:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+乐游,http://36.135.118.195:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+风云剧场,http://36.135.118.195:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+都市剧场,http://36.135.118.195:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+兵器科技,http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+环球奇观,http://36.135.118.195:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉视生活,http://36.135.118.195:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉视乡村,http://36.135.118.195:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+发现之旅,http://36.135.118.195:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+综艺文化,http://36.135.118.195:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CETV-4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+长影频道,http://36.135.118.195:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+长春1,http://36.135.118.195:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+长春2,http://36.135.118.195:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+长春3,http://36.135.118.195:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CETV-1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉林都市,http://36.135.118.195:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉林影视,http://36.135.118.195:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
+吉林教育,http://36.135.118.195:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0	$吉林移动
 
 
-来自河南联通的酒店源(123.12.182.34:85)共有56个频道：
-CCTV1-综合,http://123.12.182.34:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://123.12.182.34:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://123.12.182.34:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://123.12.182.34:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://123.12.182.34:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://123.12.182.34:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://123.12.182.34:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://123.12.182.34:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://123.12.182.34:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://123.12.182.34:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://123.12.182.34:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://123.12.182.34:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://123.12.182.34:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://123.12.182.34:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://123.12.182.34:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://123.12.182.34:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视高清,http://123.12.182.34:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-河南都市频道,http://123.12.182.34:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-河南民生频道,http://123.12.182.34:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-来自河南联通的酒店源(123.12.182.34:85)共有56个频道：
-河南法制频道,http://123.12.182.34:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-河南电视剧频道,http://123.12.182.34:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-河南新闻频道,http://123.12.182.34:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-河南公共频道,http://123.12.182.34:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-河南新农村频道,http://123.12.182.34:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://123.12.182.34:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://123.12.182.34:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://123.12.182.34:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://123.12.182.34:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://123.12.182.34:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://123.12.182.34:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://123.12.182.34:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://123.12.182.34:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://123.12.182.34:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://123.12.182.34:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-福建东南,http://123.12.182.34:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://123.12.182.34:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://123.12.182.34:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://123.12.182.34:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-来自河南联通的酒店源(123.12.182.34:85)共有56个频道：
-四川卫视,http://123.12.182.34:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://123.12.182.34:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://123.12.182.34:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://123.12.182.34:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://123.12.182.34:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://123.12.182.34:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://123.12.182.34:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://123.12.182.34:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://123.12.182.34:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://123.12.182.34:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://123.12.182.34:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://123.12.182.34:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://123.12.182.34:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卡通,http://123.12.182.34:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-嘉佳卡通,http://123.12.182.34:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-经典电影,http://123.12.182.34:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-周口电视台1,http://123.12.182.34:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-周口电视台2,http://123.12.182.34:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV2-财经,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV3-综艺,http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV4-国际,http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV5-体育,http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV6-电影,http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV7-军农,http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV8-电视剧,http://120.202.94.181:9446/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV9-纪录,http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV10-科教,http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV11-戏曲,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV12-社会与法,http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV13-新闻,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV14-少儿,http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+北京卫视,http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+广东卫视,http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖北卫视,http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+江苏卫视,http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+深圳卫视,http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+浙江卫视,http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖南卫视,http://120.202.94.181:9446/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖北教育,http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖北生活,http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖北影视,http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
+湖北综合,http://120.202.94.181:9446/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0	$十堰 移动
 
 
-CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
-CCTV2,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3,http://36.135.118.195:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4,http://36.135.118.195:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5,http://36.135.118.195:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6,http://36.135.118.195:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7,http://36.135.118.195:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8,http://36.135.118.195:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9,http://36.135.118.195:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10,http://36.135.118.195:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11,http://36.135.118.195:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12,http://36.135.118.195:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13,http://36.135.118.195:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14,http://36.135.118.195:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15,http://36.135.118.195:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV17,http://36.135.118.195:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV第一剧场,http://36.135.118.195:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5+,http://36.135.118.195:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1-综合,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV2-财经,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV3-综艺,http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV4-国际,http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV5-体育,http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV6-电影,http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV7-军农,http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV8-电视剧,http://120.202.94.181:9446/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV9-纪录,http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV10-科教,http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV11-戏曲,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV12-社会与法,http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV13-新闻,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV14-少儿,http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1-综合,http://218.77.62.245:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://218.77.62.245:10999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://218.77.62.245:10999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://218.77.62.245:10999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://218.77.62.245:10999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://218.77.62.245:10999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://218.77.62.245:10999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://218.77.62.245:10999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://218.77.62.245:10999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://218.77.62.245:10999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://218.77.62.245:10999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://218.77.62.245:10999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://218.77.62.245:10999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://36.135.118.195:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://36.135.118.195:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://36.135.118.195:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://36.135.118.195:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-东方卫视,http://36.135.118.195:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://36.135.118.195:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-山西卫视,http://36.135.118.195:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
-内蒙古卫视,http://36.135.118.195:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
-辽宁卫视,http://36.135.118.195:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://36.135.118.195:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://36.135.118.195:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://36.135.118.195:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-山东卫视,http://36.135.118.195:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-贵州卫视,http://36.135.118.195:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://36.135.118.195:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-河北卫视,http://36.135.118.195:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-东南卫视,http://36.135.118.195:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://36.135.118.195:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-重庆卫视,http://36.135.118.195:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-云南卫视,http://36.135.118.195:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
-陕西卫视,http://36.135.118.195:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-青海卫视,http://36.135.118.195:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=0&authid=0
-兵团卫视,http://36.135.118.195:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-甘肃卫视,http://36.135.118.195:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
-新疆卫视,http://36.135.118.195:85/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
-河南卫视,http://36.135.118.195:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
-宁夏卫视,http://36.135.118.195:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
-江西卫视,http://36.135.118.195:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-广西卫视,http://36.135.118.195:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
-西藏卫视,http://36.135.118.195:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
-四川卫视,http://36.135.118.195:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林卫视,http://36.135.118.195:85/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-延边卫视,http://36.135.118.195:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-北京卫视,http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-广东卫视,http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-江苏卫视,http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-深圳卫视,http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江卫视,http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南卫视,http://120.202.94.181:9446/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-安徽卫视,http://218.77.62.245:10999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://218.77.62.245:10999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://218.77.62.245:10999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://218.77.62.245:10999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://218.77.62.245:10999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://218.77.62.245:10999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://218.77.62.245:10999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://218.77.62.245:10999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://218.77.62.245:10999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://218.77.62.245:10999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://218.77.62.245:10999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://218.77.62.245:10999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://218.77.62.245:10999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://218.77.62.245:10999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://218.77.62.245:10999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://218.77.62.245:10999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://36.135.118.195:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
-广东佳嘉卡通,http://36.135.118.195:85/tsfile/live/0150_1.m3u8?key=txiptv&playlive=0&authid=0
-三沙卫视,http://36.135.118.195:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-乐游,http://36.135.118.195:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-风云剧场,http://36.135.118.195:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-都市剧场,http://36.135.118.195:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=0&authid=0
-兵器科技,http://36.135.118.195:85/tsfile/live/1027_1.m3u8?key=txiptv&playlive=0&authid=0
-环球奇观,http://36.135.118.195:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视生活,http://36.135.118.195:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-吉视乡村,http://36.135.118.195:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-发现之旅,http://36.135.118.195:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-综艺文化,http://36.135.118.195:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-CETV-4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-长影频道,http://36.135.118.195:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-长春1,http://36.135.118.195:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-长春2,http://36.135.118.195:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-长春3,http://36.135.118.195:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
-CETV-1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林都市,http://36.135.118.195:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林影视,http://36.135.118.195:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-吉林教育,http://36.135.118.195:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北教育,http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北生活,http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北影视,http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北综合,http://120.202.94.181:9446/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-湖南电影,http://218.77.62.245:10999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://218.77.62.245:10999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南公共,http://218.77.62.245:10999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南金鹰卡通,http://218.77.62.245:10999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://218.77.62.245:10999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://218.77.62.245:10999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1-综合,http://218.77.62.245:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV2-财经,http://218.77.62.245:10999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV3-综艺,http://218.77.62.245:10999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV4-国际,http://218.77.62.245:10999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV6-电影,http://218.77.62.245:10999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV7-军农,http://218.77.62.245:10999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV8-电视剧,http://218.77.62.245:10999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV9-纪录,http://218.77.62.245:10999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV10-科教,http://218.77.62.245:10999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV11-戏曲,http://218.77.62.245:10999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV12-社会与法,http://218.77.62.245:10999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV13-新闻,http://218.77.62.245:10999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+CCTV14-少儿,http://218.77.62.245:10999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+安徽卫视,http://218.77.62.245:10999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+安徽卫视,http://218.77.62.245:10999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+北京卫视,http://218.77.62.245:10999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+北京卫视,http://218.77.62.245:10999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+东方卫视,http://218.77.62.245:10999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+东南卫视,http://218.77.62.245:10999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+甘肃卫视,http://218.77.62.245:10999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+广东卫视,http://218.77.62.245:10999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+贵州卫视,http://218.77.62.245:10999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+河北卫视,http://218.77.62.245:10999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+黑龙江卫视,http://218.77.62.245:10999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖北卫视,http://218.77.62.245:10999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南卫视,http://218.77.62.245:10999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+江苏卫视,http://218.77.62.245:10999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+山西卫视,http://218.77.62.245:10999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+浙江卫视,http://218.77.62.245:10999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南电影,http://218.77.62.245:10999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南都市,http://218.77.62.245:10999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南公共,http://218.77.62.245:10999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南金鹰卡通,http://218.77.62.245:10999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南娱乐,http://218.77.62.245:10999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+湖南娱乐,http://218.77.62.245:10999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	$湖南 长沙 电信
+
 CCTV1,http://ygbh.site/php/bfgd.php?id=488#
 CCTV2,http://ygbh.site/php/bfgd.php?id=061
 CCTV3,http://ygbh.site/php/bfgd.php?id=062
@@ -478,88 +421,81 @@ CETV2,http://ygbh.site/php/bfgd.php?id=492
 
 
 
-来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
-CCTV1-综合,http://175.0.72.215:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://175.0.72.215:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://175.0.72.215:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://175.0.72.215:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://175.0.72.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://175.0.72.215:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://175.0.72.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://175.0.72.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://175.0.72.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://175.0.72.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://175.0.72.215:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://175.0.72.215:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://175.0.72.215:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15-音乐,http://175.0.72.215:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+体育赛事,http://175.0.72.215:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://175.0.72.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://175.0.72.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://175.0.72.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://175.0.72.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：
-安徽卫视,http://175.0.72.215:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://175.0.72.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://175.0.72.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://175.0.72.215:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://175.0.72.215:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://175.0.72.215:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://175.0.72.215:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南经视,http://175.0.72.215:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电视剧,http://175.0.72.215:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://175.0.72.215:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：	$ 长沙 电信
+CCTV1-综合,http://175.0.72.215:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV2-财经,http://175.0.72.215:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV3-综艺,http://175.0.72.215:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV4-国际,http://175.0.72.215:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV5-体育,http://175.0.72.215:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV6-电影,http://175.0.72.215:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV7-军农,http://175.0.72.215:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV8-电视剧,http://175.0.72.215:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV9-纪录,http://175.0.72.215:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV10-科教,http://175.0.72.215:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV12-社会与法,http://175.0.72.215:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV13-新闻,http://175.0.72.215:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV14-少儿,http://175.0.72.215:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV15-音乐,http://175.0.72.215:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+CCTV5+体育赛事,http://175.0.72.215:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+湖南卫视,http://175.0.72.215:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+江苏卫视,http://175.0.72.215:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+东方卫视,http://175.0.72.215:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+浙江卫视,http://175.0.72.215:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+来自湖南电信的酒店源(175.0.72.215:9901)共有29个频道：	$ 长沙 电信
+安徽卫视,http://175.0.72.215:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+北京卫视,http://175.0.72.215:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+江西卫视,http://175.0.72.215:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+深圳卫视,http://175.0.72.215:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+辽宁卫视,http://175.0.72.215:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+东南卫视,http://175.0.72.215:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+四川卫视,http://175.0.72.215:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+湖南经视,http://175.0.72.215:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+湖南电视剧,http://175.0.72.215:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
+湖南都市,http://175.0.72.215:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0	$ 长沙 电信
 
-CCTV1-综合,http://221.199.193.234:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://221.199.193.234:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://221.199.193.234:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://221.199.193.234:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://221.199.193.234:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5+,http://221.199.193.234:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://221.199.193.234:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://221.199.193.234:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://221.199.193.234:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://221.199.193.234:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://221.199.193.234:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://221.199.193.234:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://221.199.193.234:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://221.199.193.234:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17,http://221.199.193.234:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
-CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
-CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
-CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
-CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
-CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
-CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
-CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
-CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
-CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
-CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
-CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
-CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
-CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
-CGTN,http://112.27.235.94:8000/hls/17/index.m3u8
-CCTV1,http://183.185.74.253:9003/hls/1/index.m3u8
-CCTV2,http://183.185.74.253:9003/hls/2/index.m3u8
-CCTV3,http://183.185.74.253:9003/hls/3/index.m3u8
-CCTV4,http://183.185.74.253:9003/hls/4/index.m3u8
-CCTV5,http://183.185.74.253:9003/hls/5/index.m3u8
-CCTV5+,http://183.185.74.253:9003/hls/6/index.m3u8
-CCTV6,http://183.185.74.253:9003/hls/7/index.m3u8
-CCTV7,http://183.185.74.253:9003/hls/8/index.m3u8
-CCTV8,http://183.185.74.253:9003/hls/9/index.m3u8
-CCTV9,http://183.185.74.253:9003/hls/10/index.m3u8
-CCTV10,http://183.185.74.253:9003/hls/11/index.m3u8
-CCTV11,http://183.185.74.253:9003/hls/12/index.m3u8
-CCTV12,http://183.185.74.253:9003/hls/13/index.m3u8
-CCTV13,http://183.185.74.253:9003/hls/14/index.m3u8
-CCTV14,http://183.185.74.253:9003/hls/15/index.m3u8
-CCTV15,http://183.185.74.253:9003/hls/16/index.m3u8
-CCTV16,http://183.185.74.253:9003/hls/17/index.m3u8
-CCTV17,http://183.185.74.253:9003/hls/18/index.m3u8
+
+
+CCTV1-综合,http://221.199.193.234:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV2-财经,http://221.199.193.234:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-3,http://221.199.193.234:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-4,http://221.199.193.234:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-5,http://221.199.193.234:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-5+,http://221.199.193.234:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-6,http://221.199.193.234:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-9,http://221.199.193.234:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-10,http://221.199.193.234:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-11,http://221.199.193.234:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-12,http://221.199.193.234:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-13,http://221.199.193.234:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-14,http://221.199.193.234:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-15,http://221.199.193.234:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+CCTV-17,http://221.199.193.234:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+内蒙古卫视,http://221.199.193.234:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+湖南卫视,http://221.199.193.234:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+浙江卫视,http://221.199.193.234:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+江苏卫视,http://221.199.193.234:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+安徽卫视,http://221.199.193.234:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+北京卫视,http://221.199.193.234:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+天津卫视,http://221.199.193.234:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+辽宁卫视,http://221.199.193.234:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+云南卫视,http://221.199.193.234:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+黑龙江卫视,http://221.199.193.234:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+四川卫视,http://221.199.193.234:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+江西卫视,http://221.199.193.234:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+贵州卫视,http://221.199.193.234:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+深圳卫视,http://221.199.193.234:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+湖北卫视,http://221.199.193.234:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+东方卫视,http://221.199.193.234:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+重庆卫视,http://221.199.193.234:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+东南卫视,http://221.199.193.234:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+河北卫视,http://221.199.193.234:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+广东卫视,http://221.199.193.234:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+广西卫视,http://221.199.193.234:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+山西卫视,http://221.199.193.234:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+兵团卫视,http://221.199.193.234:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0	$ 鄂尔多斯 联通
+
+
+
 CCTV2,http://116.232.1.47:6000/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 CCTV4,http://116.232.1.47:6000/tsfile/live/0001_4.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 CCTV5,http://116.232.1.47:6000/tsfile/live/0001_5.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
@@ -569,101 +505,47 @@ CCTV11,http://116.232.1.47:6000/tsfile/live/0001_11.m3u8?key=txiptv&playlive=1&a
 CCTV12,http://116.232.1.47:6000/tsfile/live/0001_12.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 CCTV14,http://116.232.1.47:6000/tsfile/live/0001_14.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 CCTV15,http://116.232.1.47:6000/tsfile/live/0001_15.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-CCTV1-综合,http://110.181.237.129:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://110.181.237.129:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://110.181.237.129:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://110.181.237.129:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://110.181.237.129:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://110.181.237.129:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://110.181.237.129:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9HD,http://110.181.237.129:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10HD,http://110.181.237.129:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://110.181.237.129:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12HD,http://110.181.237.129:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://110.181.237.129:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14HD,http://110.181.237.129:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://110.181.237.129:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+HD,http://110.181.237.129:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://110.181.237.129:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1-综合,http://110.181.237.251:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://110.181.237.251:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://110.181.237.251:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://110.181.237.251:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://110.181.237.251:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://110.181.237.251:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://110.181.237.251:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9HD,http://110.181.237.251:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10HD,http://110.181.237.251:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://110.181.237.251:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12HD,http://110.181.237.251:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://110.181.237.251:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14HD,http://110.181.237.251:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://110.181.237.251:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+HD,http://110.181.237.251:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://110.181.237.251:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://110.181.238.23:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5-体育,http://110.181.238.23:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://110.181.238.23:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://110.181.238.23:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9HD,http://110.181.238.23:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10HD,http://110.181.238.23:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://110.181.238.23:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12HD,http://110.181.238.23:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://110.181.238.23:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14HD,http://110.181.238.23:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://110.181.238.23:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+HD,http://110.181.238.23:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CGTN,http://110.181.238.23:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV1-综合,http://218.77.62.245:10999/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2-财经,http://218.77.62.245:10999/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3-综艺,http://218.77.62.245:10999/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4-国际,http://218.77.62.245:10999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6-电影,http://218.77.62.245:10999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7-军农,http://218.77.62.245:10999/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8-电视剧,http://218.77.62.245:10999/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9-纪录,http://218.77.62.245:10999/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10-科教,http://218.77.62.245:10999/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11-戏曲,http://218.77.62.245:10999/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12-社会与法,http://218.77.62.245:10999/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13-新闻,http://218.77.62.245:10999/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14-少儿,http://218.77.62.245:10999/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://116.232.1.47:6000/tsfile/live/0001_26.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+深圳卫视,http://116.232.1.47:6000/tsfile/live/0001_24.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+河南卫视,http://116.232.1.47:6000/tsfile/live/0001_30.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+江西卫视,http://116.232.1.47:6000/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+安徽卫视,http://116.232.1.47:6000/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+海南卫视,http://116.232.1.47:6000/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+吉林卫视,http://116.232.1.47:6000/tsfile/live/0001_37.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+贵州卫视,http://116.232.1.47:6000/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+云南卫视,http://116.232.1.47:6000/tsfile/live/0001_40.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+河北卫视,http://116.232.1.47:6000/tsfile/live/0001_41.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+宁夏卫视,http://116.232.1.47:6000/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+甘肃卫视,http://116.232.1.47:6000/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+新疆卫视,http://116.232.1.47:6000/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+内蒙古卫视,http://116.232.1.47:6000/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
+
+CCTV1,http://183.185.74.253:9003/hls/1/index.m3u8	$ 太原 联通
+CCTV2,http://183.185.74.253:9003/hls/2/index.m3u8	$ 太原 联通
+CCTV3,http://183.185.74.253:9003/hls/3/index.m3u8	$ 太原 联通
+CCTV4,http://183.185.74.253:9003/hls/4/index.m3u8	$ 太原 联通
+CCTV5,http://183.185.74.253:9003/hls/5/index.m3u8	$ 太原 联通
+CCTV5+,http://183.185.74.253:9003/hls/6/index.m3u8	$ 太原 联通
+CCTV6,http://183.185.74.253:9003/hls/7/index.m3u8	$ 太原 联通
+CCTV7,http://183.185.74.253:9003/hls/8/index.m3u8	$ 太原 联通
+CCTV8,http://183.185.74.253:9003/hls/9/index.m3u8	$ 太原 联通
+CCTV9,http://183.185.74.253:9003/hls/10/index.m3u8	$ 太原 联通
+CCTV10,http://183.185.74.253:9003/hls/11/index.m3u8	$ 太原 联通
+CCTV11,http://183.185.74.253:9003/hls/12/index.m3u8	$ 太原 联通
+CCTV12,http://183.185.74.253:9003/hls/13/index.m3u8	$ 太原 联通
+CCTV13,http://183.185.74.253:9003/hls/14/index.m3u8	$ 太原 联通
+CCTV14,http://183.185.74.253:9003/hls/15/index.m3u8	$ 太原 联通
+CCTV15,http://183.185.74.253:9003/hls/16/index.m3u8	$ 太原 联通
+CCTV16,http://183.185.74.253:9003/hls/17/index.m3u8	$ 太原 联通
+CCTV17,http://183.185.74.253:9003/hls/18/index.m3u8	$ 太原 联通
+
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8#EXTM3U
-湖南都市,http://175.0.72.215:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南电影,http://218.77.62.245:10999/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南都市,http://218.77.62.245:10999/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南公共,http://218.77.62.245:10999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南金鹰卡通,http://218.77.62.245:10999/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://218.77.62.245:10999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南娱乐,http://218.77.62.245:10999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://221.199.193.234:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://221.199.193.234:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://221.199.193.234:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://221.199.193.234:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://221.199.193.234:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://221.199.193.234:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视,http://221.199.193.234:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://221.199.193.234:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://221.199.193.234:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://221.199.193.234:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://221.199.193.234:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://221.199.193.234:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://221.199.193.234:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://221.199.193.234:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://221.199.193.234:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://221.199.193.234:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://221.199.193.234:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://221.199.193.234:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://221.199.193.234:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://221.199.193.234:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://221.199.193.234:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://221.199.193.234:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://221.199.193.234:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+
 安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
@@ -704,218 +586,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8#EXTM3U
 辽宁卫视,http://183.185.74.253:9003/hls/37/index.m3u8
 宁夏卫视,http://183.185.74.253:9003/hls/39/index.m3u8
 青海卫视,http://183.185.74.253:9003/hls/40/index.m3u8
-东方卫视HD,http://110.181.238.23:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视HD,http://110.181.238.23:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视HD,http://110.181.238.23:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视HD,http://110.181.238.23:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视HD,http://110.181.238.23:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视HD,http://110.181.238.23:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视HD,http://110.181.238.23:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视HD,http://110.181.238.23:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视HD,http://110.181.238.23:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://110.181.238.23:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://110.181.238.23:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://110.181.238.23:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://110.181.238.23:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视HD,http://110.181.238.23:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://110.181.238.23:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视HD,http://110.181.238.23:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://110.181.238.23:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视HD,http://110.181.238.23:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://110.181.238.23:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://116.232.1.47:6000/tsfile/live/0001_26.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$官网线路
-深圳卫视,http://116.232.1.47:6000/tsfile/live/0001_24.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-河南卫视,http://116.232.1.47:6000/tsfile/live/0001_30.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-江西卫视,http://116.232.1.47:6000/tsfile/live/0001_32.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-安徽卫视,http://116.232.1.47:6000/tsfile/live/0001_33.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-海南卫视,http://116.232.1.47:6000/tsfile/live/0001_35.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-吉林卫视,http://116.232.1.47:6000/tsfile/live/0001_37.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-贵州卫视,http://116.232.1.47:6000/tsfile/live/0001_39.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-云南卫视,http://116.232.1.47:6000/tsfile/live/0001_40.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-河北卫视,http://116.232.1.47:6000/tsfile/live/0001_41.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-宁夏卫视,http://116.232.1.47:6000/tsfile/live/0001_42.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-甘肃卫视,http://116.232.1.47:6000/tsfile/live/0001_43.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-新疆卫视,http://116.232.1.47:6000/tsfile/live/0001_44.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-内蒙古卫视,http://116.232.1.47:6000/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
-东方卫视HD,http://110.181.237.129:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视HD,http://110.181.237.129:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视HD,http://110.181.237.129:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视HD,http://110.181.237.129:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视HD,http://110.181.237.129:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视HD,http://110.181.237.129:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视HD,http://110.181.237.129:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视HD,http://110.181.237.129:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视HD,http://110.181.237.129:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://110.181.237.129:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://110.181.237.129:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://110.181.237.129:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视HD,http://110.181.237.129:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://110.181.237.129:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视HD,http://110.181.237.129:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://110.181.237.129:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视HD,http://110.181.237.129:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://110.181.237.129:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视HD,http://110.181.237.251:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视HD,http://110.181.237.251:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视HD,http://110.181.237.251:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视HD,http://110.181.237.251:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视HD,http://110.181.237.251:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视HD,http://110.181.237.251:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视HD,http://110.181.237.251:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视HD,http://110.181.237.251:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://110.181.237.251:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://110.181.237.251:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-四川卫视,http://110.181.237.251:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://110.181.237.251:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
-天津卫视HD,http://110.181.237.251:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://110.181.237.251:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视HD,http://110.181.237.251:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林卫视,http://110.181.237.251:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视HD,http://110.181.237.251:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://110.181.237.251:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://218.77.62.245:10999/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://218.77.62.245:10999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://218.77.62.245:10999/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-北京卫视,http://218.77.62.245:10999/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://218.77.62.245:10999/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-东南卫视,http://218.77.62.245:10999/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://218.77.62.245:10999/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://218.77.62.245:10999/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://218.77.62.245:10999/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://218.77.62.245:10999/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江卫视,http://218.77.62.245:10999/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北卫视,http://218.77.62.245:10999/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://218.77.62.245:10999/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://218.77.62.245:10999/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://218.77.62.245:10999/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://218.77.62.245:10999/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古蒙语卫视,http://221.199.193.234:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古新闻综合,http://221.199.193.234:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古文体娱乐,http://221.199.193.234:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古农牧,http://221.199.193.234:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古少儿,http://221.199.193.234:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-鄂尔多斯新闻综合,http://221.199.193.234:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-鄂尔多斯经济服务,http://221.199.193.234:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-鄂尔多斯蒙语,http://221.199.193.234:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实,http://221.199.193.234:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-纪实科教,http://221.199.193.234:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-教育4,http://221.199.193.234:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-家有购物,http://221.199.193.234:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
-合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
-合肥生活,http://112.27.235.94:8000/hls/19/index.m3u8
-合肥科创,http://112.27.235.94:8000/hls/20/index.m3u8
-肥西县综合,http://112.27.235.94:8000/hls/21/index.m3u8
-上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
-重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
-福建卫视,http://183.185.74.253:9003/hls/24/index.m3u8
-内蒙卫视,http://183.185.74.253:9003/hls/38/index.m3u8
-CETV1HD,http://110.181.238.23:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实HD,http://110.181.238.23:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1HD,http://110.181.237.129:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实HD,http://110.181.237.129:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CETV1HD,http://110.181.237.251:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰纪实HD,http://110.181.237.251:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://221.199.193.234:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽经济,http://112.27.235.94:8000/hls/22/index.m3u8
-安徽公共,http://112.27.235.94:8000/hls/23/index.m3u8
-安徽影视,http://112.27.235.94:8000/hls/24/index.m3u8
-安徽综艺体育,http://112.27.235.94:8000/hls/25/index.m3u8
-IPTV8+,http://110.181.238.23:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-IPTV8+,http://110.181.237.129:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-IPTV8+,http://110.181.237.251:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
-🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
-
-CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
-CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
-CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
-CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
-CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
-CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
-CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
-CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
-CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
-CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
-CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
-CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
-CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
-CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
-CCTV7,http://113.15.109.216:59901/tsfile/live/1002_1.m3u8
-CCTV-10科教,http://113.25.252.226:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://113.25.252.226:9901/tsfile/live/0012_1.m3u8
-CCTV-15音乐,http://113.25.252.226:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2财经,http://113.25.252.226:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4中文国际,http://113.25.252.226:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7国防军事,http://113.25.252.226:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9纪录,http://113.25.252.226:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://113.26.202.52:1299/tsfile/live/0011_1.m3u8
-CCTV4,http://113.26.202.52:1299/tsfile/live/0004_1.m3u8
-CCTV-15音乐,http://113.57.93.165:9900/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8
-CCTV10,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8
-CCTV10,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8?key=txiptv
-CCTV-10科教,http://116.9.204.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8
-CCTV11,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv
-CCTV-11戏曲,http://116.9.204.242:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8?key=txiptv
-CCTV-12社会与法,http://116.9.204.242:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8
-CCTV-13新闻,http://116.9.204.242:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://116.9.204.242:9901/tsfile/live/0014_1.m3u8?key=txiptv
-CCTV-14少儿,http://116.9.204.242:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8
-CCTV15,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv
-CCTV-15音乐,http://116.9.204.242:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1综合,http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2财经,http://116.9.204.242:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8
-CCTV4,http://116.9.204.242:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5体育,http://116.9.204.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8
-CCTV7,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv
-CCTV-7国防军事,http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9纪录,http://116.9.204.242:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://124.116.183.146:9901/tsfile/live/0001_1.m3u8
-CCTV14,http://124.116.183.146:9901/tsfile/live/0014_1.m3u8
-CCTV3,http://124.116.183.146:9901/tsfile/live/0003_1.m3u8
-CCTV4,http://124.116.183.146:9901/tsfile/live/0004_1.m3u8
-CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://218.17.33.178:53290/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://218.17.33.178:53290/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://218.17.33.178:53290/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://218.17.33.178:53290/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://218.17.33.178:53290/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://218.17.33.178:53290/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://218.17.33.178:53290/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
-CCTV11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
-CCTV-11戏曲,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://60.29.124.66:6080/hls/15/index.m3u8
-CCTV9,http://60.29.124.66:6080/hls/20/index.m3u8
-CCTV10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
-CCTV-10科教,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12社会与法,http://61.156.228.12:8154/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://61.156.228.12:8154/tsfile/live/0013_1.m3u8
-CCTV-17农业农村,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://61.156.228.12:8154/tsfile/live/0002_1.m3u8
-CCTV-4中文国际,http://61.156.228.12:8154/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://8.138.7.223/tv/cctv7.m3u8
-CCTV-13,http://8.138.7.223/tv/cctv13.m3u8
-CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
-CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-CCTV4欧洲,https://migu.188766.xyz/?migutoken=11904ee7aac0b0299d4b25d2239ec69c&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV20241,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY地方电视,#genre#
@@ -8367,6 +8038,7 @@ CAWD-435 又可爱又性格好 想尝试各种性爱！全部初体验 高潮三
 JUFE-425 用媚药来报復把我送进监狱的女孩 美体OL被复仇强奸的真实记录 天川空,https://b.gg155gg1.com/20250418/K09M7caN/index.m3u8
 SAME-020 向学生时代欺负我的女人復仇【已经...高潮了... 请原谅我吧】即使玩坏掉,https://b.gg155gg1.com/20250416/bgQ5eirw/index.m3u8
 WAAA-217 黑人解禁！贪食蛇舌 中出大乱交 佐伯由美香,https://b.gg155gg1.com/20250405/fC1zxbB6/index.m3u8
+
 
 
 
