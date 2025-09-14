@@ -323,10 +323,8 @@ CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&au
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY地方电视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-CPTV生活,http://jsylivealone302.iqilu.com/live/chiping_tv02.m3u8
-CPTV生活,http://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
-CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01.m3u8
-CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
+hpy茌平电视台CPTV生活,http://jsylivealone302.iqilu.com/live/chiping_tv02/index.m3u8
+hpy茌平电视台CPTV综合,http://jsylivealone302.iqilu.com/live/chiping_tv01/index.m3u8
 hpy鄂尔多斯经济服务,https://live.nxw.org.cn/lsdream/ogvfqcp/1000/live.m3u8
 hpy鄂尔多斯蒙语综合,https://live.nxw.org.cn/lsdream/3lZr8dK/1000/live.m3u8
 hpy鄂尔多斯新闻综合,https://live.nxw.org.cn/lsdream/h2mxgj4/1000/live.m3u8
@@ -343,14 +341,14 @@ hpy东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 
 
 
-阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
-安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
-巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
-包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
+hpy阿拉善新闻综合,http://play1-qk.nmtv.cn/live/1735547046115053.m3u8
+hpy安顺新闻,http://hplayer1.juyun.tv/camera/154379194.m3u8
+hpy巴彦淖尔新闻综合,http://play1-qk.nmtv.cn/live/1735546423467029.m3u8
+hpy包头新闻综合,http://play1-qk.nmtv.cn/live/1735546150395017.m3u8
 宝丰综合,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 璧山综合,http://222.179.42.129:8181/hls1.m3u8
 兵团八师石河子新闻综合,http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd
-兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
+hpy兵团五师双河新闻综合,http://liveout.btzx.com.cn/62ds9e/4nxdih.m3u8?fbl=
 常熟民生,http://3gvod.zjgonline.com.cn:1935/live/_definst_/shehuishenghuo_app/chunklist.m3u8
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 赤峰新闻综合,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
@@ -7755,6 +7753,7 @@ CAWD-435 又可爱又性格好 想尝试各种性爱！全部初体验 高潮三
 JUFE-425 用媚药来报復把我送进监狱的女孩 美体OL被复仇强奸的真实记录 天川空,https://b.gg155gg1.com/20250418/K09M7caN/index.m3u8
 SAME-020 向学生时代欺负我的女人復仇【已经...高潮了... 请原谅我吧】即使玩坏掉,https://b.gg155gg1.com/20250416/bgQ5eirw/index.m3u8
 WAAA-217 黑人解禁！贪食蛇舌 中出大乱交 佐伯由美香,https://b.gg155gg1.com/20250405/fC1zxbB6/index.m3u8
+
 
 
 
