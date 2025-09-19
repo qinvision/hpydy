@@ -797,6 +797,55 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
 贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
 
+CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
+CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
+CCTV-1,http://120.238.94.10:9901/tsfile/live/1018_1.m3u8
+CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://223.241.247.214:9901/tsfile/live/0002_1.m3u8
+CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
+CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
+CCTV-3,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
+CCTV-4,http://111.227.196.164:9901/tsfile/live/faacts/0004_1.m3u8
+CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
+CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
+CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8
+CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
+CCTV-6,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8
+CCTV-7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8
+CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV-8,http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
+CCTV-9,http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
+CCTV-9,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8
+CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
+CCTV-10,http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
+CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
+CCTV-11,http://120.238.94.10:9901/tsfile/live/1029_1.m3u8
+CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8
+CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV-12,http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
+CCTV-12,http://120.238.94.10:9901/tsfile/live/1030_1.m3u8
+CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://120.238.94.10:9901/tsfile/live/1031_1.m3u8
+CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
+CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8
+CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8
+
 CCTV-1,http://php.cqshushu.ggff.net/jzb.php?id=cctv1&公众号【医工学习日志】
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
@@ -8600,6 +8649,7 @@ SSIS-547 素人蔘加 J CUP乳交忍耐企划 作爲忍耐的奖励 要做一发
 SSIS-548 枫风华的浓厚唾液性交,https://b.gg155gg1.com/20250402/7GjxVtve/index.m3u8
 SSIS-550 制服美少女和中年大叔的交融 汗液满溢性交 爱宝玲,https://b.gg155gg1.com/20250421/Vmzte95S/index.m3u8
 SSIS-551 害羞 恍惚 停不下来的高潮 遵从指令的拘束 两天一夜的温泉约会 东云美怜,https://b.gg155gg1.com/20250403/hFSozrB3/index.m3u8
+
 
 
 
