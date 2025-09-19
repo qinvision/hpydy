@@ -461,6 +461,16 @@ CCTV17,http://221.205.206.45:9003/hls/18/index.m3u8
 来自山西联通的酒店源(221.205.206.45:9003)共有39个频道：
 青海卫视,http://221.205.206.45:9003/hls/40/index.m3u8
 
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
 安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
@@ -8331,6 +8341,7 @@ SSIS-547 素人蔘加 J CUP乳交忍耐企划 作爲忍耐的奖励 要做一发
 SSIS-548 枫风华的浓厚唾液性交,https://b.gg155gg1.com/20250402/7GjxVtve/index.m3u8
 SSIS-550 制服美少女和中年大叔的交融 汗液满溢性交 爱宝玲,https://b.gg155gg1.com/20250421/Vmzte95S/index.m3u8
 SSIS-551 害羞 恍惚 停不下来的高潮 遵从指令的拘束 两天一夜的温泉约会 东云美怜,https://b.gg155gg1.com/20250403/hFSozrB3/index.m3u8
+
 
 
 
