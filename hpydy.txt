@@ -31,16 +31,18 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 隔离符号   	$
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-⚽湘超20250921,#genre#
+⚽湘超20250926,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-19:30永州VS湘潭,https://pull-flv-f11.douyincdn.com/media/stream-406237759678972588_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759055571&major_anchor_level=common&sign=79948900e1c5293022db7010a884525d&t_id=037-2025092118325175A702BD98861279C503-Lw3OSv&unique_id=stream-406237759678972588_684_flv_sd&_session_id=033-202509211832518887375846B31BD5C142.1758450771888.36373&rsi=0&abr_pts=-800
-19:30张家界VS株洲,https://d5735e05e7d94e35e36ae7df625ecb19e6b9166bf1ef1c59.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-694467967997444780.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759058252&major_anchor_level=common&sign=f719ecd4cfd89f65d856f2cdd0835ccc&t_id=037-20250921191731F82D4A7A77D041414DDC-GGGas5&unique_id=stream-694467967997444780_684_flv&_session_id=885-202509211917325776287798D8B24D8A3F.1758453452577.77826&rsi=0&abr_pts=-800&TxLiveCode=cold_stream_overload&svr_type=live_oc&tencent_test_client_ip=240e:381:72f5:ed00::2&stream=&dispatch_from=OC_MGR175.4.55.198&utime=1758453454182&TxDispType=7&txTliveMsg=S5;QD_EIC4;QD_EIC4;
+19:30常德VS张家界,
+
+
+
+
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ⚽赣超20250921,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-九江队vs新余队,https://2408_874f_a000_1_8000_0_b00_25.bytefcdnrd.com/third/stream-118007709276832570_or4.flv?302_type=cold_aggr&_session_id=124-20250921193513308976725968190B5CF6.1758454513308.01186&abr_pts=-800&align_delay=25&arch_hrchy=h1&cac=1&cb_retry=0&domain=pull-t5.douyincdn.com&exp_hrchy=h1&expire=1759059313&fp_user_url=https%3A%2F%2Fpull-t5.douyincdn.com%2Fthird%2Fstream-118007709276832570_or4.flv%3Farch_hrchy%3Dh1%26exp_hrchy%3Dh1%26expire%3D1759059313%26major_anchor_level%3Dcommon%26sign%3De5ed603c8d70dd4fd84aa08be2148f82%26t_id%3D037-20250921193512EE69C1995E21A23B4451-IBJhwR%26unique_id%3Dstream-118007709276832570_826_flv_or4%26volcSecret%3De5ed603c8d70dd4fd84aa08be2148f82%26volcTime%3D1759059313%26_session_id%3D124-20250921193513308976725968190B5CF6.1758454513308.01186%26rsi%3D0%26abr_pts%3D-800&major_anchor_level=common&manage_ip=&node_id=&pro_type=http2&redirect_from=pod.cn-15zcqt.ld2e.nss&redirect_from_ip=2408%3A8720%3A0%3A17%3A8000%3A0%3Ab00%3A31&redirect_to=fc.cn-p8devm&redirect_to_ip=2408%3A874f%3Aa000%3A1%3A8000%3A0%3Ab00%3A25&rsi=0&sign=e5ed603c8d70dd4fd84aa08be2148f82&t_id=037-20250921193512EE69C1995E21A23B4451-IBJhwR&unique_id=stream-118007709276832570_826_flv_or4&vhost=pull-t5.douyincdn.com&volcSecret=e5ed603c8d70dd4fd84aa08be2148f82&volcTime=1759059313&warea=1
-景德镇vs宜春,https://pull-flv-f26.douyincdn.com/media/stream-406237836654150316.flv?arch_hrchy=w1&exp_hrchy=w1&expire=68d91d85&major_anchor_level=common&sign=cf4110aa93ff175484c026c995132f1f&t_id=037-20250921193532983B783200718B810495-8a1QkZ&unique_id=stream-406237836654150316_684_flv&_session_id=478-2025092119353349716076398FEABC6628.1758454533497.28206&rsi=0&abr_pts=-800
+
 
 
 
@@ -8337,6 +8339,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
