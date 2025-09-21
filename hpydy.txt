@@ -35,8 +35,8 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 19:30永州VS湘潭1,https://pull-flv-f11.douyincdn.com/media/stream-694467921625744044.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759051319&major_anchor_level=common&sign=435f0c7d8be005eef33f285809b603aa&t_id=037-20250921172158E0A5AF07EF5A9083168E-ZEpMCN&unique_id=stream-694467921625744044_684_flv&_session_id=492-202509211721594155927988FD651D0C8A.1758446519415.69032&rsi=0&abr_pts=-800
 19:30永州VS湘潭2,https://a8fa2afd03f51a22d67b12d7cccbb44136c41df5722927db.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-694467916254413484_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759051767&major_anchor_level=common&sign=a1283fa2c05099d3e75aa86b543484a8&t_id=037-20250921172926A6DEB9F1BD3F143E5697-UziM4Z&unique_id=stream-694467916254413484_684_flv_sd&_session_id=631-2025092117292727578409989B661265CE.1758446967275.45635&rsi=0&abr_pts=-800&TxLiveCode=hot_stream_overload&svr_type=live_oc&tencent_test_client_ip=240e:381:72f5:ed00::2&stream=&dispatch_from=OC_MGR175.4.55.196&utime=1758446972953&TxDispType=1
-19:30永州VS湘潭,
-
+19:30张家界VS株洲1,https://pull-flv-f1.douyincdn.com/media/stream-982698648616043180_sd.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2025092118255696CDF9DE86DA28709AD9-X4ngNs&unique_id=stream-982698648616043180_684_flv_sd&wsSecret=3391a6bae540e0392fff4e501b93b7a9&wsTime=68cfd2b4&_session_id=197-20250921182556776494241759D167B7DD.1758450356776.65305&rsi=0&abr_pts=-800
+19:30张家界VS株洲2,https://pull-flv-f1.douyincdn.com/media/stream-694468020206568108.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20250921182334E25FCE780F24EE98389A-nXBdcM&unique_id=stream-694468020206568108_684_flv&wsSecret=379d28e663edf71146b8784452dda0d2&wsTime=68cfd226&_session_id=053-202509211823347553060525B3D6D2AD47.1758450214755.65634&rsi=0&abr_pts=-800
 🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶
 好朋友电影更新,#group#
 🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶🔶
@@ -8333,6 +8333,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
