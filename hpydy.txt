@@ -33,9 +33,8 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 ⚽湘超20250921,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-19:30永州VS湘潭,https://pull-flv-f11.douyincdn.com/media/stream-694467916254413484_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759055448&major_anchor_level=common&sign=414d878793f11b0b547918e2a3226295&t_id=037-202509211830478DA538C89F28A7BE117F-sMiznU&unique_id=stream-694467916254413484_684_flv_sd&_session_id=567-2025092118304834088484134B5D1BD5CB.1758450648340.41508&rsi=0&abr_pts=-800
-19:30张家界VS株洲1,https://pull-flv-f1.douyincdn.com/media/stream-982698648616043180_sd.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-2025092118255696CDF9DE86DA28709AD9-X4ngNs&unique_id=stream-982698648616043180_684_flv_sd&wsSecret=3391a6bae540e0392fff4e501b93b7a9&wsTime=68cfd2b4&_session_id=197-20250921182556776494241759D167B7DD.1758450356776.65305&rsi=0&abr_pts=-800
-19:30张家界VS株洲2,https://pull-flv-f1.douyincdn.com/media/stream-694468020206568108.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20250921182334E25FCE780F24EE98389A-nXBdcM&unique_id=stream-694468020206568108_684_flv&wsSecret=379d28e663edf71146b8784452dda0d2&wsTime=68cfd226&_session_id=053-202509211823347553060525B3D6D2AD47.1758450214755.65634&rsi=0&abr_pts=-800
+19:30永州VS湘潭,https://pull-flv-f11.douyincdn.com/media/stream-406237759678972588_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759055571&major_anchor_level=common&sign=79948900e1c5293022db7010a884525d&t_id=037-2025092118325175A702BD98861279C503-Lw3OSv&unique_id=stream-406237759678972588_684_flv_sd&_session_id=033-202509211832518887375846B31BD5C142.1758450771888.36373&rsi=0&abr_pts=-800
+19:30张家界VS株洲,https://pull-flv-f11.douyincdn.com/media/stream-694467916254413484_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1759055448&major_anchor_level=common&sign=414d878793f11b0b547918e2a3226295&t_id=037-202509211830478DA538C89F28A7BE117F-sMiznU&unique_id=stream-694467916254413484_684_flv_sd&_session_id=567-2025092118304834088484134B5D1BD5CB.1758450648340.41508&rsi=0&abr_pts=-800
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔥20250921🔥,#genre#
@@ -8327,6 +8326,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
