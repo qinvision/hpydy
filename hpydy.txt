@@ -175,6 +175,49 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
+
+
+
+
+来自湖北电信的酒店源(171.43.65.218:85)共有35个频道：
+CCTV1-综合,http://171.43.65.218:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV2-财经,http://171.43.65.218:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV3-综艺,http://171.43.65.218:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV4-国际,http://171.43.65.218:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV5-体育,http://171.43.65.218:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV6-电影,http://171.43.65.218:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV7-军农,http://171.43.65.218:85/tsfile/live/0007_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV8-电视剧,http://171.43.65.218:85/tsfile/live/0008_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV9-纪录,http://171.43.65.218:85/tsfile/live/0009_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV10-科教,http://171.43.65.218:85/tsfile/live/0010_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV11-戏曲,http://171.43.65.218:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV12-社会与法,http://171.43.65.218:85/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV13-新闻,http://171.43.65.218:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV14-少儿,http://171.43.65.218:85/tsfile/live/0014_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+十堰新闻,http://171.43.65.218:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+CCTV15-音乐,http://171.43.65.218:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+十堰经济旅游,http://171.43.65.218:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+中央教育,http://171.43.65.218:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖北公共新闻,http://171.43.65.218:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+来自湖北电信的酒店源(171.43.65.218:85)共有35个频道：
+湖北卫视,http://171.43.65.218:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+云南卫视,http://171.43.65.218:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖北垄上,http://171.43.65.218:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖北影视,http://171.43.65.218:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+嘉佳卡通,http://171.43.65.218:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖北电视台,http://171.43.65.218:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖北经视,http://171.43.65.218:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+浙江卫视,http://171.43.65.218:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+湖南卫视,http://171.43.65.218:85/tsfile/live/0128_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+广东卫视,http://171.43.65.218:85/tsfile/live/0125_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+江苏卫视,http://171.43.65.218:85/tsfile/live/0127_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+山东卫视,http://171.43.65.218:85/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+安徽卫视,http://171.43.65.218:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+甘肃卫视,http://171.43.65.218:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+重庆卫视,http://171.43.65.218:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+上海卫视,http://171.43.65.218:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
+
+
 来自浙江电信的酒店源(115.208.69.29:85)共有37个频道：
 CCTV1-综合,http://115.208.69.29:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
 CCTV2-财经,http://115.208.69.29:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
@@ -8237,6 +8280,7 @@ JUQ-111 町内露营NTR 帐篷裏被数次中出的妻子 日下部加奈,https:
 JUQ-113 绝对不能告诉丈夫 我被义父弄怀孕了 两天一夜的温泉旅行 被数次中出的我,https://b.gg155gg1.com/20250407/4JyJ9phr/index.m3u8
 JUQ-114 肉感妻的无自觉撩拨 向她发起攻势没想到 突然的豹变！绝伦巨尻中出SEX,https://b.gg155gg1.com/20250412/mEmXF7gx/index.m3u8
 JUQ-115 被丈夫上司侵犯的第七天 我失去了理性 姬川优奈,https://b.gg155gg1.com/20250330/OmeBCKrX/index.m3u8
+
 
 
 
