@@ -174,55 +174,101 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 📺HPY央视卫视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
-海南三亚联通
-CCTV1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV-8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-安徽卫视,http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-东方卫视,http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-海南影视,http://153.0.171.163:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-海南综合,http://153.0.171.163:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-湖北卫视,http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-江西卫视,http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-旅游卫视,http://153.0.171.163:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-宁夏卫视,http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-陕西卫视,http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
-重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$三亚联通
+
+来自浙江电信的酒店源(115.208.69.29:85)共有37个频道：
+CCTV1-综合,http://115.208.69.29:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV2-财经,http://115.208.69.29:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV3-综艺,http://115.208.69.29:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV4-国际,http://115.208.69.29:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV5-体育,http://115.208.69.29:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV6-电影,http://115.208.69.29:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV7-军农,http://115.208.69.29:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV8-电视剧,http://115.208.69.29:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV9-纪录,http://115.208.69.29:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV10-科教,http://115.208.69.29:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV11-戏曲,http://115.208.69.29:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV12-社会与法,http://115.208.69.29:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV13-新闻,http://115.208.69.29:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV14-少儿,http://115.208.69.29:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV15-音乐,http://115.208.69.29:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+浙江卫视,http://115.208.69.29:85/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+北京卫视,http://115.208.69.29:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+湖南卫视,http://115.208.69.29:85/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+江苏卫视,http://115.208.69.29:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+来自浙江电信的酒店源(115.208.69.29:85)共有37个频道：
+广东卫视,http://115.208.69.29:85/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+深圳卫视,http://115.208.69.29:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+上海卫视,http://115.208.69.29:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+安徽卫视,http://115.208.69.29:85/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+重庆卫视,http://115.208.69.29:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+山东卫视,http://115.208.69.29:85/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+辽宁卫视,http://115.208.69.29:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+旅游卫视,http://115.208.69.29:85/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+云南卫视,http://115.208.69.29:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+东南卫视,http://115.208.69.29:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+四川卫视,http://115.208.69.29:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+湖北卫视,http://115.208.69.29:85/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+江西卫视,http://115.208.69.29:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+河北卫视,http://115.208.69.29:85/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+天津卫视,http://115.208.69.29:85/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+黑龙江卫视,http://115.208.69.29:85/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+河南卫视,http://115.208.69.29:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+CCTV5+体育赛事,http://115.208.69.29:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$浙江省湖州市电信
+
+
+来自海南联通的酒店源(153.0.171.163:9901)共有48个频道：
+CCTV1-综合,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV2-财经,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV4-国际,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV5-体育,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV6-电影,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV7-军农,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+IPTV 8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CCTV 15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+CGTN,http://153.0.171.163:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+旅游卫视,http://153.0.171.163:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+海南综合,http://153.0.171.163:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+海南新闻,http://153.0.171.163:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+来自海南联通的酒店源(153.0.171.163:9901)共有48个频道：
+海南公共,http://153.0.171.163:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+湖南卫视,http://153.0.171.163:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+安徽卫视,http://153.0.171.163:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+北京卫视,http://153.0.171.163:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+天津卫视,http://153.0.171.163:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+辽宁卫视,http://153.0.171.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+山东卫视,http://153.0.171.163:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+上海卫视,http://153.0.171.163:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+广东卫视,http://153.0.171.163:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+广西卫视,http://153.0.171.163:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+湖北卫视,http://153.0.171.163:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+云南卫视,http://153.0.171.163:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+河南卫视,http://153.0.171.163:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+黑龙江卫视,http://153.0.171.163:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+四川卫视,http://153.0.171.163:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+江西卫视,http://153.0.171.163:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+贵州卫视,http://153.0.171.163:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+来自海南联通的酒店源(153.0.171.163:9901)共有48个频道：
+重庆卫视,http://153.0.171.163:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+东南卫视,http://153.0.171.163:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+河北卫视,http://153.0.171.163:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+吉林卫视,http://153.0.171.163:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+陕西卫视,http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+山西卫视,http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+内蒙古卫视,http://153.0.171.163:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+青海卫视,http://153.0.171.163:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+宁夏卫视,http://153.0.171.163:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+海南影视,http://153.0.171.163:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$海南省三亚市联通
+
+
 
 
 来自山西联通的酒店源(221.205.206.45:9003)共有39个频道：
@@ -268,6 +314,55 @@ CCTV17,http://221.205.206.45:9003/hls/18/index.m3u8$山西联通
 来自山西联通的酒店源(221.205.206.45:9003)共有39个频道：$山西联通
 青海卫视,http://221.205.206.45:9003/hls/40/index.m3u8$山西联通
 
+来自湖南联通的酒店源(116.128.242.83:9901)共有44个频道：
+CCTV1高清,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV2高清,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV3-综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV4高清,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV5+高清,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV5高清,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV6高清,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV7高清,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV8高清,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV9高清,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV10高清,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV11高清,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV12高清,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV13高清,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV14高清,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+CCTV15高清,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南导视,http://116.128.242.83:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+安徽卫视高清,http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+北京卫视高清,http://116.128.242.83:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+来自湖南联通的酒店源(116.128.242.83:9901)共有44个频道：
+东方卫视高清,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+东南卫视高清,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+广东卫视高清,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+河北卫视高清,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+黑龙江卫视高清,http://116.128.242.83:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖北卫视高清,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南电视剧高清,http://116.128.242.83:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南都市高清,http://116.128.242.83:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南公共高清,http://116.128.242.83:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南经视高清,http://116.128.242.83:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南卫视高清,http://116.128.242.83:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+湖南娱乐高清,http://116.128.242.83:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+江苏卫视高清,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+江西卫视高清,http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+金鹰纪实高清,http://116.128.242.83:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+金鹰卡通高清,http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+快乐购高清,http://116.128.242.83:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+辽宁卫视高清,http://116.128.242.83:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+山东卫视高清,http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+来自湖南联通的酒店源(116.128.242.83:9901)共有44个频道：
+深圳卫视高清,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+四川卫视高清,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+天津卫视高清,http://116.128.242.83:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+潇湘电影高清,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+浙江卫视高清,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+重庆卫视高清,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0$湖南联通
+
+
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
@@ -278,72 +373,6 @@ CCTV17,http://221.205.206.45:9003/hls/18/index.m3u8$山西联通
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
 
-湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
-江苏卫视,http://gfr.x3322.net:9901/tsfile/live/1086_1.m3u8
-安徽卫视,http://gfr.x3322.net:9901/tsfile/live/1092_1.m3u8
-东方卫视,http://gfr.x3322.net:9901/tsfile/live/1085_1.m3u8
-浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
-湖北卫视,http://gfr.x3322.net:9901/tsfile/live/1088_1.m3u8
-北京卫视,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8
-天津卫视,http://gfr.x3322.net:9901/tsfile/live/1090_1.m3u8
-河北卫视,http://gfr.x3322.net:9901/tsfile/live/1091_1.m3u8
-重庆卫视,http://gfr.x3322.net:9901/tsfile/live/1093_1.m3u8
-黑龙江卫视,http://gfr.x3322.net:9901/tsfile/live/1094_1.m3u8
-深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
-广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
-辽宁卫视,http://gfr.x3322.net:9901/tsfile/live/1097_1.m3u8
-山东卫视,http://gfr.x3322.net:9901/tsfile/live/1098_1.m3u8
-东南卫视,http://gfr.x3322.net:9901/tsfile/live/1099_1.m3u8
-贵州卫视,http://gfr.x3322.net:9901/tsfile/live/1100_1.m3u8
-
-CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8
-CCTV-1,http://120.238.94.10:9901/tsfile/live/1018_1.m3u8
-CCTV-1,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://223.241.247.214:9901/tsfile/live/0002_1.m3u8
-CCTV-2,http://112.123.206.32:808/hls/2/index.m3u8
-CCTV-2,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://223.241.247.214:9901/tsfile/live/0003_1.m3u8
-CCTV-3,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://223.241.247.214:9901/tsfile/live/0004_1.m3u8
-CCTV-4,http://111.227.196.164:9901/tsfile/live/faacts/0004_1.m3u8
-CCTV-4,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8
-CCTV-5,http://223.241.247.214:9901/tsfile/live/0005_1.m3u8
-CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8
-CCTV-5+,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://61.156.228.12:8154/tsfile/live/0006_1.m3u8
-CCTV-6,http://223.241.247.214:9901/tsfile/live/0006_1.m3u8
-CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8
-CCTV-7,http://223.241.247.214:9901/tsfile/live/0007_1.m3u8
-CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
-CCTV-8,http://223.241.247.214:9901/tsfile/live/0008_1.m3u8
-CCTV-9,http://223.241.247.214:9901/tsfile/live/0009_1.m3u8
-CCTV-9,http://120.238.94.10:9901/tsfile/live/1027_1.m3u8
-CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8
-CCTV-10,http://61.156.228.12:8154/tsfile/live/0010_1.m3u8
-CCTV-10,http://223.241.247.214:9901/tsfile/live/0010_1.m3u8
-CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8
-CCTV-11,http://223.241.247.214:9901/tsfile/live/0011_1.m3u8
-CCTV-11,http://120.238.94.10:9901/tsfile/live/1029_1.m3u8
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8
-CCTV-12,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
-CCTV-12,http://223.241.247.214:9901/tsfile/live/0012_1.m3u8
-CCTV-12,http://120.238.94.10:9901/tsfile/live/1030_1.m3u8
-CCTV-12,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://120.238.94.10:9901/tsfile/live/1031_1.m3u8
-CCTV-13,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://61.156.228.12:8154/tsfile/live/0014_1.m3u8
-CCTV-14,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8
-CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8
 
 CCTV1,http://36.135.118.195:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
 CCTV2,http://36.135.118.195:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
@@ -421,25 +450,6 @@ CETV-4,http://36.135.118.195:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&au
 CETV-1,http://36.135.118.195:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
 CETV-2,http://36.135.118.195:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0$吉林移动
 
-CCTV-1,http://php.cqshushu.ggff.net/jzb.php?id=cctv1&公众号【医工学习日志】
-CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
-CCTV-5,http://php.cqshushu.ggff.net/jzb.php?id=cctv5&公众号【医工学习日志】
-CCTV-7,http://php.cqshushu.ggff.net/jzb.php?id=cctv7&公众号【医工学习日志】
-CCTV-9,http://php.cqshushu.ggff.net/jzb.php?id=cctv9&公众号【医工学习日志】
-CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
-CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-12,http://php.cqshushu.ggff.net/jzb.php?id=cctv12&公众号【医工学习日志】
-CCTV-13,http://php.cqshushu.ggff.net/jzb.php?id=cctv13&公众号【医工学习日志】
-CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
-CCTV-15,http://php.cqshushu.ggff.net/jzb.php?id=cctv15&公众号【医工学习日志】
-CCTV-17,http://php.cqshushu.ggff.net/jzb.php?id=cctv17&公众号【医工学习日志】
-东方卫视,http://php.cqshushu.ggff.net/jzb.php?id=dfws&公众号【医工学习日志】
-广东卫视,http://php.cqshushu.ggff.net/jzb.php?id=gdws&公众号【医工学习日志】
-湖北卫视,http://php.cqshushu.ggff.net/jzb.php?id=hbws&公众号【医工学习日志】
-吉林卫视,http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
-江苏卫视,http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】
-江西卫视,http://php.cqshushu.ggff.net/jzb.php?id=jxws&公众号【医工学习日志】
-陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY地方电视,#genre#
@@ -8215,18 +8225,19 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-🔞VIP节选0920_13579,#genre#
+🔞VIP节选0921_13579,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-IPX-944 老公不在家 从早到晚都被义父的舌技弄到高潮... 宫西光,https://b.gg155gg1.com/20250407/HB2nA7LL/index.m3u8
-IPX-945 出差处的破纪录暴雨 和处男部下突然的共处一室... 被雨打溼的身体 兴奋的部下.. 神菜美舞,https://b.gg155gg1.com/20250331/uahNpOBn/index.m3u8
-IPX-946 【要去酒店休息吗？】新人欢迎会上喝得烂醉的我被公司的前臺小姐带走 直到早晨的榨精..藤井一夜,https://b.gg155gg1.com/20250327/G3fQuru4/index.m3u8
-IPX-949 打工处的性感美女受店长指示穿着迷你裙被性骚扰 堕落于插入快感 加美杏奈,https://b.gg155gg1.com/20250401/mg7DhzF4/index.m3u8
-IPX-950 用软软的美乳劝诱你的肉棒 总是保持微笑！总是很活泼！美乳全露出学园祭 樱空桃,https://b.gg155gg1.com/20250418/EX9Kmyiz/index.m3u8
-IPX-951 偶像cos 桃乃木加奈的处男救济 破处special,https://b.gg155gg1.com/20250410/VM81EDHW/index.m3u8
-IPX-953 在意的那个打工女交到男朋友了 中年店长用特权轮奸来祝贺 西宫梦,https://b.gg155gg1.com/20250420/boxpwlgh/index.m3u8
-JUQ-116 妻子和绝伦后辈二人独处的三小时... 不拔出的追击中出共计18发 妻子被夺走的我,https://b.gg155gg1.com/20250411/yfQ0f2Zy/index.m3u8
-JUQ-117 和学生时代的性骚扰教师因爲应召女郎偶然再会... 从那天开始就成爲对他言听计从..流川莉央,https://b.gg155gg1.com/20250404/Uuv9n1dY/index.m3u8
-JUQ-118 【比起女儿 更喜欢我吗？】被女儿男友的脣舌俘虏 浓厚亲吻浓密性交逆NTR 北条麻妃,https://b.gg155gg1.com/20250327/I5TsK39j/index.m3u8
+DASS-071 把弟弟的谎言当真的苗条巨乳姐姐 暴走抗打骑乘位 西田那津,https://b.gg155gg1.com/20250422/Mk7bYPDk/index.m3u8
+DLDSS-122 洗脑催淫 有能女社长的身体和人格被完全催眠侵犯 友田彩也香,https://b.gg155gg1.com/20250501/KS4LwbUk/index.m3u8
+FSDSS-482 回到老家后的第一个夏天…痴女射精管理、当地就要结婚的儿时伙伴被诱惑后大量射精 天使萌,https://b.gg155gg1.com/20250425/j9gkBhl4/index.m3u8
+FSDSS-489 偶然和兼职的后辈接吻后发现比男朋友还要舒浓厚服 亲吻淫行不能让任何人知道 吉高宁宁,https://b.gg155gg1.com/20250428/Y100EdcV/index.m3u8
+IPX-939 代偿肉便器 不会结束的 被绝伦黑道大叔监禁的10日生活 相泽南,https://b.gg155gg1.com/20250414/toWoqGYx/index.m3u8
+JUQ-109 和丈夫造人SEX之后总会再被义父连续中出 鹭见堇,https://b.gg155gg1.com/20250404/4ltwGSSY/index.m3u8
+JUQ-111 町内露营NTR 帐篷裏被数次中出的妻子 日下部加奈,https://b.gg155gg1.com/20250402/MNzjjxQ0/index.m3u8
+JUQ-113 绝对不能告诉丈夫 我被义父弄怀孕了 两天一夜的温泉旅行 被数次中出的我,https://b.gg155gg1.com/20250407/4JyJ9phr/index.m3u8
+JUQ-114 肉感妻的无自觉撩拨 向她发起攻势没想到 突然的豹变！绝伦巨尻中出SEX,https://b.gg155gg1.com/20250412/mEmXF7gx/index.m3u8
+JUQ-115 被丈夫上司侵犯的第七天 我失去了理性 姬川优奈,https://b.gg155gg1.com/20250330/OmeBCKrX/index.m3u8
+
 
 
 
