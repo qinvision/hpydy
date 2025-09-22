@@ -539,106 +539,7 @@ CCTV-17咪咕,http://t.061899.xyz/tl/tl.php?id=cctv17
 西藏卫视咪咕,http://t.061899.xyz/tl/tl.php?id=xzws
 内蒙古视咪咕,http://t.061899.xyz/tl/tl.php?id=nmgws
 黑龙江视咪咕,http://t.061899.xyz/tl/tl.php?id=hljws
-Plus综合,http://t.061899.xyz/tl/js/js.php?id=tvbplus
-中天新闻加道,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
-凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
-有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
-无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
-无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
-有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
-有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
-有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
-Now直播频临,http://t.061899.xyz/tl/js/js.php?id=nowzbt
-Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
-VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
-VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
-RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
-RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
-Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
-无线新闻频临,http://t.061899.xyz/tl/168.php?id=wxxwt
-无线翡翠频临,http://t.061899.xyz/tl/168.php?id=fct
-无线明珠频临,http://t.061899.xyz/tl/168.php?id=zzt
-无线千禧频临,http://t.061899.xyz/tl/168.php?id=tvbqxjd
-天映频临,http://t.061899.xyz/tl/168.php?id=typd
-天映经典频临,http://t.061899.xyz/tl/168.php?id=tyjd
-中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxw
-寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
-tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
-三立新闻频临,http://t.061899.xyz/tl/js/js.php?id=slxwt
-非凡新闻频临,http://t.061899.xyz/tl/js/js.php?id=ffxw
-闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
-闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
-民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
-民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
-中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxwt
-中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxw
-华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxwt
-华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxw
-台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxwt
-台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxw
-公视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdgs
-民视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdms
-Plus综合,http://t.061899.xyz/tl/js/js.php?id=tvbplus
-中天新闻加道,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
-凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
-有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
-无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
-无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
-有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
-有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
-有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
-Now直播频临,http://t.061899.xyz/tl/js/js.php?id=nowzbt
-Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
-VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
-VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
-RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
-RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
-Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
-无线新闻频临,http://t.061899.xyz/tl/168.php?id=wxxwt
-无线翡翠频临,http://t.061899.xyz/tl/168.php?id=fct
-无线明珠频临,http://t.061899.xyz/tl/168.php?id=zzt
-无线千禧频临,http://t.061899.xyz/tl/168.php?id=tvbqxjd
-天映频临,http://t.061899.xyz/tl/168.php?id=typd
-天映经典频临,http://t.061899.xyz/tl/168.php?id=tyjd
-中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
-中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxw
-寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
-寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
-东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
-东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
-tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
-tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
-三立新闻频临,http://t.061899.xyz/tl/js/js.php?id=slxwt
-非凡新闻频临,http://t.061899.xyz/tl/js/js.php?id=ffxw
-闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
-闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
-民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
-民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
-中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxwt
-中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxw
-华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxwt
-华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxw
-台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxwt
-台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxw
-公视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdgs
-民视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdms
+
 
 CCTV-01咪咕,http://j.s.bkpcp.top/jj/cctv1
 CCTV-02咪咕,http://j.s.bkpcp.top/jj/cctv2
@@ -729,14 +630,15 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&amp;wsTime=1654956569
 郸城新闻综合,https://stream1.freetv.fun/dan-cheng-xin-wen-zong-he-2.m3u8
+当阳电视台,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-68ad690365557a3ecc64c751a1b02f4a
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 德惠综合,http://stream11.jlntv.cn/dehuitv/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 登封新闻综合频道,https://stream1.freetv.fun/deng-feng-xin-wen-zong-he-1.m3u8
 登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-邓州综合,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 邓州综合,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 邓州综合,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
+邓州综合,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8
@@ -767,6 +669,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 福建|福建综合,http://p2.vzan.com/slowlive/485365200293316089/live.m3u8
 福建综合,https://r2.vzan.com/v/slowlive_485365200293316089.flv
+福州电视台少儿频道 (FZTV-少儿) (1080p),http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+福州广播电视台都市生活频道 (FZTV-3) (1080p),http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州广播电视台新闻综合频道 (FZTV-1) (1080p),http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 甘南县综合,https://stream.hrbtv.net/zxpd/sd/live.m3u8
 甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
@@ -791,12 +695,14 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 广安新闻综合,rtmp://live1.gatv.com.cn/live/XWZH_HD
 广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
+广东番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 广东经济科教频道直播,https://pili-live-hls.kingsmedia.cn/metoo-live/ce834303bb1a4459a3ea8c4c01d3ae84.m3u8
 广西国际,http://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8?fbl=
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
 广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
 广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
 广州4K南国都市频道,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+广州电视台新闻,https://stream1.freetv.fun/yan-zhou-dian-shi-tai-xin-wen-1.m3u8
 广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=c180b67d43e34b97c970524c05ef3b4e&txTime=18ee6e4efc1
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
@@ -847,6 +753,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
+河南新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+河南新乡县电视台,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8?zhend
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 呼和浩特新闻综合,http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
@@ -870,6 +778,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 淮滨综合,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 淮滨综合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
 淮阴综合,https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+环球电视台[1920x1080],http://utv1.hqtvzb.com:9999/hls/world.m3u8
 黄山新闻综合,https://stream1.freetv.fun/huang-shan-xin-wen-zong-he-2.m3u8
 潢川综合,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
 潢川综合,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
@@ -897,6 +806,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 简阳新闻综合,https://stream1.freetv.fun/jian-yang-xin-wen-zong-he-2.ctv
+建安电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+建安电视台[group_title],https://stream1.freetv.fun/423164bb735acd52c221a27594ce570db5aa0e54ca78c99667bd8fa39cc755de.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 江津新闻综合 (480p),http://222.179.155.21:1935/ch1.m3u8
 江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8
@@ -912,6 +823,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
 金湖综合频道,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 金坛综合频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
@@ -954,6 +866,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 溧水新闻综合,https://migu.188766.xyz/?migutoken=9940c1907ea49e88b921dc5ddc0cb07d&id=%E6%BA%A7%E6%B0%B4%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 连云港新闻综合,https://migu.188766.xyz/?migutoken=718c4099f3e8a2dce18722e3b4821c26&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
 涟水电视台综合,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
+涟水电视台综合,rtmp://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw
 涟水综合频道,http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 凉山新闻综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
@@ -995,6 +908,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 栾川综合,http://tvpull.dxhmt.cn:9081/tv/10324-1.m3u8
 滦平新闻,http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
 罗江综合频道,http://pull.luojiangrongmei.com/ljds/ljtv.m3u8
+罗山电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+罗山电视台[group_title],https://stream1.freetv.fun/55db912e9fd0aa009c97d965f780300bc3ca5d6fe36936cd6cafe453a4c3c639.m3u8
 罗山综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 罗山综合,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
 洛阳科教,https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
@@ -1004,6 +919,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 麻栗坡电视台,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
 孟津综合,http://live.dxhmt.cn:9081/tv/10322-2.m3u8
 孟津综合,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+孟州电视台 (1080p) [Not 24/7],http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+孟州电视台[group_title],https://stream1.freetv.fun/705794abb16d351d8529eb67b5109b84bc8b59ecf4f4cf13957334fd395b0a17.m3u8
 孟州综合,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 孟州综合,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
 泌阳新闻综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
@@ -1040,6 +957,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
 内乡综合,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 宁波新闻综合,https://stream1.freetv.fun/zhu-bo-xin-wen-zong-he-1.m3u8
+宁夏大通电视台,http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
 宁夏经济,https://ls.qingting.fm/live/1841/64k.m3u8
 农安新闻综合 ,https://stream2.jlntv.cn/naxw/sd/live.m3u8
 怒江综合,http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8
@@ -1058,6 +976,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 平舆新闻综合频道,https://stream1.freetv.fun/ping-yu-xin-wen-zong-he-1.m3u8
 平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 平舆综合,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀电视台,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed
 普陀电视台,https://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
@@ -1065,6 +984,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 七台河新闻综合[group_title],https://stream1.freetv.fun/b963e7919a5027e98634b53e223f2a30fc0990a79d558e10fea29d6de03d4124.m3u8
+七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 祁县新闻综合,http://ggpagerl.live.sxmty.com/live/hls/b350dc1ac5da45c2b2233f6eb122ddf4/49d3766c7f204685a2a8f027b234c33d.m3u8?zshanxd
 淇县电视台,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
@@ -1078,6 +998,8 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 沁阳新闻综合频道,https://stream1.freetv.fun/qin-yang-xin-wen-zong-he-1.m3u8
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+青州电视台生活,http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
+青州电视台文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
 青州电视台新闻综合,http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 清河经济综艺,https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8
 清河新闻频道,https://jwcdnqx.hebyun.com.cn/live/qinghe/1500k/tzwj_video.m3u8
@@ -1116,6 +1038,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 上虞新闻综合,https://stream1.freetv.fun/shang-yu-xin-wen-zong-he-2.m3u8
 上虞新闻综合,https://stream1.freetv.fun/shang-yu-xin-wen-zong-he-5.m3u8
 绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
+绍兴电视台公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
 绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
@@ -1130,6 +1053,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 什邡综合频道,http://live.sfrmt.com:85/live/zhpd.m3u8
 沈丘综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
 沈丘综合,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+生命电视台,https://stream1.freetv.fun/sheng-ming-dian-shi-4.m3u8
 嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
@@ -1250,6 +1174,7 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 无锡娱乐,https://stream.thmz.com/wxtv2/playlist.m3u8
 无锡综合,http://stream.thmz.com/wxtv1/playlist.m3u8?_upt=df50c8ad1706195780
 吴江新闻综合,https://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8?auth_key=4849225473-0-0-ccc3233d52ea78642c7045805f46ea58&extra_key=kuPfWJHmelFzV3-zoreYDOH4OVvUscNtgFUPukN0LjrE7j9GbJe-1SiVIo_invs13HOTHPShIbZWuurqH8qWSk1Ouqm4Z10UlHpsUzS1j4nZoIRkEzTmKDOrVq3vGwbvmvC6qDLIKmmLHfFxL7WJeMpZZlN8MDPUoCW9CYoMIW0
+五峰电视台,http://wufeng-live21.cjyun.org/10112/s10112-wffm.m3u8?auth_key=1767196799-ced13be0a8ae11efa7dfa7dfd677b8f3-0-06846ff2e035fdacd3bed68838375e5f
 五家渠综合,https://liveout.btzx.com.cn/62ds9e/d9vi5g.m3u8
 武汉一台新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 武进生活,http://live.wjyanghu.com/live/CH2.m3u8
@@ -1389,6 +1314,9 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 义马综合,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
 义马综合,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
 易门综合,https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
+营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
+营山电视台,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
 永昌综合,https://play.kankanlive.com/live/1652755738635915.m3u8
 永城综合,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
 永城综合,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
@@ -1580,6 +1508,107 @@ CCTV-15,http://k.061899.xyz/m.php?id=cctv15
 🔺	中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 🔺	法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 🔺	韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+
+Plus综合,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+中天新闻加道,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
+凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
+有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+Now直播频临,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
+VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
+RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
+RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
+Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
+无线新闻频临,http://t.061899.xyz/tl/168.php?id=wxxwt
+无线翡翠频临,http://t.061899.xyz/tl/168.php?id=fct
+无线明珠频临,http://t.061899.xyz/tl/168.php?id=zzt
+无线千禧频临,http://t.061899.xyz/tl/168.php?id=tvbqxjd
+天映频临,http://t.061899.xyz/tl/168.php?id=typd
+天映经典频临,http://t.061899.xyz/tl/168.php?id=tyjd
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxw
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+三立新闻频临,http://t.061899.xyz/tl/js/js.php?id=slxwt
+非凡新闻频临,http://t.061899.xyz/tl/js/js.php?id=ffxw
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxw
+华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxw
+台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxw
+公视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdgs
+民视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdms
+Plus综合,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+中天新闻加道,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
+凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=xgyxxwt
+有线新闻频临,http://t.061899.xyz/tl/js/js.php?id=hoyzxt
+无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+Now新闻频临,http://t.061899.xyz/tl/js/js.php?id=nowxwt
+无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+有线综合频临,http://t.061899.xyz/tl/js/js.php?id=hoytv
+有线赛讯频临,http://t.061899.xyz/tl/js/js.php?id=hoygjcjt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxt
+有线赛马频临,http://t.061899.xyz/tl/js/js.php?id=18xgyxtb
+Now直播频临,http://t.061899.xyz/tl/js/js.php?id=nowzbt
+Now财经频临,http://t.061899.xyz/tl/js/js.php?id=nowcjt
+VIUTV粤频临,http://t.061899.xyz/tl/js/js.php?id=viutv
+VIUTV英频临,http://t.061899.xyz/tl/js/js.php?id=6viutv
+RTHK-31频临,http://t.061899.xyz/tl/js/js.php?id=31gtds
+RTHK-32频临,http://t.061899.xyz/tl/js/js.php?id=32gtds
+Plus综合频临,http://t.061899.xyz/tl/168.php?id=2j
+无线新闻频临,http://t.061899.xyz/tl/168.php?id=wxxwt
+无线翡翠频临,http://t.061899.xyz/tl/168.php?id=fct
+无线明珠频临,http://t.061899.xyz/tl/168.php?id=zzt
+无线千禧频临,http://t.061899.xyz/tl/168.php?id=tvbqxjd
+天映频临,http://t.061899.xyz/tl/168.php?id=typd
+天映经典频临,http://t.061899.xyz/tl/168.php?id=tyjd
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxwt
+中天新闻频临,http://t.061899.xyz/tl/js/js.php?id=ztxw
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt
+寰宇新闻频临,http://t.061899.xyz/tl/js/js.php?id=hyxwt1
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxwt
+东森新闻频临,http://t.061899.xyz/tl/js/js.php?id=dsxw
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
+tvbs新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt1
+三立新闻频临,http://t.061899.xyz/tl/js/js.php?id=slxwt
+非凡新闻频临,http://t.061899.xyz/tl/js/js.php?id=ffxw
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jdsxwt
+闽镜新闻频临,http://t.061899.xyz/tl/js/js.php?id=jxw
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt
+民视新闻频临,http://t.061899.xyz/tl/js/js.php?id=msxwt1
+中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxwt
+中视新闻频临,http://t.061899.xyz/tl/js/js.php?id=zsxw
+华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxwt
+华视新闻频临,http://t.061899.xyz/tl/js/js.php?id=hsxw
+台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxwt
+台视新闻频临,http://t.061899.xyz/tl/js/js.php?id=tsxw
+公视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdgs
+民视闽南频临,http://t.061899.xyz/tl/js/js.php?id=hdms
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🎬⒈动作片库,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
@@ -8599,6 +8628,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
