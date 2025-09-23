@@ -98,40 +98,7 @@ TYSF-026 【喂 这裏可以插进去吗？】超正经朴素的眼镜义姐 其
 
 
 
-来自湖南电信的酒店源(118.248.218.193:8088)共有32个频道：
-CCTV1-综合,http://118.248.218.193:8088/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV2-财经,http://118.248.218.193:8088/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV3-综艺,http://118.248.218.193:8088/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV4-国际,http://118.248.218.193:8088/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV5-体育,http://118.248.218.193:8088/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV6-电影,http://118.248.218.193:8088/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV7-军农,http://118.248.218.193:8088/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV8-电视剧,http://118.248.218.193:8088/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV9-纪录,http://118.248.218.193:8088/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV10-科教,http://118.248.218.193:8088/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV11-戏曲,http://118.248.218.193:8088/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV12-社会与法,http://118.248.218.193:8088/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV13-新闻,http://118.248.218.193:8088/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV14-少儿,http://118.248.218.193:8088/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-CCTV15-音乐,http://118.248.218.193:8088/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-湖南卫视高清,http://118.248.218.193:8088/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-湖南都市高清,http://118.248.218.193:8088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-湖南娱乐高清,http://118.248.218.193:8088/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-湖南金鹰卡通高清,http://118.248.218.193:8088/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-来自湖南电信的酒店源(118.248.218.193:8088)共有32个频道：
-江苏卫视高清,http://118.248.218.193:8088/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-浙江卫视,http://118.248.218.193:8088/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-安徽卫视高清,http://118.248.218.193:8088/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-北京卫视高清,http://118.248.218.193:8088/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-东方卫视高清,http://118.248.218.193:8088/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-江西卫视高清,http://118.248.218.193:8088/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-深圳卫视高清,http://118.248.218.193:8088/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-辽宁卫视高清,http://118.248.218.193:8088/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-东南卫视高清,http://118.248.218.193:8088/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-广东卫视高清,http://118.248.218.193:8088/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-山东卫视高清,http://118.248.218.193:8088/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-贵州卫视高清,http://118.248.218.193:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
-IPTV体育高清,http://118.248.218.193:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
+
 
 来自湖北电信的酒店源(171.43.65.218:85)共有35个频道：
 CCTV1综合,http://171.43.65.218:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖北十堰电信
@@ -8738,6 +8705,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
