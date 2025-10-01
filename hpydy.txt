@@ -152,98 +152,6 @@ CETV4·高清,http://110.72.59.61:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive
 丹墨向阳HD国语剧情片大陆,https://cdn.yzzy28-play.com/20251001/17711_329b3893/index.m3u8
 间谍战与女色无关1989HD国语剧情片大陆,https://cdn.yzzy28-play.com/20251001/17701_5cd096b5/index.m3u8
 太太万岁1947HD国语喜剧片大陆,https://cdn.yzzy28-play.com/20251001/17700_7349029d/index.m3u8
-奈克斯特·奥特曼2004HD中字动作片日本,https://cdn.yzzy28-play.com/20250930/17692_df1b3e0f/index.m3u8
-不可分割2024HD中字剧情片法国,https://cdn.yzzy28-play.com/20250930/17686_c112115f/index.m3u8
-跟尸2024HD中字恐怖片,https://cdn.yzzy28-play.com/20250930/17685_f691ead6/index.m3u8
-陌生人：第二章TC中字恐怖片西班牙,https://cdn.yzzy31-play.com/20250930/720_5f2c22cb/index.m3u8
-打鬼救夫1985DVD国语恐怖片台湾,https://cdn.yzzy29-play.com/20250930/3705_2cfa3753/index.m3u8
-遥遥乡愁1993HD中字剧情片日本,https://cdn.yzzy29-play.com/20250930/3704_9308b0d6/index.m3u8
-匹田先生恭喜你太太怀孕了2019HD中字喜剧片日本,https://cdn.yzzy29-play.com/20250930/3703_7d2a383e/index.m3u8
-器子2025HD国语动作片台湾,https://cdn.yzzy31-play.com/20250929/660_68264bdb/index.m3u8
-长安的荔枝电影版2025HD国语喜剧片大陆,https://cdn.yzzy31-play.com/20250929/650_884d247c/index.m3u8
-吸血鬼猎人D1985HD中字动画片日本,https://cdn.yzzy29-play.com/20250929/3697_0b105cf1/index.m3u8
-如果悲伤可以解释2020HD国语爱情片大陆,https://cdn.yzzy28-play.com/20250929/17421_4afc974d/index.m3u8
-地窖里的人2025HD中字剧情片英国,https://cdn.yzzy29-play.com/20250929/3551_abdeb6f5/index.m3u8
-蛇国女王1974DVD国语恐怖片台湾,https://cdn.yzzy29-play.com/20250928/3531_e52ad5c9/index.m3u8
-冬日之死TC中字动作片美国,https://cdn.yzzy29-play.com/20250928/3527_b8747078/index.m3u8
-一战再战TC中字剧情片美国,https://cdn.yzzy29-play.com/20250928/3526_0e4f5cc9/index.m3u8
-绮梦之旅TC中字爱情片美国,https://cdn.yzzy29-play.com/20250928/3525_da9e6a4a/index.m3u8
-孔雀：我是真的吗2024HD中字喜剧片德国,https://cdn.yzzy29-play.com/20250928/3519_1fd7b875/index.m3u8
-路得遇见波阿斯2025HD中字爱情片美国,https://cdn.yzzy29-play.com/20250928/3518_5401acfe/index.m3u8
-原始战争2025HD中字科幻片,https://cdn.yzzy31-play.com/20250928/451_941e1aaa/index.m3u8
-法式恋人2025HD中字喜剧片法国,https://cdn.yzzy31-play.com/20250928/450_f5f8590c/index.m3u8
-放学后病历簿2025秋HD中字剧情片日本,https://cdn.yzzy31-play.com/20250928/449_d61e4bbd/index.m3u8
-机动战士高达：跨时之战2025HD中字动画片日本,https://cdn.yzzy29-play.com/20250928/3505_2a3d6d6c/index.m3u8
-寻棺2025HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250928/3504_73231e53/index.m3u8
-隐武者：大破青龙会2025HD国语动作片大陆,https://cdn.yzzy29-play.com/20250928/3503_87f7ee4f/index.m3u8
-战火狙杀2025HD国语战争片大陆,https://cdn.yzzy29-play.com/20250928/3501_d494020f/index.m3u8
-列宁在十月1937HD中字版剧情片,https://cdn.yzzy31-play.com/20250928/368_cf004fdc/index.m3u8
-杀手螳螂2025HD中字动作片韩国,https://cdn.yzzy31-play.com/20250928/367_05049e90/index.m3u8
-瓜棚女杰1985HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250927/3400_e945de21/index.m3u8
-鬼新娘1987HD国语喜剧片香港,https://cdn.yzzy29-play.com/20250926/3397_5c80985b/index.m3u8
-鬼新娘1987HD粤语喜剧片香港,https://cdn.yzzy29-play.com/20250926/3398_384babc3/index.m3u8
-想见玛丽琳1988HD中字爱情片日本,https://cdn.yzzy29-play.com/20250926/3394_e8a642ed/index.m3u8
-孟姜女(上)1986DVD国语剧情片大陆,https://cdn.yzzy28-play.com/20250926/16711_2da909b3/index.m3u8
-孟姜女(下)1986DVD国语剧情片大陆,https://cdn.yzzy28-play.com/20250926/16712_8344cdd7/index.m3u8
-阿龙2025HD粤语动作片香港,https://cdn.yzzy29-play.com/20250923/2940_8e930496/index.m3u8
-阿龙2025HD国语动作片香港,https://cdn.yzzy29-play.com/20250923/2941_4b21cf96/index.m3u8
-制造狼人2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2938_42853a61/index.m3u8
-折翼鸟2024HD中字恐怖片英国,https://cdn.yzzy29-play.com/20250923/2937_8fc687aa/index.m3u8
-谵妄2023HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2936_ec7f3466/index.m3u8
-冤途路改2024HD中字剧情片美国,https://cdn.yzzy29-play.com/20250923/2935_b6617980/index.m3u8
-亚美利加纳2023HD中字喜剧片美国,https://cdn.yzzy29-play.com/20250923/2934_5dc126b5/index.m3u8
-邪恶之日2024HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2933_25766f01/index.m3u8
-未定嫁期2025HD中字剧情片,https://cdn.yzzy29-play.com/20250923/2932_c429429b/index.m3u8
-铁拳怒潮2025HD中字战争片,https://cdn.yzzy29-play.com/20250923/2931_86c4ad52/index.m3u8
-死亡十年2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2930_6624b6d8/index.m3u8
-食人魔餐厅2025HD中字喜剧片印度,https://cdn.yzzy29-play.com/20250923/2929_a36b0dcd/index.m3u8
-时空创世纪2024HD中字科幻片泰国,https://cdn.yzzy29-play.com/20250923/2928_9087b0ef/index.m3u8
-神奇4侠：初露锋芒2025HD中字科幻片美国,https://cdn.yzzy29-play.com/20250923/2927_2b64c2f1/index.m3u8
-杀死怪兽的方法2023HD中字喜剧片英国,https://cdn.yzzy29-play.com/20250923/2926_56c82ccd/index.m3u8
-碧水双魂1986DVD国语爱情片大陆,https://cdn.yzzy29-play.com/20250925/3305_b848edae/index.m3u8
-夜·上海2007DVD国语爱情片大陆,https://cdn.yzzy29-play.com/20250925/3292_cfcce062/index.m3u8
-强迫2025HD中字恐怖片英国,https://cdn.yzzy29-play.com/20250923/2925_ac34ae1f/index.m3u8
-末世守卫者2025HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2924_3953630d/index.m3u8
-中华英雄1988HD国语动作片香港,https://cdn.yzzy28-play.com/20250924/16414_e6c46d6c/index.m3u8
-中华英雄1988HD粤语动作片香港,https://cdn.yzzy28-play.com/20250924/16415_737014b6/index.m3u8
-西北前线HD中字剧情片英国,https://cdn.yzzy27-play.com/20250924/20631_485a14fd/index.m3u8
-速成沼泽2009HD中字喜剧片日本,https://cdn.yzzy27-play.com/20250924/20562_9a9507cc/index.m3u8
-笔中情1982DVD国语爱情片大陆,https://cdn.yzzy27-play.com/20250923/20536_bc8dc32a/index.m3u8
-金粉游龙1983DVD国语动作片台湾,https://cdn.yzzy27-play.com/20250923/20529_31910e78/index.m3u8
-群星会1992HD粤语喜剧片香港,https://cdn.yzzy29-play.com/20250923/2939_6c990b7a/index.m3u8
-美国血汗工厂2025HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2923_a4666cd9/index.m3u8
-罗丝的最后一次诊疗2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2922_6d19c113/index.m3u8
-烈焰杀机2025HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2921_17d8da81/index.m3u8
-恐怖鬼屋2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2920_465636eb/index.m3u8
-绝命岔路2025HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2919_6271faad/index.m3u8
-环形轨道2023HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2918_f6c9dc70/index.m3u8
-疯狂的一只碗2025HD国语喜剧片大陆,https://cdn.yzzy29-play.com/20250923/2916_340a3904/index.m3u8
-购买时间2024HD中字动作片英国,https://cdn.yzzy29-play.com/20250923/2917_dfb84a11/index.m3u8
-封门村惊魂2025HD国语恐怖片大陆,https://cdn.yzzy29-play.com/20250923/2915_e9245170/index.m3u8
-光之美少女！心动的游戏世界大冒险2024HD中字动画片日本,https://cdn.yzzy29-play.com/20250923/2914_17eb7ecc/index.m3u8
-解放石家庄1981HD国语战争片大陆,https://cdn.yzzy29-play.com/20250923/2860_894db62f/index.m3u8
-来聊聊须绪美吧2024HD中字喜剧片日本,https://cdn.yzzy28-play.com/20250922/16252_8bba7507/index.m3u8
-辣妈辣妹2/2025HD中字喜剧片美国,https://cdn.yzzy29-play.com/20250922/2836_6e0e2429/index.m3u8
-满月狂热2023HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2837_353de269/index.m3u8
-黑暗中的回声2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2835_6775a063/index.m3u8
-给我一个拥抱 - Hatchetman 2/2024HD中字剧情片美国,https://cdn.yzzy29-play.com/20250922/2834_9752d873/index.m3u8
-德古拉：伯爵的亲属2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2833_ade55409/index.m3u8
-强风吹拂2009HD中字剧情片日本,https://cdn.yzzy29-play.com/20250922/2798_952c3ff9/index.m3u8
-你给我的夏天2007DVD中字剧情片日本,https://cdn.yzzy28-play.com/20250922/16232_dfdae6bd/index.m3u8
-唐门斗罗传2025HD国语爱情片大陆,https://cdn.yzzy27-play.com/20250922/20234_46a731f4/index.m3u8
-同日再爱你2025HD中字喜剧片泰国,https://cdn.yzzy29-play.com/20250919/2626_e354fd90/index.m3u8
-再见*朱莉娅2023HD中字剧情片,https://cdn.yzzy29-play.com/20250919/2626_e354fd90/index.m3u8
-陨落之星2023HD中字喜剧片,https://cdn.yzzy29-play.com/20250919/2625_6412fef8/index.m3u8
-血脉2025HD中字剧情片印度,https://cdn.yzzy29-play.com/20250919/2624_f1748d6b/index.m3u8
-脱缰者也2025HD国语喜剧片大陆,https://cdn.yzzy29-play.com/20250919/2623_8e68c3c7/index.m3u8
-试吃者2025HD中字剧情片,https://cdn.yzzy29-play.com/20250919/2621_cc709032/index.m3u8
-生不如死2022HD中字动作片,https://cdn.yzzy29-play.com/20250919/2620_8bd39eae/index.m3u8
-点爱成金2025HD中字剧情片美国,https://cdn.yzzy29-play.com/20250921/2710_de594ef5/index.m3u8
-制恶2025HD国语动作片大陆,https://cdn.yzzy29-play.com/20250921/2712_bbeb0c1b/index.m3u8
-黄河在这儿转了个弯1986HD国语爱情片大陆,https://cdn.yzzy29-play.com/20250921/2708_03fa2f75/index.m3u8
-琵琶魂1982HD国语剧情片大陆,https://cdn.yzzy27-play.com/20250921/20117_56c50767/index.m3u8
-归宿1981HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250921/2674_a8345c3b/index.m3u8
-
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY央视卫视,#genre#
@@ -1946,6 +1854,22 @@ CETV01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 
 
 
+奈克斯特·奥特曼2004HD中字动作片日本,https://cdn.yzzy28-play.com/20250930/17692_df1b3e0f/index.m3u8
+器子2025HD国语动作片台湾,https://cdn.yzzy31-play.com/20250929/660_68264bdb/index.m3u8
+冬日之死TC中字动作片美国,https://cdn.yzzy29-play.com/20250928/3527_b8747078/index.m3u8
+隐武者：大破青龙会2025HD国语动作片大陆,https://cdn.yzzy29-play.com/20250928/3503_87f7ee4f/index.m3u8
+杀手螳螂2025HD中字动作片韩国,https://cdn.yzzy31-play.com/20250928/367_05049e90/index.m3u8
+阿龙2025HD粤语动作片香港,https://cdn.yzzy29-play.com/20250923/2940_8e930496/index.m3u8
+阿龙2025HD国语动作片香港,https://cdn.yzzy29-play.com/20250923/2941_4b21cf96/index.m3u8
+邪恶之日2024HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2933_25766f01/index.m3u8
+末世守卫者2025HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2924_3953630d/index.m3u8
+中华英雄1988HD国语动作片香港,https://cdn.yzzy28-play.com/20250924/16414_e6c46d6c/index.m3u8
+中华英雄1988HD粤语动作片香港,https://cdn.yzzy28-play.com/20250924/16415_737014b6/index.m3u8
+金粉游龙1983DVD国语动作片台湾,https://cdn.yzzy27-play.com/20250923/20529_31910e78/index.m3u8
+烈焰杀机2025HD中字动作片美国,https://cdn.yzzy29-play.com/20250923/2921_17d8da81/index.m3u8
+购买时间2024HD中字动作片英国,https://cdn.yzzy29-play.com/20250923/2917_dfb84a11/index.m3u8
+生不如死2022HD中字动作片,https://cdn.yzzy29-play.com/20250919/2620_8bd39eae/index.m3u8
+制恶2025HD国语动作片大陆,https://cdn.yzzy29-play.com/20250921/2712_bbeb0c1b/index.m3u8
 
 孤勇者2025HD国语动作片大陆,https://cdn.yzzy29-play.com/20250919/2618_17f98ddf/index.m3u8
 阿克萨达姆神庙：金刚沙提行动2025HD中字动作片印度,https://cdn.yzzy29-play.com/20250919/2615_c4f796af/index.m3u8
@@ -3424,6 +3348,23 @@ G4特工HD国语版动作片香港,https://yzzy.play-cdn17.com/20230812/15621_09
 
 
 
+匹田先生恭喜你太太怀孕了2019HD中字喜剧片日本,https://cdn.yzzy29-play.com/20250930/3703_7d2a383e/index.m3u8
+长安的荔枝电影版2025HD国语喜剧片大陆,https://cdn.yzzy31-play.com/20250929/650_884d247c/index.m3u8
+孔雀：我是真的吗2024HD中字喜剧片德国,https://cdn.yzzy29-play.com/20250928/3519_1fd7b875/index.m3u8
+法式恋人2025HD中字喜剧片法国,https://cdn.yzzy31-play.com/20250928/450_f5f8590c/index.m3u8
+鬼新娘1987HD国语喜剧片香港,https://cdn.yzzy29-play.com/20250926/3397_5c80985b/index.m3u8
+鬼新娘1987HD粤语喜剧片香港,https://cdn.yzzy29-play.com/20250926/3398_384babc3/index.m3u8
+亚美利加纳2023HD中字喜剧片美国,https://cdn.yzzy29-play.com/20250923/2934_5dc126b5/index.m3u8
+食人魔餐厅2025HD中字喜剧片印度,https://cdn.yzzy29-play.com/20250923/2929_a36b0dcd/index.m3u8
+杀死怪兽的方法2023HD中字喜剧片英国,https://cdn.yzzy29-play.com/20250923/2926_56c82ccd/index.m3u8
+速成沼泽2009HD中字喜剧片日本,https://cdn.yzzy27-play.com/20250924/20562_9a9507cc/index.m3u8
+群星会1992HD粤语喜剧片香港,https://cdn.yzzy29-play.com/20250923/2939_6c990b7a/index.m3u8
+疯狂的一只碗2025HD国语喜剧片大陆,https://cdn.yzzy29-play.com/20250923/2916_340a3904/index.m3u8
+来聊聊须绪美吧2024HD中字喜剧片日本,https://cdn.yzzy28-play.com/20250922/16252_8bba7507/index.m3u8
+辣妈辣妹2/2025HD中字喜剧片美国,https://cdn.yzzy29-play.com/20250922/2836_6e0e2429/index.m3u8
+同日再爱你2025HD中字喜剧片泰国,https://cdn.yzzy29-play.com/20250919/2626_e354fd90/index.m3u8
+陨落之星2023HD中字喜剧片,https://cdn.yzzy29-play.com/20250919/2625_6412fef8/index.m3u8
+脱缰者也2025HD国语喜剧片大陆,https://cdn.yzzy29-play.com/20250919/2623_8e68c3c7/index.m3u8
 
 花月佳期1995HD国语喜剧片香港,https://cdn.yzzy29-play.com/20250919/2440_feecee9f/index.m3u8
 摇滚万万岁2/2025TS中字喜剧片美国,https://cdn.yzzy29-play.com/20250917/2318_426f990b/index.m3u8
@@ -4087,6 +4028,15 @@ X计划HD中字喜剧片美国,https://yzzy21.playback-speed.com/20250201/41348_
 
 
 
+如果悲伤可以解释2020HD国语爱情片大陆,https://cdn.yzzy28-play.com/20250929/17421_4afc974d/index.m3u8
+绮梦之旅TC中字爱情片美国,https://cdn.yzzy29-play.com/20250928/3525_da9e6a4a/index.m3u8
+路得遇见波阿斯2025HD中字爱情片美国,https://cdn.yzzy29-play.com/20250928/3518_5401acfe/index.m3u8
+想见玛丽琳1988HD中字爱情片日本,https://cdn.yzzy29-play.com/20250926/3394_e8a642ed/index.m3u8
+碧水双魂1986DVD国语爱情片大陆,https://cdn.yzzy29-play.com/20250925/3305_b848edae/index.m3u8
+夜·上海2007DVD国语爱情片大陆,https://cdn.yzzy29-play.com/20250925/3292_cfcce062/index.m3u8
+笔中情1982DVD国语爱情片大陆,https://cdn.yzzy27-play.com/20250923/20536_bc8dc32a/index.m3u8
+唐门斗罗传2025HD国语爱情片大陆,https://cdn.yzzy27-play.com/20250922/20234_46a731f4/index.m3u8
+黄河在这儿转了个弯1986HD国语爱情片大陆,https://cdn.yzzy29-play.com/20250921/2708_03fa2f75/index.m3u8
 
 在海边2025HD国语爱情片大陆,https://cdn.yzzy29-play.com/20250918/2398_565030e1/index.m3u8
 穿越时空的少女真人版2010HD中字爱情片日本,https://cdn.yzzy29-play.com/20250918/2399_bc7f6214/index.m3u8
@@ -4654,6 +4604,9 @@ Jose与虎与鱼们2020HD中字爱情片韩国,https://yzzy21.playback-speed.com
 
 
 
+原始战争2025HD中字科幻片,https://cdn.yzzy31-play.com/20250928/451_941e1aaa/index.m3u8
+时空创世纪2024HD中字科幻片泰国,https://cdn.yzzy29-play.com/20250923/2928_9087b0ef/index.m3u8
+神奇4侠：初露锋芒2025HD中字科幻片美国,https://cdn.yzzy29-play.com/20250923/2927_2b64c2f1/index.m3u8
 
 余烬夺宝2025TS中字科幻片美国,https://cdn.yzzy29-play.com/20250914/1729_25e2a30f/index.m3u8
 再见朱庇特1984HD中字科幻片日本,https://cdn.yzzy28-play.com/20250914/15307_5798df74/index.m3u8
@@ -6076,6 +6029,24 @@ AI女友HD国语版科幻片大陆,,https://yzzy.play-cdn2.com/20220325/1395_460
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
+跟尸2024HD中字恐怖片,https://cdn.yzzy28-play.com/20250930/17685_f691ead6/index.m3u8
+陌生人：第二章TC中字恐怖片西班牙,https://cdn.yzzy31-play.com/20250930/720_5f2c22cb/index.m3u8
+打鬼救夫1985DVD国语恐怖片台湾,https://cdn.yzzy29-play.com/20250930/3705_2cfa3753/index.m3u8
+蛇国女王1974DVD国语恐怖片台湾,https://cdn.yzzy29-play.com/20250928/3531_e52ad5c9/index.m3u8
+制造狼人2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2938_42853a61/index.m3u8
+折翼鸟2024HD中字恐怖片英国,https://cdn.yzzy29-play.com/20250923/2937_8fc687aa/index.m3u8
+谵妄2023HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2936_ec7f3466/index.m3u8
+死亡十年2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2930_6624b6d8/index.m3u8
+强迫2025HD中字恐怖片英国,https://cdn.yzzy29-play.com/20250923/2925_ac34ae1f/index.m3u8
+美国血汗工厂2025HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2923_a4666cd9/index.m3u8
+罗丝的最后一次诊疗2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2922_6d19c113/index.m3u8
+恐怖鬼屋2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250923/2920_465636eb/index.m3u8
+绝命岔路2025HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2919_6271faad/index.m3u8
+环形轨道2023HD中字恐怖片,https://cdn.yzzy29-play.com/20250923/2918_f6c9dc70/index.m3u8
+封门村惊魂2025HD国语恐怖片大陆,https://cdn.yzzy29-play.com/20250923/2915_e9245170/index.m3u8
+满月狂热2023HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2837_353de269/index.m3u8
+黑暗中的回声2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2835_6775a063/index.m3u8
+德古拉：伯爵的亲属2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250922/2833_ade55409/index.m3u8
 
 传话人2024HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250919/2617_75e33da9/index.m3u8
 保持呼吸2025HD中字恐怖片美国,https://cdn.yzzy29-play.com/20250919/2616_a3d06db1/index.m3u8
@@ -7236,6 +7207,32 @@ GADDAR-血腥之水HD中字恐怖片,https://yzzy21.playback-speed.com/20240824/
 
 
 
+
+
+
+不可分割2024HD中字剧情片法国,https://cdn.yzzy28-play.com/20250930/17686_c112115f/index.m3u8
+遥遥乡愁1993HD中字剧情片日本,https://cdn.yzzy29-play.com/20250930/3704_9308b0d6/index.m3u8
+地窖里的人2025HD中字剧情片英国,https://cdn.yzzy29-play.com/20250929/3551_abdeb6f5/index.m3u8
+一战再战TC中字剧情片美国,https://cdn.yzzy29-play.com/20250928/3526_0e4f5cc9/index.m3u8
+放学后病历簿2025秋HD中字剧情片日本,https://cdn.yzzy31-play.com/20250928/449_d61e4bbd/index.m3u8
+寻棺2025HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250928/3504_73231e53/index.m3u8
+列宁在十月1937HD中字版剧情片,https://cdn.yzzy31-play.com/20250928/368_cf004fdc/index.m3u8
+瓜棚女杰1985HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250927/3400_e945de21/index.m3u8
+孟姜女(上)1986DVD国语剧情片大陆,https://cdn.yzzy28-play.com/20250926/16711_2da909b3/index.m3u8
+孟姜女(下)1986DVD国语剧情片大陆,https://cdn.yzzy28-play.com/20250926/16712_8344cdd7/index.m3u8
+冤途路改2024HD中字剧情片美国,https://cdn.yzzy29-play.com/20250923/2935_b6617980/index.m3u8
+未定嫁期2025HD中字剧情片,https://cdn.yzzy29-play.com/20250923/2932_c429429b/index.m3u8
+西北前线HD中字剧情片英国,https://cdn.yzzy27-play.com/20250924/20631_485a14fd/index.m3u8
+给我一个拥抱 - Hatchetman 2/2024HD中字剧情片美国,https://cdn.yzzy29-play.com/20250922/2834_9752d873/index.m3u8
+强风吹拂2009HD中字剧情片日本,https://cdn.yzzy29-play.com/20250922/2798_952c3ff9/index.m3u8
+你给我的夏天2007DVD中字剧情片日本,https://cdn.yzzy28-play.com/20250922/16232_dfdae6bd/index.m3u8
+再见*朱莉娅2023HD中字剧情片,https://cdn.yzzy29-play.com/20250919/2626_e354fd90/index.m3u8
+血脉2025HD中字剧情片印度,https://cdn.yzzy29-play.com/20250919/2624_f1748d6b/index.m3u8
+试吃者2025HD中字剧情片,https://cdn.yzzy29-play.com/20250919/2621_cc709032/index.m3u8
+点爱成金2025HD中字剧情片美国,https://cdn.yzzy29-play.com/20250921/2710_de594ef5/index.m3u8
+琵琶魂1982HD国语剧情片大陆,https://cdn.yzzy27-play.com/20250921/20117_56c50767/index.m3u8
+归宿1981HD国语剧情片大陆,https://cdn.yzzy29-play.com/20250921/2674_a8345c3b/index.m3u8
+
 国家养育2025HD中字剧情片美国,https://cdn.yzzy29-play.com/20250919/2619_40173ea4/index.m3u8
 魔爪1990HD国语剧情片大陆,https://cdn.yzzy27-play.com/20250920/19980_81517079/index.m3u8
 工厂蛇患2025HD国语剧情片大陆,https://cdn.yzzy28-play.com/20250919/15806_520a4a78/index.m3u8
@@ -7486,6 +7483,9 @@ X医生：外科医生大门未知子电影版2024HD中字剧情片日本,https:
 
 
 
+战火狙杀2025HD国语战争片大陆,https://cdn.yzzy29-play.com/20250928/3501_d494020f/index.m3u8
+铁拳怒潮2025HD中字战争片,https://cdn.yzzy29-play.com/20250923/2931_86c4ad52/index.m3u8
+解放石家庄1981HD国语战争片大陆,https://cdn.yzzy29-play.com/20250923/2860_894db62f/index.m3u8
 
 地道战1965HD国语战争片大陆,https://cdn.yzzy28-play.com/20250920/15824_594ca739/index.m3u8
 闪闪的红星1974HD国语战争片大陆,https://cdn.yzzy29-play.com/20250919/2639_09a5e2a1/index.m3u8
@@ -8139,6 +8139,9 @@ PT-218的叛军2021(HD中字版),https://yzzy.play-cdn6.com/20220912/14483_2a3b1
 
 
 
+吸血鬼猎人D1985HD中字动画片日本,https://cdn.yzzy29-play.com/20250929/3697_0b105cf1/index.m3u8
+机动战士高达：跨时之战2025HD中字动画片日本,https://cdn.yzzy29-play.com/20250928/3505_2a3d6d6c/index.m3u8
+光之美少女！心动的游戏世界大冒险2024HD中字动画片日本,https://cdn.yzzy29-play.com/20250923/2914_17eb7ecc/index.m3u8
 
 潜艇总动员：冒险岛2025HD国语动画片大陆,https://cdn.yzzy29-play.com/20250831/1220_b24d516b/index.m3u8
 龙珠超：超级人造人HD国语动画片日,https://cdn.yzzy29-play.com/20250822/756_2823f479/index.m3u8
@@ -9342,6 +9345,7 @@ USBA-052 媚薬BDSM 被灌入强力媚药后快乐淫坠 媚薬调教File18 人�
 27:40艾熙91YCM070高考要考好约啪不能少,https://mplay.8dy.one/url-https://vostrely.com/20250925/CKDuNT4M/index.m3u8
 29:43白晶晶91CM-031妻子的谎言,https://mplay.8dy.one/url-https://vostrely.com/20250925/3w8R34Ag/index.m3u8
 53:28安娜91CM-157.中华料理,https://mplay.8dy.one/url-https://vostrely.com/20250925/A3SkU3N7/index.m3u8
+
 
 
 
