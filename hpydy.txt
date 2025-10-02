@@ -33,7 +33,7 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔥1002直播信号🔥,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-川超：达州vs成都,https://pull-flv-l13.douyincdn.com/stage/stream-118071175946174904_or4.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1760004042&major_anchor_level=common&sign=1492327bd1c1322f45bf1246f7785500&t_id=037-202510021800415272C58F40FE380041C3-Yw5Qwz&unique_id=stream-118071175946174904_440_flv_or4&_session_id=327-202510021800424917636152498D45CE99.1759399242491.32273&rsi=0&abr_pts=-800
+川超：达州vs成都,https://zer1nx4cq5tt29xa7gutehj15xlf9oxjzbxh4vjmrbyeiaqmyq.mobgslb.tbcache.com/pull-f3.douyincdn.com/media/stream-694532082663686828_sd.flv?rsi=0&major_anchor_level=common&abr_pts=-800&unique_id=stream-694532082663686828_684_flv_sd&arch_hrchy=w1&t_id=037-20251002183019EC5C814185563A050F36-oeXPCj&exp_hrchy=w1&_session_id=287-202510021830201209144525B3551216E7.1759401020120.03476&auth_key=1760004020-0-0-5665811944eeb2d868e02e93aa70044b&ali_302c=701&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666301&ali_stream_type=01&ali_stream_type_ring=001&ali_orig_station=cn6548&ali_st=cn6042&ali_pv=1759400825&ali_ts=1759401022&ali_g=t43
 2025世界旅游小姐全球总决赛暨颁奖盛典,https://pull-flv-f1.douyincdn.com/media/stream-406301053746938540.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20251002174938EB4CC4E5B6C1E0420B02-2h2m4i&unique_id=stream-406301053746938540_684_flv&wsSecret=a76799b4712f673dd7a647a1dd346116&wsTime=68de4ab2&_session_id=098-2025100217493876264325748E5235CFBC.1759398578762.61697&rsi=0&abr_pts=-800
 
 湖南卫视4K,https://migu.188766.xyz/?migutoken=7cfbe7d4a78d08b04f99dd8f1bd53b9b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
@@ -42,9 +42,9 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 东方卫视4K,https://migu.188766.xyz/?migutoken=d071a95da590b0cd1e6c18ee8da89fc8&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1
 山东卫视4K,https://migu.188766.xyz/?migutoken=4cabf8da6ae4e4cdade8334278776e90&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=2e384d3ade3e9b9cf81f8ce7707dd2b6&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-广东卫视4K,https://migu.188766.xyz/?migutoken=ff5fa95b8688703876a4b24836913b7d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=b50d104680068bc08affa2751b3e02af&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K&pp=1
-四川卫视4K,https://migu.188766.xyz/?migutoken=ddd6c6f0d967e89c1b02f5d3ee24be4d&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%864K&pp=1
+广东卫视4K,https://migu.188766.xyz/?migutoken=ff5fa95b8688703876a4b24836913b7d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+深圳卫视4K,https://migu.188766.xyz/?migutoken=b50d104680068bc08affa2751b3e02af&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&type=yy
+四川卫视4K,https://migu.188766.xyz/?migutoken=ddd6c6f0d967e89c1b02f5d3ee24be4d&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&type=yy
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔥国庆节快乐🔥,#genre#
@@ -9247,6 +9247,7 @@ HMN-186 巨乳姐姐爲全国的慢漏男孩做阴道锻鍊!紧緻出衆!灵敏�
 STARS-659 没有工作时整天呆在酒店 隐藏的空乘bitch 铃原美兰,https://v1.1bbffvip.com/20230402/BfBXEVV5/index.m3u8
 STARS-688 SUPER POSTIVE女优 劳伦花恋初出勤！无限制发射OK,https://c32.dycp444.com/202301/23/0kRCORoi/500kb/hls/index.m3u8
 WO-007 道玄坂WILD CLINIC 今井夏帆,https://b.gg155gg1.com/20250401/8BGjZlfy/index.m3u8
+
 
 
 
