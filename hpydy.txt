@@ -1958,112 +1958,109 @@ CETV01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
 🔴广东体育,http://bxtv.3a.ink/api.php?id=gdty
 🔴广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
 🔴中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-💙	8TV,http://cdn6.163189.xyz/163189/8tv
-💙	CH5,http://cdn6.163189.xyz/163189/ch5
-💙	CH8,http://cdn6.163189.xyz/163189/ch8
-💙	CHU,http://cdn6.163189.xyz/163189/chu
-💙	Now新闻,http://cdn.163189.xyz/163189/now
-💙	Now新闻,https://cdn.163189.xyz/163189/now
 
-★astroAec,http://php.jdshipin.com/smt.php?id=AEC
-★astro爱奇艺标,http://php.jdshipin.com/smt.php?id=Qiyi
-★astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
-★Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-★RHK31,http://php.jdshipin.com:8880/iptv.php?id=rthk31
-★RHK32,http://php.jdshipin.com:8880/iptv.php?id=rthk32
-★RTHK-31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-★RTHK-31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-★RTHK-33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-★TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
-★TVB无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
-★TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-★TVB娱乐新闻台,http://php.jdshipin.com/iptv.php?id=tvbylxw
-★TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
-★VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
-★VIUTV粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-★澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-★澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-★八度空间,http://php.jdshipin.com/smt.php?id=TV8
-★东方卫视4K,http://cdn.jdshipin.com/kkxw.php?id=1
-★翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-★凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-★凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-★凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-★海峡卫视,http://r.jdshipin.com/WtYt3
-★明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-★千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-★无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
-★无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-★无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-★无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
-★无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-★无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-★无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-★无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-★无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-★无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
-★无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-★无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
-★无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-★有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
-★有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-★有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-★重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-💗ATV[1280x720],http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-💗tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
-💗澳视卫星[1920x1080],http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-💗番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-💗生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-💗纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-🔵RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-🔵RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
-🔵美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-🔵美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-🔵天映,http://php.jdshipin.com/smt.php?id=Celestial
-🔵天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-🔵重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-🔺Now新闻,http://cdn.163189.xyz/163189/now
-🔺TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
-🔺TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
-🔺TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-🔺澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
-🔺澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-🔺澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
-🔺动物星球国,http://61.221.215.25:8800/hls/57/index.m3u8
-🔺法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-🔺番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-🔺翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-🔺翡翠台,http://bxtv.3a.ink/api.php?id=fct
-🔺凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-🔺凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
-🔺凤凰中文,http://m.061899.xyz/mg/fhzw
-🔺凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
-🔺凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
-🔺鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-🔺韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-🔺华藏卫视,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
-🔺环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-🔺寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-🔺寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
-🔺莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
-🔺龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-🔺龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-🔺龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-🔺明珠台,http://bxtv.3a.ink/api.php?id=mz
-🔺人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-🔺三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-🔺三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
-🔺沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-🔺台视新闻,http://222.128.55.152:9080/live/ts.m3u8
-🔺唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-🔺无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
-🔺无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
-🔺无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
-🔺新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-🔺亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-🔺中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-🔺中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-
+💙澳视澳门,http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
+💙澳视卫星,http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
+💙澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+💙ATV,http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+💙凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
+💙中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+💙寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
+💙台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+💙翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+💙TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+💙人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+💙生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+💙番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+💙番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+💙三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+💙三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
+💙中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+💙纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+💙动物星球国,http://61.221.215.25:8800/hls/57/index.m3u8
+💙tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
+💙韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+💙Now新闻,http://cdn.163189.xyz/163189/now
+💙东方卫视4K,http://cdn.jdshipin.com/kkxw.php?id=1
+💙8TV,http://cdn6.163189.xyz/163189/8tv
+💙CH5,http://cdn6.163189.xyz/163189/ch5
+💙CH8,http://cdn6.163189.xyz/163189/ch8
+💙CHU,http://cdn6.163189.xyz/163189/chu
+💙TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+💙法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+💙莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
+💙澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+💙凤凰中文,http://m.061899.xyz/mg/fhzw
+💙唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+💙TVB娱乐新闻台,http://php.jdshipin.com/iptv.php?id=tvbylxw
+💙无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct
+💙无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
+💙无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
+💙有线综合国高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
+💙有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+💙TVBJ1美,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+💙RTHK-31,http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
+💙VIUTV粤,http://php.jdshipin.com/PLTV/iptv.php?id=viutv2
+💙astroAec,http://php.jdshipin.com/smt.php?id=AEC
+💙天映,http://php.jdshipin.com/smt.php?id=Celestial
+💙天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
+💙astro欢喜,http://php.jdshipin.com/smt.php?id=Huahee
+💙无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
+💙astro爱奇艺标,http://php.jdshipin.com/smt.php?id=Qiyi
+💙八度空间,http://php.jdshipin.com/smt.php?id=TV8
+💙无线千禧,http://php.jdshipin.com/smt.php?id=Tvbclassic
+💙无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
+💙无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
+💙无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+💙澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+💙澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+💙重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+💙无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+💙无线翡翠,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+💙有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+💙美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+💙无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+💙RTHK-31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+💙RTHK-33,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+💙VIUTV粤,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+💙RHK31,http://php.jdshipin.com:8880/iptv.php?id=rthk31
+💙RHK32,http://php.jdshipin.com:8880/iptv.php?id=rthk32
+💙无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+💙翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+💙美亚电影国,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+💙明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+💙凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+💙凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+💙TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+💙Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+💙重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+💙无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+💙凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+💙RHK31,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
+💙RHK32,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
+💙千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+💙TVB娱乐新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbylxw
+💙TVB无线新闻台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
+💙海峡卫视,http://r.jdshipin.com/WtYt3
+💙沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+💙凤凰香港频临,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
+💙凤凰中文频临,http://t.061899.xyz/tl/js/js.php?id=fhwszwt
+💙凤凰资讯频临,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
+💙无线翡翠频临,http://t.061899.xyz/tl/js/js.php?id=tvbfct
+💙无线明珠频临,http://t.061899.xyz/tl/js/js.php?id=tvbmzt
+💙无线新闻频临,http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
+💙新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+💙环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+💙Now新闻,https://cdn.163189.xyz/163189/now
+💙龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+💙龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+💙龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+💙龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+💙龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+💙龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+💙亞洲衛視,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
+💙华藏卫视,https://sg1.amtb.de/liveedge/_definst_/smil:livetv.smil/chunklist_w1071093527_b828000.m3u8
+💙寰宇新闻,https://stream1.freetv.fun/huan-yu-xin-wen-1.m3u8
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🎬⒈动作片库,#genre#
@@ -9539,6 +9536,7 @@ HUNTB-388【老年人是勃不起来了你倒是很大呢】温柔又细緻父�
 MMUS-069小恶魔挑逗美少女仓本堇牧野未央奈,https://b.gg155gg1.com/20250416/8Q1ILTw1/index.m3u8
 ROE-109家政妇既照顾我们整个家也是我们的中出玩物水野优香,https://b.gg155gg1.com/20250405/uz3szdDu/index.m3u8
 SSIS-565害羞恍惚停不下来的高潮两天一夜的温泉约会未步奈奈,https://b.gg155gg1.com/20250403/Ru0MXqXq/index.m3u8
+
 
 
 
