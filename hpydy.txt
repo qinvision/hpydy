@@ -126,16 +126,21 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔥电视4K频道🔥,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
 湖南卫视4K,https://migu.188766.xyz/?migutoken=7cfbe7d4a78d08b04f99dd8f1bd53b9b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=8d3bc3f695a15705b574892ea03fe612&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4k,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 江苏卫视4K,https://migu.188766.xyz/?migutoken=ecbb658d951f4ddef73fc42e3746354e&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K&pp=1
 东方卫视4K,https://migu.188766.xyz/?migutoken=d071a95da590b0cd1e6c18ee8da89fc8&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1
 山东卫视4K,https://migu.188766.xyz/?migutoken=4cabf8da6ae4e4cdade8334278776e90&id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%864K&pp=1
 北京卫视4K,https://migu.188766.xyz/?migutoken=2e384d3ade3e9b9cf81f8ce7707dd2b6&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 广东卫视4K,https://migu.188766.xyz/?migutoken=ff5fa95b8688703876a4b24836913b7d&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
 深圳卫视4K,https://migu.188766.xyz/?migutoken=b50d104680068bc08affa2751b3e02af&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&type=yy
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
 四川卫视4K,https://migu.188766.xyz/?migutoken=ddd6c6f0d967e89c1b02f5d3ee24be4d&id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&type=yy
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 🔥上线20251003🔥,#genre#
@@ -234,53 +239,7 @@ CCTV15-音乐,http://118.248.172.250:8088/tsfile/live/0015_1.m3u8?key=txiptv&pla
 贵州卫视高清,http://118.248.172.250:8088/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
 IPTV体育高清,http://118.248.172.250:8088/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0$湖南邵阳电信
 
-CCTV1,http://cssbyd.imwork.net:8082/hls/1/index.m3u8$湖南直播源
-CCTV2,http://cssbyd.imwork.net:8082/hls/2/index.m3u8$湖南直播源
-CCTV3,http://cssbyd.imwork.net:8082/hls/3/index.m3u8$湖南直播源
-CCTV4,http://cssbyd.imwork.net:8082/hls/4/index.m3u8$湖南直播源
-CCTV5,http://cssbyd.imwork.net:8082/hls/5/index.m3u8$湖南直播源
-CCTV6,http://cssbyd.imwork.net:8082/hls/7/index.m3u8$湖南直播源
-CCTV7,http://cssbyd.imwork.net:8082/hls/8/index.m3u8$湖南直播源
-CCTV8,http://cssbyd.imwork.net:8082/hls/9/index.m3u8$湖南直播源
-CCTV9,http://cssbyd.imwork.net:8082/hls/10/index.m3u8$湖南直播源
-CCTV10,http://cssbyd.imwork.net:8082/hls/11/index.m3u8$湖南直播源
-CCTV11,http://cssbyd.imwork.net:8082/hls/12/index.m3u8$湖南直播源
-CCTV12,http://cssbyd.imwork.net:8082/hls/13/index.m3u8$湖南直播源
-CCTV14,http://cssbyd.imwork.net:8082/hls/15/index.m3u8$湖南直播源
-CCTV15,http://cssbyd.imwork.net:8082/hls/16/index.m3u8$湖南直播源
-北京卫视,http://cssbyd.imwork.net:8082/hls/23/index.m3u8$湖南直播源
-东方卫视,http://cssbyd.imwork.net:8082/hls/25/index.m3u8$湖南直播源
-东南卫视,http://cssbyd.imwork.net:8082/hls/30/index.m3u8$湖南直播源
-甘肃卫视,http://cssbyd.imwork.net:8082/hls/48/index.m3u8$湖南直播源
-广东卫视,http://cssbyd.imwork.net:8082/hls/24/index.m3u8$湖南直播源
-广西卫视,http://cssbyd.imwork.net:8082/hls/33/index.m3u8$湖南直播源
-贵州卫视,http://cssbyd.imwork.net:8082/hls/39/index.m3u8$湖南直播源
-海南卫视,http://cssbyd.imwork.net:8082/hls/31/index.m3u8$湖南直播源
-河北卫视,http://cssbyd.imwork.net:8082/hls/40/index.m3u8$湖南直播源
-河南卫视,http://cssbyd.imwork.net:8082/hls/37/index.m3u8$湖南直播源
-黑龙江卫视,http://cssbyd.imwork.net:8082/hls/38/index.m3u8$湖南直播源
-湖北卫视,http://cssbyd.imwork.net:8082/hls/32/index.m3u8$湖南直播源
-湖南爱晚,http://cssbyd.imwork.net:8082/hls/19/index.m3u8$湖南直播源
-湖南电影,http://cssbyd.imwork.net:8082/hls/18/index.m3u8$湖南直播源
-湖南金鹰卡通,http://cssbyd.imwork.net:8082/hls/14/index.m3u8$湖南直播源
-湖南卫视,http://cssbyd.imwork.net:8082/hls/17/index.m3u8$湖南直播源
-湖南娱乐,http://cssbyd.imwork.net:8082/hls/20/index.m3u8$湖南直播源
-吉林卫视,http://cssbyd.imwork.net:8082/hls/41/index.m3u8$湖南直播源
-江苏卫视,http://cssbyd.imwork.net:8082/hls/21/index.m3u8$湖南直播源
-江西卫视,http://cssbyd.imwork.net:8082/hls/27/index.m3u8$湖南直播源
-辽宁卫视,http://cssbyd.imwork.net:8082/hls/29/index.m3u8$湖南直播源
-内蒙古卫视,http://cssbyd.imwork.net:8082/hls/44/index.m3u8$湖南直播源
-宁夏卫视,http://cssbyd.imwork.net:8082/hls/45/index.m3u8$湖南直播源
-山东卫视,http://cssbyd.imwork.net:8082/hls/34/index.m3u8$湖南直播源
-山西卫视,http://cssbyd.imwork.net:8082/hls/43/index.m3u8$湖南直播源
-陕西卫视,http://cssbyd.imwork.net:8082/hls/42/index.m3u8$湖南直播源
-深圳卫视,http://cssbyd.imwork.net:8082/hls/28/index.m3u8$湖南直播源
-天津卫视,http://cssbyd.imwork.net:8082/hls/26/index.m3u8$湖南直播源
-西藏卫视,http://cssbyd.imwork.net:8082/hls/46/index.m3u8$湖南直播源
-新疆卫视,http://cssbyd.imwork.net:8082/hls/47/index.m3u8$湖南直播源
-云南卫视,http://cssbyd.imwork.net:8082/hls/36/index.m3u8$湖南直播源
-浙江卫视,http://cssbyd.imwork.net:8082/hls/22/index.m3u8$湖南直播源
-重庆卫视,http://cssbyd.imwork.net:8082/hls/35/index.m3u8$湖南直播源
+
 
 CCTV1,http://116.232.150.101:6000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 CCTV2,http://116.232.150.101:6000/tsfile/live/0001_2.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
@@ -333,6 +292,48 @@ CCTV17,http://116.232.150.101:6000/tsfile/live/0001_16.m3u8?key=txiptv&playlive=
 第一财经,http://116.232.150.101:6000/tsfile/live/0001_49.m3u8?key=txiptv&playlive=1&authid=0$上海电信酒店
 
 
+CCTV1,https://60.191.56.186:8888/hls/1/index.m3u8$浙江杭州电信
+CCTV2,https://60.191.56.186:8888/hls/2/index.m3u8$浙江杭州电信
+CCTV3,https://60.191.56.186:8888/hls/3/index.m3u8$浙江杭州电信
+CCTV4,https://60.191.56.186:8888/hls/4/index.m3u8$浙江杭州电信
+CCTV5,https://60.191.56.186:8888/hls/5/index.m3u8$浙江杭州电信
+CCTV5+,https://60.191.56.186:8888/hls/15/index.m3u8$浙江杭州电信
+CCTV6,https://60.191.56.186:8888/hls/6/index.m3u8$浙江杭州电信
+CCTV7,https://60.191.56.186:8888/hls/7/index.m3u8$浙江杭州电信
+CCTV8,https://60.191.56.186:8888/hls/8/index.m3u8$浙江杭州电信
+CCTV9,https://60.191.56.186:8888/hls/9/index.m3u8$浙江杭州电信
+CCTV10,https://60.191.56.186:8888/hls/10/index.m3u8$浙江杭州电信
+CCTV11,https://60.191.56.186:8888/hls/11/index.m3u8$浙江杭州电信
+CCTV12,https://60.191.56.186:8888/hls/12/index.m3u8$浙江杭州电信
+CCTV13,https://60.191.56.186:8888/hls/13/index.m3u8$浙江杭州电信
+CCTV14,https://60.191.56.186:8888/hls/14/index.m3u8$浙江杭州电信
+CCTV15,https://60.191.56.186:8888/hls/18/index.m3u8$浙江杭州电信
+CCTV16,https://60.191.56.186:8888/hls/16/index.m3u8$浙江杭州电信
+CCTV17,https://60.191.56.186:8888/hls/19/index.m3u8$浙江杭州电信
+湖南卫视,https://60.191.56.186:8888/hls/31/index.m3u8$浙江杭州电信
+北京卫视,https://60.191.56.186:8888/hls/34/index.m3u8$浙江杭州电信
+浙江卫视,https://60.191.56.186:8888/hls/17/index.m3u8$浙江杭州电信
+山东卫视,https://60.191.56.186:8888/hls/46/index.m3u8$浙江杭州电信
+东方卫视,https://60.191.56.186:8888/hls/30/index.m3u8$浙江杭州电信
+安徽卫视,https://60.191.56.186:8888/hls/32/index.m3u8$浙江杭州电信
+江苏卫视,https://60.191.56.186:8888/hls/33/index.m3u8$浙江杭州电信
+重庆卫视,https://60.191.56.186:8888/hls/35/index.m3u8$浙江杭州电信
+贵州卫视,https://60.191.56.186:8888/hls/36/index.m3u8$浙江杭州电信
+四川卫视,https://60.191.56.186:8888/hls/37/index.m3u8$浙江杭州电信
+广东卫视,https://60.191.56.186:8888/hls/38/index.m3u8$浙江杭州电信
+天津卫视,https://60.191.56.186:8888/hls/41/index.m3u8$浙江杭州电信
+河南卫视,https://60.191.56.186:8888/hls/57/index.m3u8$浙江杭州电信
+河北卫视,https://60.191.56.186:8888/hls/43/index.m3u8$浙江杭州电信
+东南卫视,https://60.191.56.186:8888/hls/47/index.m3u8$浙江杭州电信
+湖北卫视,https://60.191.56.186:8888/hls/48/index.m3u8$浙江杭州电信
+辽宁卫视,https://60.191.56.186:8888/hls/49/index.m3u8$浙江杭州电信
+江西卫视,https://60.191.56.186:8888/hls/50/index.m3u8$浙江杭州电信
+黑龙江卫视,https://60.191.56.186:8888/hls/44/index.m3u8$浙江杭州电信
+HTV-1,https://60.191.56.186:8888/hls/25/index.m3u8$浙江杭州电信
+HTV-2,https://60.191.56.186:8888/hls/26/index.m3u8$浙江杭州电信
+HTV-3,https://60.191.56.186:8888/hls/27/index.m3u8$浙江杭州电信
+HTV-4,https://60.191.56.186:8888/hls/28/index.m3u8$浙江杭州电信
+HTV-5,https://60.191.56.186:8888/hls/29/index.m3u8$浙江杭州电信
 
 黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
 湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
@@ -9529,6 +9530,7 @@ HUNTB-388【老年人是勃不起来了你倒是很大呢】温柔又细緻父�
 MMUS-069小恶魔挑逗美少女仓本堇牧野未央奈,https://b.gg155gg1.com/20250416/8Q1ILTw1/index.m3u8
 ROE-109家政妇既照顾我们整个家也是我们的中出玩物水野优香,https://b.gg155gg1.com/20250405/uz3szdDu/index.m3u8
 SSIS-565害羞恍惚停不下来的高潮两天一夜的温泉约会未步奈奈,https://b.gg155gg1.com/20250403/Ru0MXqXq/index.m3u8
+
 
 
 
