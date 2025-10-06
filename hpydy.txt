@@ -81,6 +81,7 @@ CCTV4K,http://113.101.245.149:9988/udp/239.77.0.194:5146
 百事通4K纪实,
 北京卫视4K,http://183.164.37.4:4022/udp/238.1.79.24:4304
 东方卫视4K,http://113.101.245.149:9988/udp/239.77.0.59:5146
+东方卫视4K,http://cdn.jdshipin.com/kkxw.php?id=1
 东方卫视4K,http://183.164.37.4:4022/udp/238.1.79.39:4428
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
 广东卫视4K,http://113.101.245.149:9988/udp/239.77.0.65:5146
@@ -112,7 +113,8 @@ CCTV4K,http://113.101.245.149:9988/udp/239.77.0.194:5146
 
 
 
-
+真人版乱马1/2HD中字喜剧片日本,https://cdn.yzzy28-play.com/20251006/18419_7ce3f75e/index.m3u8
+雀色時1992HD中字剧情片日本,https://cdn.yzzy31-play.com/20251006/1497_55c567fd/index.m3u8
 致命录像带：万圣节2025HD中字恐怖片美国,https://cdn.yzzy28-play.com/20251005/18397_e41ca909/index.m3u8
 科隆女孩2025HD中字剧情片,https://cdn.yzzy28-play.com/20251005/18392_2b4830a2/index.m3u8
 日晷馆的美女1988HD中字剧情片日本,https://cdn.yzzy29-play.com/20251005/4360_b74084f6/index.m3u8
@@ -2010,15 +2012,11 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$7
 💙澳门莲花,http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 💙ATV,http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
 💙凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
-💙中天新闻,http://222.128.55.152:9080/live/fc.m3u8
-💙寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-💙台视新闻,http://222.128.55.152:9080/live/ts.m3u8
 💙翡翠台,http://36.36.200.198:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 💙TVB明珠台,http://36.36.200.198:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 💙人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 💙生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 💙番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-💙番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 💙三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 💙三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8?txiptv&playlive
 💙中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
@@ -2027,12 +2025,11 @@ CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17$7
 💙tvbs闽南,http://61.221.215.25:8800/hls/9/index.m3u8
 💙韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 💙Now新闻,http://cdn.163189.xyz/163189/now
-💙东方卫视4K,http://cdn.jdshipin.com/kkxw.php?id=1
 💙8TV,http://cdn6.163189.xyz/163189/8tv
 💙CH5,http://cdn6.163189.xyz/163189/ch5
 💙CH8,http://cdn6.163189.xyz/163189/ch8
 💙CHU,http://cdn6.163189.xyz/163189/chu
-💙TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
+💙CNA亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 💙法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 💙莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 💙澳门莲花,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
@@ -9582,6 +9579,7 @@ SDMU-987 女友借出活动 在此募集能满足女友无止尽性慾的男性 
 SSIS-560 【诶？要在这裏做吗？】对河北彩花的一整月密着跟拍 前所未见的整蛊AV,https://b.gg155gg1.com/20250327/ESSkJ7cu/index.m3u8
 STARS-711 宫岛芽衣的射精援助,https://b.gg155gg1.com/20250403/6EP7RGbt/index.m3u8
 STARS-726 爲了治疗跳舞受伤的腰部 去到按摩店 最羞耻的私处被碰到,https://b.gg155gg1.com/20250415/YWAu4Gio/index.m3u8
+
 
 
 
