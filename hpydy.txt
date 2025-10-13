@@ -62,44 +62,45 @@ IPV6③　https://m3u.ibert.me/txt/fmml_ipv6.txt
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 CCTV16 4K,
-CCTV4K,http://113.101.245.149:9988/udp/239.77.0.194:5146
+
+CCTV4K,
+
 爱上4K,
+
 百事通4K电影,
+
 百事通4K儿童,
+
 百事通4K纪实,
-北京卫视4K,http://183.164.37.4:4022/udp/238.1.79.24:4304
-东方卫视4K,http://113.101.245.149:9988/udp/239.77.0.59:5146
-东方卫视4K,http://183.164.37.4:4022/udp/238.1.79.39:4428
-东方卫视4K,http://cdn.jdshipin.com/kkxw.php?id=1
+
+北京卫视4K,
+
+东方卫视4K,
+
 翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
-广东卫视4K,http://113.101.245.149:9988/udp/239.77.0.65:5146
+
+广东卫视4K,
+
 河北4K,http://106.53.99.30/tv/api.php?id=hebtv4k
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-湖南卫视,http://go.bkpcp.top/mg/hunws
-湖南卫视,http://j.s.bkpcp.top/jj/hunws
-湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
-湖南卫视频临,http://m.061899.xyz/mg/hunws
+
+湖南卫视4K,
+
 欢笑剧场4K,
-江苏卫视4K,http://113.101.245.149:9988/udp/239.77.0.57:5146
-江苏卫视4K,http://183.164.37.4:4022/udp/238.1.78.37:4088
-山东卫视4K,http://183.164.37.4:4022/udp/238.1.79.29:4344
-深圳卫视4K,http://113.101.245.149:9988/udp/239.77.0.67:5146
+
+江苏卫视4K,
+
+江苏卫视4K,
+
+山东卫视4K,
+
 深圳卫视4K,http://124.116.170.138:8081/udp/239.111.205.104:5140
-深圳卫视4K,http://183.164.37.4:4022/udp/238.1.79.26:4320
-深圳卫视4k,http://go.bkpcp.top/mg/szws
-深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
-四川卫视4K,http://113.101.245.149:9988/udp/239.77.0.60:5146
+
 四川卫视4K,http://124.116.170.138:8081/udp/239.111.205.62:5140
-四川卫视4K,http://183.164.37.4:4022/udp/238.1.79.51:4520
+
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-浙江卫视,http://go.bkpcp.top/mg/zjws
-浙江卫视,http://j.s.bkpcp.top/jj/zjws
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-浙江卫视4K,http://113.101.245.149:9988/udp/239.77.0.58:5146
-浙江卫视4K,http://183.164.37.4:4022/udp/238.1.79.28:4336
+
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 
@@ -9549,6 +9550,7 @@ MIDV-226 同学会那晚 被最讨厌的不良男抽插到想死的程度... 一
 MKMP-459 挥汗巨汉强奸超傲慢雌性小鬼 冬爱ことね,https://b.gg155gg1.com/20250405/3uIYAtQA/index.m3u8
 SDNM-345 身高171cm 曾是写真偶像的奇蹟八头身美人妻 白河花清 41岁,https://b.gg155gg1.com/20250412/4uMZfF1A/index.m3u8
 SDNM-348 有名大学毕业 丈夫是公司职员 但身心没得到满足的人妻 桧山友理香 34岁,https://b.gg155gg1.com/20250419/ruBqq2gl/index.m3u8
+
 
 
 
