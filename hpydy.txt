@@ -56,29 +56,16 @@
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 
 
-CCTV4K,http://106.116.242.254:9999/rtp/239.254.201.67:6000
-CCTV4K,http://171.113.210.156:4022/rtp/239.69.1.12:9712
-CCTV4K,http://58.48.104.134:4022/rtp/239.69.1.12:9712
-CCTV4K,http://59.173.120.39:4022/rtp/239.69.1.12:9712
+
+山东卫视4K,http://59.173.120.39:4022/rtp/239.69.1.12:9712
 北京卫视4K,https://migu.188766.xyz/?migutoken=729accae96bb3b1b9800903e1774759b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-北京卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.51:5140
-东方卫视4K,https://migu.188766.xyz/?migutoken=0538354c99dd7fa6f0b00a24508128d0&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K&pp=1
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
-湖南卫视4K,https://migu.188766.xyz/?migutoken=1ae910df27355d315f6a5a38416e5258&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-湖南卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.63:5140
-华数4K,http://114.254.33.171:18888/rtp/239.3.1.236:2000
-江苏卫视4K,https://migu.188766.xyz/?migutoken=beef0b6cbd5a43f6c6227449ac6862f8&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K&pp=1
-江苏卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.64:5140
 深圳卫视4K,https://migu.188766.xyz/?migutoken=2e587f834770c9bfa0f7022b81383cae&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=344ca316f2cf30f8597cfd5389129ecd&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.104:5140
-四川卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.62:5140
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-淘4K,http://114.254.33.171:18888/rtp/239.3.1.249:8001
 浙江卫视4K,https://migu.188766.xyz/?migutoken=650a973a5109b896337e664629812ad5&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视频4k,http://124.116.170.138:8081/rtp/239.111.205.65:5140
+
 
 
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
@@ -9058,6 +9045,7 @@ HODV-21719 和闺蜜的女朋友在野营车私奔的那个週末我陷入了人
 HUNTB-396 不论是谁都能定额插到爽。温泉旅馆篇２,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250331/K72edZcK/index.m3u8
 JJCC-026 想要精液的出轨妻 SATOMI,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250415/O43wZve8/index.m3u8
 KIR-061 因爲我受伤而来看我的义母 止不住的完全勃起... 宇野栞菜,https://mplay.8dy.one/url-https://v2024.sysybf.com/20250417/rNUgYXR1/index.m3u8
+
 
 
 
