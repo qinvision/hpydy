@@ -433,8 +433,39 @@ GS乐园2008HD中字喜剧片日本,https://cdn.yzzy29-play.com/20251013/5181_3b
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
 📺HPY央视卫视,#genre#
 ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
-
-
+🔴cctv1,http://bxtv.3a.ink/migu.php?id=cctv1
+🔴cctv2,http://bxtv.3a.ink/migu.php?id=cctv2
+🔴cctv3,http://bxtv.3a.ink/migu.php?id=cctv3
+🔴cctv4,http://bxtv.3a.ink/migu.php?id=cctv4
+🔴cctv5,http://bxtv.3a.ink/migu.php?id=cctv5
+🔴cctv5+,http://bxtv.3a.ink/migu.php?id=cctv5p
+🔴cctv6,http://bxtv.3a.ink/migu.php?id=cctv6
+🔴cctv7,http://bxtv.3a.ink/migu.php?id=cctv7
+🔴cctv8,http://bxtv.3a.ink/migu.php?id=cctv8
+🔴cctv9,http://bxtv.3a.ink/migu.php?id=cctv9
+🔴cctv10,http://bxtv.3a.ink/migu.php?id=cctv10
+🔴cctv11,http://bxtv.3a.ink/migu.php?id=cctv11
+🔴cctv12,http://bxtv.3a.ink/migu.php?id=cctv12
+🔴cctv13,http://bxtv.3a.ink/migu.php?id=cctv13
+🔴cctv14,http://bxtv.3a.ink/migu.php?id=cctv14
+🔴cctv15,http://bxtv.3a.ink/migu.php?id=cctv15
+🔴cctv17,http://bxtv.3a.ink/migu.php?id=cctv17
+🔴myTVSUPER18台,http://bxtv.3a.ink/api.php?id=18
+🔴TVBPlus,http://bxtv.3a.ink/api.php?id=tvbp
+🔴明珠台,http://bxtv.3a.ink/api.php?id=mz
+🔴無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+🔴美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+🔴PopC,http://bxtv.3a.ink/api.php?id=popc
+🔴VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+🔴千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+🔴翡翠台,http://bxtv.3a.ink/api.php?id=fct
+🔴鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+🔴鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+🔴鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+🔴NOW新闻,http://bxtv.3a.ink/api.php?id=now
+🔴广东体育,http://bxtv.3a.ink/api.php?id=gdty
+🔴广东珠江,http://bxtv.3a.ink/api.php?id=gdzj
+🔴中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
 
 
 
@@ -9010,6 +9041,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
