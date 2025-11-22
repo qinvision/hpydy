@@ -24,10 +24,10 @@
 
 第 11 轮（11 月 21 日 - 23 日）
 11 月 21 日（周五）19:38：郴州 vs 湘西（郴州市体育中心）,######
-11 月 22 日（周六）15:00：常德 vs 益阳（常德市体育中心）,######
-11 月 22 日（周六）19:38：湘潭 vs 衡阳（湘潭市体育中心）,######
-11 月 22 日（周六）19:38：娄底 vs 永州（娄底市体育中心）,######
-11 月 22 日（周六）19:38：怀化 vs 张家界（怀化体育中心）,######
+11 月 22 日（周六）15:00：常德 vs 益阳（常德市体育中心）,https://72fa7fa6df65914784e4bd83967e510c2a2a18150fa215cb.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-406597036645810860.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1764415502&major_anchor_level=common&sign=a51653906e36886e4829692ef213f339&t_id=037-20251122192501936DE9EA4C93FF482563-HKta2U&unique_id=stream-406597036645810860_684_flv&_session_id=909-20251122192502683552740602E0B9DDDD.1763810702683.29717&rsi=0&abr_pts=-800&TxLiveCode=cold_stream_overload&svr_type=live_oc&tencent_test_client_ip=240e:381:72f8:3200::2&stream=&dispatch_from=OC_MGR175.4.55.196&utime=1763810703654&TxDispType=7&txTliveMsg=S5;CC_EIC1;CC_EIC1;######
+11 月 22 日（周六）19:38：湘潭 vs 衡阳（湘潭市体育中心）,https://pull-flv-f26.douyincdn.com/media/stream-694827721572483756_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=692ad88e&major_anchor_level=common&sign=758623f032bcc5ed7f67c4e31c591de8&t_id=037-202511221927096DD659781882EF4EAE33-jXfl3s&unique_id=stream-694827721572483756_684_flv_sd&_session_id=352-202511221927103765586567AC7E2575C9.1763810830376.47351&rsi=0&abr_pts=-800######
+11 月 22 日（周六）19:38：娄底 vs 永州（娄底市体育中心）,https://b8cb784416eaae817cbd85a7959ca2e3cc4c328be652598e.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-118364328595554988_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1764415565&major_anchor_level=common&sign=f59d88ad740cf10f07f31b5afb964c74&t_id=037-20251122192605262222B9E99D3A542932-vC0cJW&unique_id=stream-118364328595554988_684_flv_sd&_session_id=044-20251122192606523465529D8FDAC1E0B.1763810766052.73417&rsi=0&abr_pts=-800&TxLiveCode=hot_stream_overload&svr_type=live_oc&tencent_test_client_ip=240e:381:72f8:3200::2&stream=&dispatch_from=OC_MGR175.4.55.196&utime=1763810766524&TxDispType=1######
+11 月 22 日（周六）19:38：怀化 vs 张家界（怀化体育中心）,https://30568912fcb358e5c2c342ae0d2d2996d10ca292ec62e589.h2.smtcdns.net/pull-flv-f11.douyincdn.com/media/stream-406596483401908908_sd.flv?arch_hrchy=w1&exp_hrchy=w1&expire=1764415688&major_anchor_level=common&sign=ff42fada1d4bac9f353531d378979774&t_id=037-20251122192808CFA3AC0754CB8554BC32-f06rtY&unique_id=stream-406596483401908908_684_flv_sd&_session_id=543-20251122192809549954579C93CD495EC.1763810889054.30247&rsi=0&abr_pts=-800&TxLiveCode=hot_stream_overload&svr_type=live_oc&tencent_test_client_ip=240e:381:72f8:3200::2&stream=&dispatch_from=OC_MGR175.4.55.196&utime=1763810889449&TxDispType=1######
 11 月 23 日（周日）15:00：株洲 vs 岳阳（株洲市体育中心）,######
 11 月 23 日（周日）19:38：邵阳 vs 长沙（邵阳市体育中心）,######
 第 12 轮（11 月 29 日）
@@ -9061,6 +9061,7 @@ LaughingGor之变节(2009)HD国语版,https://vip.ffzy-play7.com/20221223/9358_1
 倚天屠龙记之圣火雄风(2022)HD国语版,https://yzzy.play-cdn2.com/20220325/1948_086a0e57/index.m3u8
 倚天屠龙记之九阳神功(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1945_e447a055/index.m3u8
 倚天屠龙记之圣火雄风(2022)HD粤语版,https://yzzy.play-cdn2.com/20220325/1947_1c746d3f/index.m3u8
+
 
 
 
